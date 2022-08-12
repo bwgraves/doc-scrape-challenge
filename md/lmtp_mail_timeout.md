@@ -1,4 +1,4 @@
-# lmtp_mail_timeout 
+# lmtp_mail_timeout (default:300s); 
 
 
 The Postfix LMTP client time limit for sending the MAIL FROM command,

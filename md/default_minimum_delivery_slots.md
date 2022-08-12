@@ -1,4 +1,4 @@
-# default_minimum_delivery_slots 
+# default_minimum_delivery_slots (default:3); 
 
 
 How many recipients a message must have in order to invoke the

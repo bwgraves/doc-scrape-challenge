@@ -1,4 +1,4 @@
-# postscreen_use_tls 
+# postscreen_use_tls (default:$; 
 
  Opportunistic TLS: announce STARTTLS support to remote SMTP clients,
 but do not require that clients use TLS encryption. 

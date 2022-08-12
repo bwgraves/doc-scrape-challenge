@@ -1,4 +1,4 @@
-# smtp_mime_header_checks 
+# smtp_mime_header_checks (default:empty); 
 
  Restricted mime_header_checks(5) tables for the Postfix SMTP
 client. These tables are searched while mail is being delivered.

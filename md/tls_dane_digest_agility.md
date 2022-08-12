@@ -1,4 +1,4 @@
-# tls_dane_digest_agility 
+# tls_dane_digest_agility (default:on); 
 
  Configure RFC7671 DANE TLSA digest algorithm agility.
 Do not change this setting from its default value. 

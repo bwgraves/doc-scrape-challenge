@@ -1,4 +1,4 @@
-# cleanup_service_name 
+# cleanup_service_name (default:cleanup); 
 
 
 The name of the cleanup(8) service. This service rewrites addresses

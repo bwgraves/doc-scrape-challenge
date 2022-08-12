@@ -1,4 +1,4 @@
-# default_database_type 
+# default_database_type (default:see"postconf-d"output); 
 
 
 The default database type for use in newaliases(1), postalias(1)

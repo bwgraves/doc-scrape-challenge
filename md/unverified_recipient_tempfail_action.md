@@ -1,4 +1,4 @@
-# unverified_recipient_tempfail_action 
+# unverified_recipient_tempfail_action (default:$; 
 
  The Postfix SMTP server's action when reject_unverified_recipient
 fails due to a temporary error condition. Specify "defer" to defer

@@ -1,4 +1,4 @@
-# unknown_address_tempfail_action 
+# unknown_address_tempfail_action (default:$; 
 
  The Postfix SMTP server's action when reject_unknown_sender_domain
 or reject_unknown_recipient_domain fail due to a temporary error

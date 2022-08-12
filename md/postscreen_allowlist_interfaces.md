@@ -1,4 +1,4 @@
-# postscreen_allowlist_interfaces 
+# postscreen_allowlist_interfaces (default:; 
 
  A list of local postscreen(8) server IP addresses where a
 non-allowlisted remote SMTP client can obtain postscreen(8)'s temporary

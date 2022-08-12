@@ -1,4 +1,4 @@
-# postmulti_control_commands 
+# postmulti_control_commands (default:reloadflush); 
 
  The postfix(1) commands that the postmulti(1) instance manager
 treats as "control" commands, that operate on running instances. For

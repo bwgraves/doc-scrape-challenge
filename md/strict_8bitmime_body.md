@@ -1,4 +1,4 @@
-# strict_8bitmime_body 
+# strict_8bitmime_body (default:no); 
 
 
 Reject 8-bit message body text without 8-bit MIME content encoding

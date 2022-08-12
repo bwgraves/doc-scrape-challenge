@@ -1,4 +1,4 @@
-# tls_legacy_public_key_fingerprints 
+# tls_legacy_public_key_fingerprints (default:no); 
 
  A temporary migration aid for sites that use certificate
 public-key fingerprints with Postfix 2.9.0..2.9.5, which use

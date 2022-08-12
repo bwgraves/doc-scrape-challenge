@@ -1,4 +1,4 @@
-# lmtp_tcp_port 
+# lmtp_tcp_port (default:24); 
 
 
 The default TCP port that the Postfix LMTP client connects to.

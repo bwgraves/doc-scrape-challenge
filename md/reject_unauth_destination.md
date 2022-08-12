@@ -1,4 +1,4 @@
-# reject_unauth_destination Reject the request unless one of the following is true:
+# reject_unauth_destination undefined; Reject the request unless one of the following is true:
 
 
 

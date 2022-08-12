@@ -1,4 +1,4 @@
-# smtp_address_preference 
+# smtp_address_preference (default:any); 
 
  The address type ("ipv6", "ipv4" or "any") that the Postfix
 SMTP client will try first, when a destination has IPv6 and IPv4

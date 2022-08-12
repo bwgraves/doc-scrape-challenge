@@ -1,4 +1,4 @@
-# tlsproxy_watchdog_timeout 
+# tlsproxy_watchdog_timeout (default:10s); 
 
  How much time a tlsproxy(8) process may take to process local
 or remote I/O before it is terminated by a built-in watchdog timer.

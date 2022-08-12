@@ -1,4 +1,4 @@
-# virtual_mailbox_maps 
+# virtual_mailbox_maps (default:empty); 
 
 
 Optional lookup tables with all valid addresses in the domains that

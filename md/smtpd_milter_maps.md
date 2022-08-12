@@ -1,4 +1,4 @@
-# smtpd_milter_maps 
+# smtpd_milter_maps (default:empty); 
 
  Lookup tables with Milter settings per remote SMTP client IP
 address.  The lookup result overrides the smtpd_milters setting,

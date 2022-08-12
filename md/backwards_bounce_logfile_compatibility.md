@@ -1,4 +1,4 @@
-# backwards_bounce_logfile_compatibility 
+# backwards_bounce_logfile_compatibility (default:yes); 
 
 
 Produce additional bounce(8) logfile records that can be read by

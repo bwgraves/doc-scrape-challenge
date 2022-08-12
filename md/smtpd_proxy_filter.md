@@ -1,4 +1,4 @@
-# smtpd_proxy_filter 
+# smtpd_proxy_filter (default:empty); 
 
  The hostname and TCP port of the mail filtering proxy server.
 The proxy receives all mail from the Postfix SMTP server, and is

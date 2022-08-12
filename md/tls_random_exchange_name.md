@@ -1,4 +1,4 @@
-# tls_random_exchange_name 
+# tls_random_exchange_name (default:see"postconf-d"output); 
 
  Name of the pseudo random number generator (PRNG) state file
 that is maintained by tlsmgr(8). The file is created when it does

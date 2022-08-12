@@ -1,4 +1,4 @@
-# smtpd_tls_cert_file 
+# smtpd_tls_cert_file (default:empty); 
 
  File with the Postfix SMTP server RSA certificate in PEM format.
 This file may also contain the Postfix SMTP server private RSA key.

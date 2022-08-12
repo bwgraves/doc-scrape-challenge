@@ -1,4 +1,4 @@
-# smtp_tls_fingerprint_cert_match 
+# smtp_tls_fingerprint_cert_match (default:empty); 
 
  List of acceptable remote SMTP server certificate fingerprints for
 the "fingerprint" TLS security level (smtp_tls_security_level =

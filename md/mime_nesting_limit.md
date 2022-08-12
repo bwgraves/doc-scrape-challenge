@@ -1,4 +1,4 @@
-# mime_nesting_limit 
+# mime_nesting_limit (default:100); 
 
 
 The maximal recursion level that the MIME processor will handle.

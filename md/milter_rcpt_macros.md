@@ -1,4 +1,4 @@
-# milter_rcpt_macros 
+# milter_rcpt_macros (default:see"postconf-d"output); 
 
  The macros that are sent to Milter (mail filter) applications
 after the SMTP RCPT TO command. See MILTER_README

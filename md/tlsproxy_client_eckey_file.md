@@ -1,4 +1,4 @@
-# tlsproxy_client_eckey_file 
+# tlsproxy_client_eckey_file (default:$; 
 
  File with the Postfix tlsproxy(8) client ECDSA private key in PEM
 format. See smtp_tls_eckey_file for further details.  The preferred way

@@ -1,4 +1,4 @@
-# smtpd_starttls_timeout 
+# smtpd_starttls_timeout (default:see"postconf-d"output); 
 
  The time limit for Postfix SMTP server write and read operations
 during TLS startup and shutdown handshake procedures. The current

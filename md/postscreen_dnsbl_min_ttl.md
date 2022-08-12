@@ -1,4 +1,4 @@
-# postscreen_dnsbl_min_ttl 
+# postscreen_dnsbl_min_ttl (default:60s); 
 
  The minimum amount of time that postscreen(8) will use the
 result from a successful DNS-based reputation test before a

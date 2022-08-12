@@ -1,4 +1,4 @@
-# tlsproxy_client_fingerprint_digest 
+# tlsproxy_client_fingerprint_digest (default:$; 
 
  The message digest algorithm used to construct remote TLS server
 certificate fingerprints. See smtp_tls_fingerprint_digest for

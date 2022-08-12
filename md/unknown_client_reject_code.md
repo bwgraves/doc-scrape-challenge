@@ -1,4 +1,4 @@
-# unknown_client_reject_code 
+# unknown_client_reject_code (default:450); 
 
 
 The numerical Postfix SMTP server response code when a client

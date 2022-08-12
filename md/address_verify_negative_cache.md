@@ -1,4 +1,4 @@
-# address_verify_negative_cache 
+# address_verify_negative_cache (default:yes); 
 
 
 Enable caching of failed address verification probe results.  When

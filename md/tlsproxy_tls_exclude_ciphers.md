@@ -1,4 +1,4 @@
-# tlsproxy_tls_exclude_ciphers 
+# tlsproxy_tls_exclude_ciphers (default:$; 
 
  List of ciphers or cipher types to exclude from the tlsproxy(8)
 server cipher list at all TLS security levels. See

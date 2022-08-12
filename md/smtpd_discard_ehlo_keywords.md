@@ -1,4 +1,4 @@
-# smtpd_discard_ehlo_keywords 
+# smtpd_discard_ehlo_keywords (default:empty); 
 
  A case insensitive list of EHLO keywords (pipelining, starttls,
 auth, etc.) that the Postfix SMTP server will not send in the EHLO

@@ -1,4 +1,4 @@
-# tlsproxy_client_eccert_file 
+# tlsproxy_client_eccert_file (default:$; 
 
  File with the Postfix tlsproxy(8) client ECDSA certificate in PEM
 format. See smtp_tls_eccert_file for further details. The preferred way

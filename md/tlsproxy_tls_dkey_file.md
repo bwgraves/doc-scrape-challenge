@@ -1,4 +1,4 @@
-# tlsproxy_tls_dkey_file 
+# tlsproxy_tls_dkey_file (default:$; 
 
  File with the Postfix tlsproxy(8) server DSA private key in PEM
 format.  This file may be combined with the Postfix tlsproxy(8) server

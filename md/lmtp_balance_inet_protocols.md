@@ -1,4 +1,4 @@
-# lmtp_balance_inet_protocols 
+# lmtp_balance_inet_protocols (default:yes); 
 
  The LMTP-specific version of the smtp_balance_inet_protocols
 configuration parameter. See there for details. 

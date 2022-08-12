@@ -1,4 +1,4 @@
-# proxy_write_maps 
+# proxy_write_maps (default:see"postconf-d"output); 
 
  The lookup tables that the proxymap(8) server is allowed to
 access for the read-write service. Postfix-owned local database

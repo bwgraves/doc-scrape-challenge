@@ -1,4 +1,4 @@
-# smtpd_helo_restrictions 
+# smtpd_helo_restrictions (default:empty); 
 
 
 Optional restrictions that the Postfix SMTP server applies in the

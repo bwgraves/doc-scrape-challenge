@@ -1,4 +1,4 @@
-# smtp_rset_timeout 
+# smtp_rset_timeout (default:20s); 
 
  The Postfix SMTP client time limit for sending the RSET command,
 and for receiving the remote SMTP server response. The SMTP client

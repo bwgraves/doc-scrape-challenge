@@ -1,4 +1,4 @@
-# default_transport 
+# default_transport (default:smtp); 
 
 
 The default mail delivery transport and next-hop destination for

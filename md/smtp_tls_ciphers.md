@@ -1,4 +1,4 @@
-# smtp_tls_ciphers 
+# smtp_tls_ciphers (default:medium); 
 
  The minimum TLS cipher grade that the Postfix SMTP client
 will use with opportunistic TLS encryption. Cipher types listed in

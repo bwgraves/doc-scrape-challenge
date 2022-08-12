@@ -1,4 +1,4 @@
-# default_destination_concurrency_limit 
+# default_destination_concurrency_limit (default:20); 
 
 
 The default maximal number of parallel deliveries to the same

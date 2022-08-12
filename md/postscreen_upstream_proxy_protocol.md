@@ -1,4 +1,4 @@
-# postscreen_upstream_proxy_protocol 
+# postscreen_upstream_proxy_protocol (default:empty); 
 
  The name of the proxy protocol used by an optional before-postscreen
 proxy agent. When a proxy agent is used, this protocol conveys local

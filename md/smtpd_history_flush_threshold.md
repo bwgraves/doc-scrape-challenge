@@ -1,4 +1,4 @@
-# smtpd_history_flush_threshold 
+# smtpd_history_flush_threshold (default:100); 
 
 
 The maximal number of lines in the Postfix SMTP server command history

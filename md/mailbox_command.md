@@ -1,4 +1,4 @@
-# mailbox_command 
+# mailbox_command (default:empty); 
 
 
 Optional external command that the local(8) delivery agent should

@@ -1,4 +1,4 @@
-# message_strip_characters 
+# message_strip_characters (default:empty); 
 
  The set of characters that Postfix will remove from message
 content.  The usual C-like escape sequences are recognized: \a

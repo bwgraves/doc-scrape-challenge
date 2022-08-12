@@ -1,4 +1,4 @@
-# lmtp_pix_workarounds 
+# lmtp_pix_workarounds (default:empty); 
 
  The LMTP-specific version of the smtp_pix_workaround
 configuration parameter.  See there for details. 

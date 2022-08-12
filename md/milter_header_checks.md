@@ -1,4 +1,4 @@
-# milter_header_checks 
+# milter_header_checks (default:empty); 
 
  Optional lookup tables for content inspection of message headers
 that are produced by Milter applications.  See the header_checks(5)

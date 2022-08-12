@@ -1,4 +1,4 @@
-# canonical_maps 
+# canonical_maps (default:empty); 
 
 
 Optional address mapping lookup tables for message headers and

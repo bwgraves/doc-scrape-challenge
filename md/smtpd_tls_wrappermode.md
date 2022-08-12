@@ -1,4 +1,4 @@
-# smtpd_tls_wrappermode 
+# smtpd_tls_wrappermode (default:no); 
 
  Run the Postfix SMTP server in TLS "wrapper" mode,
 instead of using the STARTTLS command. 

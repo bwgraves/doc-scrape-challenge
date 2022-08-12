@@ -1,4 +1,4 @@
-# smtp_helo_name 
+# smtp_helo_name (default:$; 
 
 
 The hostname to send in the SMTP HELO or EHLO command.

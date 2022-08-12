@@ -1,4 +1,4 @@
-# postscreen_whitelist_interfaces 
+# postscreen_whitelist_interfaces (default:; 
 
  Renamed to postscreen_allowlist_interfaces in Postfix 3.6. 
 

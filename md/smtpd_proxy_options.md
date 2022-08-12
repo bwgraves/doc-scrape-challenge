@@ -1,4 +1,4 @@
-# smtpd_proxy_options 
+# smtpd_proxy_options (default:empty); 
 
 
 List of options that control how the Postfix SMTP server

@@ -1,4 +1,4 @@
-# mynetworks 
+# mynetworks (default:see"postconf-d"output); 
 
 
 The list of "trusted" remote SMTP clients that have more privileges than

@@ -1,4 +1,4 @@
-# compatibility_level 
+# compatibility_level (default:0); 
 
  A safety net that causes Postfix to run with backwards-compatible
 default settings after an upgrade to a newer Postfix version. 

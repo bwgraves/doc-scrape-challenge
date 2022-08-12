@@ -1,4 +1,4 @@
-# tls_random_source 
+# tls_random_source (default:see"postconf-d"output); 
 
  The external entropy source for the in-memory tlsmgr(8) pseudo
 random number generator (PRNG) pool. Be sure to specify a non-blocking

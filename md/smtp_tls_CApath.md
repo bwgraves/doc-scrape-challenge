@@ -1,4 +1,4 @@
-# smtp_tls_CApath 
+# smtp_tls_CApath (default:empty); 
 
  Directory with PEM format Certification Authority certificates
 that the Postfix SMTP client uses to verify a remote SMTP server

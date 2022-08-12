@@ -1,4 +1,4 @@
-# virtual_mailbox_base 
+# virtual_mailbox_base (default:empty); 
 
 
 A prefix that the virtual(8) delivery agent prepends to all pathname

@@ -1,4 +1,4 @@
-# sleep seconds Pause for the specified number of seconds and proceed with
+# sleep seconds undefined; Pause for the specified number of seconds and proceed with
 the next restriction in the list, if any. This may stop zombie
 mail when used as:
 

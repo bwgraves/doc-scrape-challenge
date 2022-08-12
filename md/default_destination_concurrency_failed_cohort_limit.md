@@ -1,4 +1,4 @@
-# default_destination_concurrency_failed_cohort_limit 
+# default_destination_concurrency_failed_cohort_limit (default:1); 
 
  How many pseudo-cohorts must suffer connection or handshake
 failure before a specific destination is considered unavailable

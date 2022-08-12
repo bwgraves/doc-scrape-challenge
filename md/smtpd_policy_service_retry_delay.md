@@ -1,4 +1,4 @@
-# smtpd_policy_service_retry_delay 
+# smtpd_policy_service_retry_delay (default:1s); 
 
  The delay between attempts to resend a failed SMTPD policy
 service request. Specify a value greater than zero. 

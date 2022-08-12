@@ -1,4 +1,4 @@
-# postscreen_command_filter 
+# postscreen_command_filter (default:$; 
 
  A mechanism to transform commands from remote SMTP clients.
 See smtpd_command_filter for further details. 

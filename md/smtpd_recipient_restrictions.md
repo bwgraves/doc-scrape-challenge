@@ -1,4 +1,4 @@
-# smtpd_recipient_restrictions 
+# smtpd_recipient_restrictions (default:see"postconf-d"output); 
 
 
 Optional restrictions that the Postfix SMTP server applies in the

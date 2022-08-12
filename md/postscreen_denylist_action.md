@@ -1,4 +1,4 @@
-# postscreen_denylist_action 
+# postscreen_denylist_action (default:ignore); 
 
  The action that postscreen(8) takes when a remote SMTP client is
 permanently denylisted with the postscreen_access_list parameter.

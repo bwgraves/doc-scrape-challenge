@@ -1,4 +1,4 @@
-# confirm_delay_cleared 
+# confirm_delay_cleared (default:no); 
 
  After sending a "your message is delayed" notification, inform
 the sender when the delay clears up. This can result in a sudden

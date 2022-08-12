@@ -1,4 +1,4 @@
-# fault_injection_code 
+# fault_injection_code (default:0); 
 
 
 Force specific internal tests to fail, to test the handling of

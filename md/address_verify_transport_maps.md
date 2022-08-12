@@ -1,4 +1,4 @@
-# address_verify_transport_maps 
+# address_verify_transport_maps (default:$; 
 
 
 Overrides the transport_maps parameter setting for address verification

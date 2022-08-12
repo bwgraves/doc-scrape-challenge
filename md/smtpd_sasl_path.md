@@ -1,4 +1,4 @@
-# smtpd_sasl_path 
+# smtpd_sasl_path (default:smtpd); 
 
  Implementation-specific information that the Postfix SMTP server
 passes through to

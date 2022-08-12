@@ -1,4 +1,4 @@
-# remote_header_rewrite_domain 
+# remote_header_rewrite_domain (default:empty); 
 
  Don't rewrite message headers from remote clients at all when
 this parameter is empty; otherwise, rewrite message headers and

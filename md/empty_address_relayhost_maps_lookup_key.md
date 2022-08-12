@@ -1,4 +1,4 @@
-# empty_address_relayhost_maps_lookup_key 
+# empty_address_relayhost_maps_lookup_key (default:&lt;&gt;); 
 
  The sender_dependent_relayhost_maps search string that will be
 used instead of the null sender address. 

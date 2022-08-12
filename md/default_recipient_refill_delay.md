@@ -1,4 +1,4 @@
-# default_recipient_refill_delay 
+# default_recipient_refill_delay (default:5s); 
 
 
 The default per-transport maximum delay between refilling recipients.

@@ -1,4 +1,4 @@
-# smtp_per_record_deadline 
+# smtp_per_record_deadline (default:no); 
 
  Change the behavior of the smtp_*_timeout time limits, from a
 time limit per read or write system call, to a time limit to send

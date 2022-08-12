@@ -1,4 +1,4 @@
-# smtpd_tls_received_header 
+# smtpd_tls_received_header (default:no); 
 
  Request that the Postfix SMTP server produces Received:  message
 headers that include information about the protocol and cipher used,

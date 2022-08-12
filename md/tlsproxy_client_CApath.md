@@ -1,4 +1,4 @@
-# tlsproxy_client_CApath 
+# tlsproxy_client_CApath (default:$; 
 
  Directory with PEM format Certification Authority certificates
 that the Postfix tlsproxy(8) client uses to verify a remote TLS

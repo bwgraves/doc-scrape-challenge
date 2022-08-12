@@ -1,4 +1,4 @@
-# command_expansion_filter 
+# command_expansion_filter (default:see"postconf-d"output); 
 
 
 Restrict the characters that the local(8) delivery agent allows in

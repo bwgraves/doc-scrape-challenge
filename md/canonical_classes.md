@@ -1,4 +1,4 @@
-# canonical_classes 
+# canonical_classes (default:envelope_sender,envelope_recipient,header_sender,header_recipient); 
 
  What addresses are subject to canonical_maps address mapping.
 By default, canonical_maps address mapping is applied to envelope

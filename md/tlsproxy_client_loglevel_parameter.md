@@ -1,4 +1,4 @@
-# tlsproxy_client_loglevel_parameter 
+# tlsproxy_client_loglevel_parameter (default:; 
 
  The name of the parameter that provides the tlsproxy_client_loglevel
 value. 

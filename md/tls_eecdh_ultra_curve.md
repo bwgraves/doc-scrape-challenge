@@ -1,4 +1,4 @@
-# tls_eecdh_ultra_curve 
+# tls_eecdh_ultra_curve (default:secp384r1); 
 
  The elliptic curve used by the Postfix SMTP server for maximally
 strong

@@ -1,4 +1,4 @@
-# append_dot_mydomain 
+# append_dot_mydomain (default:Postfix&ge;3.0:no,Postfix&lt;3.0:yes); 
 
 
 With locally submitted mail, append the string ".$mydomain" to

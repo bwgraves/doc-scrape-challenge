@@ -1,4 +1,4 @@
-# smtp_tls_connection_reuse 
+# smtp_tls_connection_reuse (default:no); 
 
  Try to make multiple deliveries per TLS-encrypted connection.
 This uses the tlsproxy(8) service to encrypt an SMTP connection,

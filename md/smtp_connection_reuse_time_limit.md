@@ -1,4 +1,4 @@
-# smtp_connection_reuse_time_limit 
+# smtp_connection_reuse_time_limit (default:300s); 
 
  The amount of time during which Postfix will use an SMTP
 connection repeatedly.  The timer starts when the connection is

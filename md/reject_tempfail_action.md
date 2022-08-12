@@ -1,4 +1,4 @@
-# reject_tempfail_action 
+# reject_tempfail_action (default:; 
 
  The Postfix SMTP server's action when a reject-type restriction
 fails due to a temporary error condition. Specify "defer" to defer

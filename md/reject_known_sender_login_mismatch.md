@@ -1,4 +1,4 @@
-# reject_known_sender_login_mismatch  When the client is authenticated with SASL, reject the request
+# reject_known_sender_login_mismatch undefined;  When the client is authenticated with SASL, reject the request
 when the MAIL FROM address is listed in $smtpd_sender_login_maps,
 but the SASL login name is not an owner for that address.
 

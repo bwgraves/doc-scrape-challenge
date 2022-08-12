@@ -1,4 +1,4 @@
-# swap_bangpath 
+# swap_bangpath (default:yes); 
 
 
 Enable the rewriting of "site!user" into "user@site".  This is

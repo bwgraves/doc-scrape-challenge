@@ -1,4 +1,4 @@
-# trace_service_name 
+# trace_service_name (default:trace); 
 
 
 The name of the trace service. This service is implemented by the

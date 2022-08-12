@@ -1,4 +1,4 @@
-# smtpd_helo_required 
+# smtpd_helo_required (default:no); 
 
 
 Require that a remote SMTP client introduces itself with the HELO

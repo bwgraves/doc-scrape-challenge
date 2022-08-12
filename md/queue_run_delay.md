@@ -1,4 +1,4 @@
-# queue_run_delay 
+# queue_run_delay (default:300s); 
 
 
 The time between deferred queue scans by the queue manager;

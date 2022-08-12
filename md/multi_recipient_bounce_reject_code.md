@@ -1,4 +1,4 @@
-# multi_recipient_bounce_reject_code 
+# multi_recipient_bounce_reject_code (default:550); 
 
 
 The numerical Postfix SMTP server response code when a remote SMTP

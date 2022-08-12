@@ -1,4 +1,4 @@
-# smtpd_authorized_verp_clients 
+# smtpd_authorized_verp_clients (default:$; 
 
  What remote SMTP clients are allowed to specify the XVERP command.
 This command requests that mail be delivered one recipient at a

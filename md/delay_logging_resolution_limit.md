@@ -1,4 +1,4 @@
-# delay_logging_resolution_limit 
+# delay_logging_resolution_limit (default:2); 
 
  The maximal number of digits after the decimal point when logging
 sub-second delay values.  Specify a number in the range 0..6.  

@@ -1,4 +1,4 @@
-# resolve_null_domain 
+# resolve_null_domain (default:no); 
 
  Resolve an address that ends in the "@" null domain as if the
 local hostname were specified, instead of rejecting the address as

@@ -1,4 +1,4 @@
-# default_recipient_refill_limit 
+# default_recipient_refill_limit (default:100); 
 
 
 The default per-transport limit on the number of recipients refilled at

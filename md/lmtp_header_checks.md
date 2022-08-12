@@ -1,4 +1,4 @@
-# lmtp_header_checks 
+# lmtp_header_checks (default:empty); 
 
  The LMTP-specific version of the smtp_header_checks configuration
 parameter. See there for details. 

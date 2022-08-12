@@ -1,4 +1,4 @@
-# address_verify_virtual_transport 
+# address_verify_virtual_transport (default:$; 
 
 
 Overrides the virtual_transport parameter setting for address

@@ -1,4 +1,4 @@
-# default_verp_delimiters 
+# default_verp_delimiters (default:+=); 
 
  The two default VERP delimiter characters. These are used when
 no explicit delimiters are specified with the SMTP XVERP command

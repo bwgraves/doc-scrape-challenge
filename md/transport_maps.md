@@ -1,4 +1,4 @@
-# transport_maps 
+# transport_maps (default:empty); 
 
 
 Optional lookup tables with mappings from recipient address to

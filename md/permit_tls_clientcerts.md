@@ -1,4 +1,4 @@
-# permit_tls_clientcerts Permit the request when the remote SMTP client certificate
+# permit_tls_clientcerts undefined; Permit the request when the remote SMTP client certificate
 fingerprint or public key fingerprint (Postfix 2.9 and later) is
 listed in $relay_clientcerts.
 The fingerprint digest algorithm is configurable via the

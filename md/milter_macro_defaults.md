@@ -1,4 +1,4 @@
-# milter_macro_defaults 
+# milter_macro_defaults (default:empty); 
 
  Optional list of name=value pairs that specify default
 values for arbitrary macros that Postfix may send to Milter

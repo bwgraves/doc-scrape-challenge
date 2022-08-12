@@ -1,4 +1,4 @@
-# lmtp_tls_eccert_file 
+# lmtp_tls_eccert_file (default:empty); 
 
  The LMTP-specific version of the smtp_tls_eccert_file configuration
 parameter.  See there for details. 

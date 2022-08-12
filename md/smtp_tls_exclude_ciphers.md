@@ -1,4 +1,4 @@
-# smtp_tls_exclude_ciphers 
+# smtp_tls_exclude_ciphers (default:empty); 
 
  List of ciphers or cipher types to exclude from the Postfix
 SMTP client cipher

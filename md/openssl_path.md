@@ -1,4 +1,4 @@
-# openssl_path 
+# openssl_path (default:openssl); 
 
 
 The location of the OpenSSL command line program openssl(1).  This

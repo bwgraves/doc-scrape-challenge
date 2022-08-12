@@ -1,4 +1,4 @@
-# tls_random_reseed_period 
+# tls_random_reseed_period (default:3600s); 
 
  The maximal time between attempts by tlsmgr(8) to re-seed the
 in-memory pseudo random number generator (PRNG) pool from external

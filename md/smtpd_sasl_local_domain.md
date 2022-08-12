@@ -1,4 +1,4 @@
-# smtpd_sasl_local_domain 
+# smtpd_sasl_local_domain (default:empty); 
 
 
 The name of the Postfix SMTP server's local SASL authentication

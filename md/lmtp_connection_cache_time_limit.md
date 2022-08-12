@@ -1,4 +1,4 @@
-# lmtp_connection_cache_time_limit 
+# lmtp_connection_cache_time_limit (default:2s); 
 
  The LMTP-specific version of the
 smtp_connection_cache_time_limit configuration parameter.

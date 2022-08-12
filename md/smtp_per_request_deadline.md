@@ -1,4 +1,4 @@
-# smtp_per_request_deadline 
+# smtp_per_request_deadline (default:no); 
 
  Change the behavior of the smtp_*_timeout time limits, from a
 time limit per plaintext or TLS read or write call, to a combined

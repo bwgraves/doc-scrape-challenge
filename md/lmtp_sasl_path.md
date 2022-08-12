@@ -1,4 +1,4 @@
-# lmtp_sasl_path 
+# lmtp_sasl_path (default:empty); 
 
  Implementation-specific information that is passed through to
 the SASL plug-in implementation that is selected with

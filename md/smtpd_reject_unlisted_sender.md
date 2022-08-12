@@ -1,4 +1,4 @@
-# smtpd_reject_unlisted_sender 
+# smtpd_reject_unlisted_sender (default:no); 
 
  Request that the Postfix SMTP server rejects mail from unknown
 sender addresses, even when no explicit reject_unlisted_sender

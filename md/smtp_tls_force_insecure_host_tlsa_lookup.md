@@ -1,4 +1,4 @@
-# smtp_tls_force_insecure_host_tlsa_lookup 
+# smtp_tls_force_insecure_host_tlsa_lookup (default:no); 
 
  Lookup the associated DANE TLSA RRset even when a hostname is
 not an alias and its address records lie in an unsigned zone.  This

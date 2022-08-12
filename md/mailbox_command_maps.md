@@ -1,4 +1,4 @@
-# mailbox_command_maps 
+# mailbox_command_maps (default:empty); 
 
 
 Optional lookup tables with per-recipient external commands to use

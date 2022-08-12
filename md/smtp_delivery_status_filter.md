@@ -1,4 +1,4 @@
-# smtp_delivery_status_filter 
+# smtp_delivery_status_filter (default:$; 
 
  Optional filter for the smtp(8) delivery agent to change the
 delivery status code or explanatory text of successful or unsuccessful

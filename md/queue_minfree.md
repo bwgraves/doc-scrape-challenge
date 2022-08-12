@@ -1,4 +1,4 @@
-# queue_minfree 
+# queue_minfree (default:0); 
 
 
 The minimal amount of free space in bytes in the queue file system

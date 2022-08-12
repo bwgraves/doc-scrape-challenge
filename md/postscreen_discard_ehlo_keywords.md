@@ -1,4 +1,4 @@
-# postscreen_discard_ehlo_keywords 
+# postscreen_discard_ehlo_keywords (default:$; 
 
  A case insensitive list of EHLO keywords (pipelining, starttls,
 auth, etc.) that the postscreen(8) server will not send in the EHLO

@@ -1,4 +1,4 @@
-# tlsproxy_tls_eccert_file 
+# tlsproxy_tls_eccert_file (default:$; 
 
  File with the Postfix tlsproxy(8) server ECDSA certificate in PEM
 format.  This file may also contain the Postfix tlsproxy(8) server

@@ -1,4 +1,4 @@
-# smtp_tls_block_early_mail_reply 
+# smtp_tls_block_early_mail_reply (default:no); 
 
  Try to detect a mail hijacking attack based on a TLS protocol
 vulnerability (CVE-2009-3555), where an attacker prepends malicious

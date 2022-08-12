@@ -1,4 +1,4 @@
-# home_mailbox 
+# home_mailbox (default:empty); 
 
 
 Optional pathname of a mailbox file relative to a local(8) user's

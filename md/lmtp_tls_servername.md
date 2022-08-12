@@ -1,4 +1,4 @@
-# lmtp_tls_servername 
+# lmtp_tls_servername (default:empty); 
 
  The LMTP-specific version of the smtp_tls_servername configuration
 parameter. See there for details. 

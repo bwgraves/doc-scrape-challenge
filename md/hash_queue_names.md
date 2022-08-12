@@ -1,4 +1,4 @@
-# hash_queue_names 
+# hash_queue_names (default:deferred,defer); 
 
 
 The names of queue directories that are split across multiple

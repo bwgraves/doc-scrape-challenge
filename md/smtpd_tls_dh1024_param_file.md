@@ -1,4 +1,4 @@
-# smtpd_tls_dh1024_param_file 
+# smtpd_tls_dh1024_param_file (default:empty); 
 
  File with DH parameters that the Postfix SMTP server should
 use with non-export EDH ciphers. 

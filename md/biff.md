@@ -1,4 +1,4 @@
-# biff 
+# biff (default:yes); 
 
 
 Whether or not to use the local biff service.  This service sends

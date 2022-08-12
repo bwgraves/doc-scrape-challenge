@@ -1,4 +1,4 @@
-# queue_file_attribute_count_limit 
+# queue_file_attribute_count_limit (default:100); 
 
 
 The maximal number of (name=value) attributes that may be stored

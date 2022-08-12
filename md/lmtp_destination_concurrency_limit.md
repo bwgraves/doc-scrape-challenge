@@ -1,4 +1,4 @@
-# lmtp_destination_concurrency_limit 
+# lmtp_destination_concurrency_limit (default:$; 
 
  The maximal number of parallel deliveries to the same destination
 via the lmtp message delivery transport. This limit is enforced by

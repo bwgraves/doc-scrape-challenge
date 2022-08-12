@@ -1,4 +1,4 @@
-# postscreen_dnsbl_reply_map 
+# postscreen_dnsbl_reply_map (default:empty); 
 
  A mapping from an actual DNSBL domain name which includes a secret
 password, to the DNSBL domain name that postscreen will reply with

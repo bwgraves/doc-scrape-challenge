@@ -1,4 +1,4 @@
-# default_delivery_slot_discount 
+# default_delivery_slot_discount (default:50); 
 
 
 The default value for transport-specific _delivery_slot_discount

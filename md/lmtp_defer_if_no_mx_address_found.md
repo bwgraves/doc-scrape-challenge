@@ -1,4 +1,4 @@
-# lmtp_defer_if_no_mx_address_found 
+# lmtp_defer_if_no_mx_address_found (default:no); 
 
  The LMTP-specific version of the smtp_defer_if_no_mx_address_found
 configuration parameter.  See there for details. 

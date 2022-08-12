@@ -1,4 +1,4 @@
-# dnssec_probe 
+# dnssec_probe (default:ns:.); 
 
  The DNS query type (default: "ns") and DNS query name (default:
 ".") that Postfix may use to determine whether DNSSEC validation

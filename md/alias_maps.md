@@ -1,4 +1,4 @@
-# alias_maps 
+# alias_maps (default:see"postconf-d"output); 
 
 
 The alias databases that are used for local(8) delivery. See

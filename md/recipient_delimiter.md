@@ -1,4 +1,4 @@
-# recipient_delimiter 
+# recipient_delimiter (default:empty); 
 
  The set of characters that can separate an email address
 localpart, user name, or a .forward file name from its extension.

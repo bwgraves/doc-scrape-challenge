@@ -1,4 +1,4 @@
-# mail_version 
+# mail_version (default:see"postconf-d"output); 
 
 
 The version of the mail system. Stable releases are named

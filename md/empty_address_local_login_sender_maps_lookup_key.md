@@ -1,4 +1,4 @@
-# empty_address_local_login_sender_maps_lookup_key 
+# empty_address_local_login_sender_maps_lookup_key (default:&lt;&gt;); 
 
 
 The lookup key to be used in local_login_sender_maps tables, instead

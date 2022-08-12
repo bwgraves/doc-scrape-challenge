@@ -1,4 +1,4 @@
-# header_from_format 
+# header_from_format (default:standard); 
 
  The format of the Postfix-generated From: header. This
 setting affects the appearance of 'full name' information when a

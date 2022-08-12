@@ -1,4 +1,4 @@
-# allow_untrusted_routing 
+# allow_untrusted_routing (default:no); 
 
 
 Forward mail with sender-specified routing (user[@%!]remote[@%!]site)

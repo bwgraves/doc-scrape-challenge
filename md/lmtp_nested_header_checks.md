@@ -1,4 +1,4 @@
-# lmtp_nested_header_checks 
+# lmtp_nested_header_checks (default:empty); 
 
  The LMTP-specific version of the smtp_nested_header_checks
 configuration parameter. See there for details. 

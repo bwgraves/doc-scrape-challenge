@@ -1,4 +1,4 @@
-# postscreen_discard_ehlo_keyword_address_maps 
+# postscreen_discard_ehlo_keyword_address_maps (default:$; 
 
  Lookup tables, indexed by the remote SMTP client address, with
 case insensitive lists of EHLO keywords (pipelining, starttls, auth,

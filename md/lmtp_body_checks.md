@@ -1,4 +1,4 @@
-# lmtp_body_checks 
+# lmtp_body_checks (default:empty); 
 
  The LMTP-specific version of the smtp_body_checks configuration
 parameter. See there for details. 

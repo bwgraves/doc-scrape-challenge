@@ -1,4 +1,4 @@
-# mail_owner 
+# mail_owner (default:postfix); 
 
 
 The UNIX system account that owns the Postfix queue and most Postfix

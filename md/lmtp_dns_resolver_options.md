@@ -1,4 +1,4 @@
-# lmtp_dns_resolver_options 
+# lmtp_dns_resolver_options (default:empty); 
 
  The LMTP-specific version of the smtp_dns_resolver_options
 configuration parameter.  See there for details. 

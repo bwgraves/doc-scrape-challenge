@@ -1,4 +1,4 @@
-# propagate_unmatched_extensions 
+# propagate_unmatched_extensions (default:canonical,virtual); 
 
 
 What address lookup tables copy an address extension from the lookup

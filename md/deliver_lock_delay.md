@@ -1,4 +1,4 @@
-# deliver_lock_delay 
+# deliver_lock_delay (default:1s); 
 
 
 The time between attempts to acquire an exclusive lock on a mailbox

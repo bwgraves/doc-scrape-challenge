@@ -1,4 +1,4 @@
-# tlsproxy_tls_mandatory_protocols 
+# tlsproxy_tls_mandatory_protocols (default:$; 
 
  The SSL/TLS protocols accepted by the Postfix tlsproxy(8) server
 with mandatory TLS encryption. If the list is empty, the server

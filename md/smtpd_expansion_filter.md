@@ -1,4 +1,4 @@
-# smtpd_expansion_filter 
+# smtpd_expansion_filter (default:see"postconf-d"output); 
 
 
 What characters are allowed in $name expansions of RBL reply

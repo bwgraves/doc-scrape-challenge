@@ -1,4 +1,4 @@
-# header_address_token_limit 
+# header_address_token_limit (default:10240); 
 
 
 The maximal number of address tokens are allowed in an address

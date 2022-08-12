@@ -1,4 +1,4 @@
-# smtpd_tls_protocols 
+# smtpd_tls_protocols (default:seepostconf-doutput); 
 
  TLS protocols accepted by the Postfix SMTP server with opportunistic
 TLS encryption. If the list is empty, the server supports all available

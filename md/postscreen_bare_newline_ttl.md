@@ -1,4 +1,4 @@
-# postscreen_bare_newline_ttl 
+# postscreen_bare_newline_ttl (default:30d); 
 
  The amount of time that postscreen(8) will use the result from
 a successful "bare newline" SMTP protocol test. During this

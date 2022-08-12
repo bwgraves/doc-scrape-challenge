@@ -1,4 +1,4 @@
-# transport_recipient_refill_delay 
+# transport_recipient_refill_delay (default:$; 
 
  A transport-specific override for the default_recipient_refill_delay
 parameter value, where transport is the master.cf name of

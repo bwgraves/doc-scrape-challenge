@@ -1,4 +1,4 @@
-# warn_if_reject  A safety net for testing. When "warn_if_reject" is placed
+# warn_if_reject undefined;  A safety net for testing. When "warn_if_reject" is placed
 before a reject-type restriction, access table query, or
 check_policy_service query, this logs a "reject_warning" message
 instead of rejecting a request (when a reject-type restriction fails

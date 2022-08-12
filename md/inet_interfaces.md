@@ -1,4 +1,4 @@
-# inet_interfaces 
+# inet_interfaces (default:all); 
 
  The local network interface addresses that this mail system receives
 mail on. Specify "all" to receive mail on all network

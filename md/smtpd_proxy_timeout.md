@@ -1,4 +1,4 @@
-# smtpd_proxy_timeout 
+# smtpd_proxy_timeout (default:100s); 
 
 
 The time limit for connecting to a proxy filter and for sending or

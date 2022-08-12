@@ -1,4 +1,4 @@
-# smtp_dns_resolver_options 
+# smtp_dns_resolver_options (default:empty); 
 
  DNS Resolver options for the Postfix SMTP client.  Specify zero
 or more of the following options, separated by comma or whitespace.

@@ -1,4 +1,4 @@
-# tlsproxy_tls_key_file 
+# tlsproxy_tls_key_file (default:$; 
 
  File with the Postfix tlsproxy(8) server RSA private key in PEM
 format.  This file may be combined with the Postfix tlsproxy(8) server

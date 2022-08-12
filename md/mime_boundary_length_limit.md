@@ -1,4 +1,4 @@
-# mime_boundary_length_limit 
+# mime_boundary_length_limit (default:2048); 
 
 
 The maximal length of MIME multipart boundary strings. The MIME

@@ -1,4 +1,4 @@
-# plaintext_reject_code 
+# plaintext_reject_code (default:450); 
 
 
 The numerical Postfix SMTP server response code when a request

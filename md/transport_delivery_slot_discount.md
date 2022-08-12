@@ -1,4 +1,4 @@
-# transport_delivery_slot_discount 
+# transport_delivery_slot_discount (default:$; 
 
  A transport-specific override for the default_delivery_slot_discount
 parameter value, where transport is the master.cf name of

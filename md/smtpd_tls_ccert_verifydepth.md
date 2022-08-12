@@ -1,4 +1,4 @@
-# smtpd_tls_ccert_verifydepth 
+# smtpd_tls_ccert_verifydepth (default:9); 
 
  The verification depth for remote SMTP client certificates. A
 depth of 1 is sufficient if the issuing CA is listed in a local CA

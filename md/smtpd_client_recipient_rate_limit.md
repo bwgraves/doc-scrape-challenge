@@ -1,4 +1,4 @@
-# smtpd_client_recipient_rate_limit 
+# smtpd_client_recipient_rate_limit (default:0); 
 
 
 The maximal number of recipient addresses that any client is allowed

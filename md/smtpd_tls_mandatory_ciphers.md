@@ -1,4 +1,4 @@
-# smtpd_tls_mandatory_ciphers 
+# smtpd_tls_mandatory_ciphers (default:medium); 
 
  The minimum TLS cipher grade that the Postfix SMTP server will
 use with mandatory TLS encryption. The default grade ("medium") is

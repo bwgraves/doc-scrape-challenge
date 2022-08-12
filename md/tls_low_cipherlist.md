@@ -1,4 +1,4 @@
-# tls_low_cipherlist 
+# tls_low_cipherlist (default:see"postconf-d"output); 
 
  The OpenSSL cipherlist for "low" or higher grade ciphers. This defines
 the meaning of the "low" setting in smtpd_tls_ciphers,

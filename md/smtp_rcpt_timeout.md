@@ -1,4 +1,4 @@
-# smtp_rcpt_timeout 
+# smtp_rcpt_timeout (default:300s); 
 
 
 The Postfix SMTP client time limit for sending the SMTP RCPT TO

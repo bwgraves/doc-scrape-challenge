@@ -1,4 +1,4 @@
-# verp_delimiter_filter 
+# verp_delimiter_filter (default:-=+); 
 
 
 The characters Postfix accepts as VERP delimiter characters on the

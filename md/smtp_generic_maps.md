@@ -1,4 +1,4 @@
-# smtp_generic_maps 
+# smtp_generic_maps (default:empty); 
 
  Optional lookup tables that perform address rewriting in the
 Postfix SMTP client, typically to transform a locally valid address into

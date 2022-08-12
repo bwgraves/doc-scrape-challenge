@@ -1,4 +1,4 @@
-# smtpd_enforce_tls 
+# smtpd_enforce_tls (default:no); 
 
  Mandatory TLS: announce STARTTLS support to remote SMTP clients,
 and require that clients use TLS encryption.  According to RFC 2487

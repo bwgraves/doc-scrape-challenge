@@ -1,4 +1,4 @@
-# smtp_bind_address_enforce 
+# smtp_bind_address_enforce (default:no); 
 
  Defer delivery when the Postfix SMTP client cannot apply the
 smtp_bind_address or smtp_bind_address6 setting. By default, the

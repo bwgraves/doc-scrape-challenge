@@ -1,4 +1,4 @@
-# smtp_pix_workaround_threshold_time 
+# smtp_pix_workaround_threshold_time (default:500s); 
 
  How long a message must be queued before the Postfix SMTP client
 turns on the PIX firewall "&lt;CR&gt;&lt;LF&gt;.&lt;CR&gt;&lt;LF&gt;"

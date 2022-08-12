@@ -1,4 +1,4 @@
-# tlsproxy_tls_loglevel 
+# tlsproxy_tls_loglevel (default:$; 
 
  Enable additional Postfix tlsproxy(8) server logging of TLS
 activity.  Each logging level also includes the information that

@@ -1,4 +1,4 @@
-# stress 
+# stress (default:empty); 
 
  This feature is documented in the STRESS_README document. 
 

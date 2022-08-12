@@ -1,4 +1,4 @@
-# smtpd_command_filter 
+# smtpd_command_filter (default:empty); 
 
  A mechanism to transform commands from remote SMTP clients.
 This is a last-resort tool to work around client commands that break

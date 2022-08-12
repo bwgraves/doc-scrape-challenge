@@ -1,4 +1,4 @@
-# lmtp_sasl_security_options 
+# lmtp_sasl_security_options (default:noplaintext,noanonymous); 
 
  SASL security options; as of Postfix 2.3 the list of available
 features depends on the SASL client implementation that is selected

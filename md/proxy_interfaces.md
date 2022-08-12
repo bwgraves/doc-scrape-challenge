@@ -1,4 +1,4 @@
-# proxy_interfaces 
+# proxy_interfaces (default:empty); 
 
 
 The remote network interface addresses that this mail system receives mail

@@ -1,4 +1,4 @@
-# trigger_timeout 
+# trigger_timeout (default:10s); 
 
 
 The time limit for sending a trigger to a Postfix daemon (for

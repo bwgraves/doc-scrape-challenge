@@ -1,4 +1,4 @@
-# transport_initial_destination_concurrency 
+# transport_initial_destination_concurrency (default:$; 
 
  A transport-specific override for the initial_destination_concurrency
 parameter value, where transport is the master.cf name of

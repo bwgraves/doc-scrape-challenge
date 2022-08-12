@@ -1,4 +1,4 @@
-# qmgr_ipc_timeout 
+# qmgr_ipc_timeout (default:60s); 
 
  The time limit for the queue manager to send or receive information
 over an internal communication channel.  The purpose is to break

@@ -1,4 +1,4 @@
-# authorized_flush_users 
+# authorized_flush_users (default:; 
 
 
 List of users who are authorized to flush the queue.

@@ -1,4 +1,4 @@
-# showq_service_name 
+# showq_service_name (default:showq); 
 
 
 The name of the showq(8) service. This service produces mail queue

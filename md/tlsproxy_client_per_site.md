@@ -1,4 +1,4 @@
-# tlsproxy_client_per_site 
+# tlsproxy_client_per_site (default:$; 
 
  Optional lookup tables with the Postfix tlsproxy(8) client TLS
 usage policy by next-hop destination and by remote TLS server

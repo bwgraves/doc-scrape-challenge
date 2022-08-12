@@ -1,4 +1,4 @@
-# smtpd_forbidden_commands 
+# smtpd_forbidden_commands (default:CONNECTGETPOST; 
 
 
 List of commands that cause the Postfix SMTP server to immediately

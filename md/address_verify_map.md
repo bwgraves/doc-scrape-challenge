@@ -1,4 +1,4 @@
-# address_verify_map 
+# address_verify_map (default:see"postconf-d"output); 
 
 
 Lookup table for persistent address verification status

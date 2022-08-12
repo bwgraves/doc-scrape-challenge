@@ -1,4 +1,4 @@
-# address_verify_positive_expire_time 
+# address_verify_positive_expire_time (default:31d); 
 
 
 The time after which a successful probe expires from the address

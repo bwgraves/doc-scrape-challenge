@@ -1,4 +1,4 @@
-# queue_directory 
+# queue_directory (default:see"postconf-d"output); 
 
 
 The location of the Postfix top-level queue directory. This is the

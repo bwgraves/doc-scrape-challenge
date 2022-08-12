@@ -1,4 +1,4 @@
-# tlsproxy_tls_mandatory_ciphers 
+# tlsproxy_tls_mandatory_ciphers (default:$; 
 
  The minimum TLS cipher grade that the Postfix tlsproxy(8) server
 will use with mandatory TLS encryption. See smtpd_tls_mandatory_ciphers

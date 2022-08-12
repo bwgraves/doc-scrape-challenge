@@ -1,4 +1,4 @@
-# sender_dependent_relayhost_maps 
+# sender_dependent_relayhost_maps (default:empty); 
 
  A sender-dependent override for the global relayhost parameter
 setting. The tables are searched by the envelope sender address and

@@ -1,4 +1,4 @@
-# local_destination_recipient_limit 
+# local_destination_recipient_limit (default:1); 
 
  The maximal number of recipients per message delivery via the
 local mail delivery transport. This limit is enforced by the queue

@@ -1,4 +1,4 @@
-# smtpd_proxy_ehlo 
+# smtpd_proxy_ehlo (default:$; 
 
 
 How the Postfix SMTP server announces itself to the proxy filter.

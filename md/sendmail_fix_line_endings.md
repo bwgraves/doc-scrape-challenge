@@ -1,4 +1,4 @@
-# sendmail_fix_line_endings 
+# sendmail_fix_line_endings (default:always); 
 
  Controls how the Postfix sendmail command converts email message
 line endings from &lt;CR&gt;&lt;LF&gt; into UNIX format (&lt;LF&gt;).

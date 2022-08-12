@@ -1,4 +1,4 @@
-# permit_dnswl_client dnswl_domain=d.d.d.d Accept the request when the reversed client network address is
+# permit_dnswl_client dnswl_domain=d.d.d.d undefined; Accept the request when the reversed client network address is
 listed with the A record "d.d.d.d" under dnswl_domain.
 Each "d" is a number, or a pattern inside "[]" that contains
 one or more ";"-separated numbers or number..number ranges.

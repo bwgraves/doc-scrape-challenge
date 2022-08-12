@@ -1,4 +1,4 @@
-# smtp_data_init_timeout 
+# smtp_data_init_timeout (default:120s); 
 
 
 The Postfix SMTP client time limit for sending the SMTP DATA command,

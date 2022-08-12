@@ -1,4 +1,4 @@
-# master_service_disable 
+# master_service_disable (default:empty); 
 
  Selectively disable master(8) listener ports by service type
 or by service name and type.  Specify a list of service types

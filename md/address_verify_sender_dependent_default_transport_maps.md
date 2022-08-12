@@ -1,4 +1,4 @@
-# address_verify_sender_dependent_default_transport_maps 
+# address_verify_sender_dependent_default_transport_maps (default:$; 
 
  Overrides the sender_dependent_default_transport_maps parameter
 setting for address verification probes.  

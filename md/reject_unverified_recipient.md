@@ -1,4 +1,4 @@
-# reject_unverified_recipient Reject the request when mail to the RCPT TO address is known
+# reject_unverified_recipient undefined; Reject the request when mail to the RCPT TO address is known
 to bounce, or when the recipient address destination is not reachable.
 Address verification information is managed by the verify(8) server;
 see the ADDRESS_VERIFICATION_README file for details.   The

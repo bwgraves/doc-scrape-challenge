@@ -1,4 +1,4 @@
-# message_drop_headers 
+# message_drop_headers (default:bcc,content-length,resent-bcc,return-path); 
 
  Names of message headers that the cleanup(8) daemon will remove
 after applying header_checks(5) and before invoking Milter applications.

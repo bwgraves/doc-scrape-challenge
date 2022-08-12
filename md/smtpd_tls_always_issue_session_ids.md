@@ -1,4 +1,4 @@
-# smtpd_tls_always_issue_session_ids 
+# smtpd_tls_always_issue_session_ids (default:yes); 
 
  Force the Postfix SMTP server to issue a TLS session id, even
 when TLS session caching is turned off (smtpd_tls_session_cache_database

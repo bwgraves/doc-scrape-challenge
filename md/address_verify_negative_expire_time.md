@@ -1,4 +1,4 @@
-# address_verify_negative_expire_time 
+# address_verify_negative_expire_time (default:3d); 
 
 
 The time after which a failed probe expires from the address

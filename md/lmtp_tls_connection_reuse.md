@@ -1,4 +1,4 @@
-# lmtp_tls_connection_reuse 
+# lmtp_tls_connection_reuse (default:no); 
 
  The LMTP-specific version of the smtp_tls_connection_reuse configuration
 parameter. See there for details. 

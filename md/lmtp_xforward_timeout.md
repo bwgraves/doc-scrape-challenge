@@ -1,4 +1,4 @@
-# lmtp_xforward_timeout 
+# lmtp_xforward_timeout (default:300s); 
 
 
 The Postfix LMTP client time limit for sending the XFORWARD command,

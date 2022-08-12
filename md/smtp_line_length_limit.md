@@ -1,4 +1,4 @@
-# smtp_line_length_limit 
+# smtp_line_length_limit (default:998); 
 
 
 The maximal length of message header and body lines that Postfix

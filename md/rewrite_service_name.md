@@ -1,4 +1,4 @@
-# rewrite_service_name 
+# rewrite_service_name (default:rewrite); 
 
 
 The name of the address rewriting service. This service rewrites

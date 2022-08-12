@@ -1,4 +1,4 @@
-# local_recipient_maps 
+# local_recipient_maps (default:; 
 
  Lookup tables with all names or addresses of local recipients:
 a recipient address is local when its domain matches $mydestination,

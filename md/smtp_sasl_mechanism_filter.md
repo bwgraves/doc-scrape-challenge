@@ -1,4 +1,4 @@
-# smtp_sasl_mechanism_filter 
+# smtp_sasl_mechanism_filter (default:empty); 
 
 
 If non-empty, a Postfix SMTP client filter for the remote SMTP

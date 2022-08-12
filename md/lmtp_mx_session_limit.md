@@ -1,4 +1,4 @@
-# lmtp_mx_session_limit 
+# lmtp_mx_session_limit (default:2); 
 
  The LMTP-specific version of the smtp_mx_session_limit configuration
 parameter.  See there for details. 

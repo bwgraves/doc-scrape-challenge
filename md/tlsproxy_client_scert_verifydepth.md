@@ -1,4 +1,4 @@
-# tlsproxy_client_scert_verifydepth 
+# tlsproxy_client_scert_verifydepth (default:$; 
 
  The verification depth for remote TLS server certificates.
 See smtp_tls_scert_verifydepth for further details. 

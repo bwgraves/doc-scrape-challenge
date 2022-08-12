@@ -1,4 +1,4 @@
-# non_smtpd_milters 
+# non_smtpd_milters (default:empty); 
 
  A list of Milter (mail filter) applications for new mail that
 does not arrive via the Postfix smtpd(8) server. This includes local

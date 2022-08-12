@@ -1,4 +1,4 @@
-# smtpd_data_restrictions 
+# smtpd_data_restrictions (default:empty); 
 
 
 Optional access restrictions that the Postfix SMTP server applies

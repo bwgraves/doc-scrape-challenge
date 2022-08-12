@@ -1,4 +1,4 @@
-# smtp_tls_protocols 
+# smtp_tls_protocols (default:seepostconf-doutput); 
 
  TLS protocols that the Postfix SMTP client will use with
 opportunistic TLS encryption.  In main.cf the values are separated by

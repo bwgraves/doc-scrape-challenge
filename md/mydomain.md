@@ -1,4 +1,4 @@
-# mydomain 
+# mydomain (default:see"postconf-d"output); 
 
 
 The internet domain name of this mail system.  The default is to

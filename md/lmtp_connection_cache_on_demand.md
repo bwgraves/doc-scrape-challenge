@@ -1,4 +1,4 @@
-# lmtp_connection_cache_on_demand 
+# lmtp_connection_cache_on_demand (default:yes); 
 
  The LMTP-specific version of the smtp_connection_cache_on_demand
 configuration parameter.  See there for details. 

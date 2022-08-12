@@ -1,4 +1,4 @@
-# tlsproxy_client_enforce_tls 
+# tlsproxy_client_enforce_tls (default:$; 
 
  Enforcement mode: require that SMTP servers use TLS encryption.
 See smtp_enforce_tls for further details. Use

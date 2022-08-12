@@ -1,4 +1,4 @@
-# access_map_defer_code 
+# access_map_defer_code (default:450); 
 
 
 The numerical Postfix SMTP server response code for

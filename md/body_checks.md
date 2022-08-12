@@ -1,4 +1,4 @@
-# body_checks 
+# body_checks (default:empty); 
 
  Optional lookup tables for content inspection as specified in
 the body_checks(5) manual page.  

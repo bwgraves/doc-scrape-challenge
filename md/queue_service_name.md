@@ -1,4 +1,4 @@
-# queue_service_name 
+# queue_service_name (default:qmgr); 
 
 
 The name of the qmgr(8) service. This service manages the Postfix

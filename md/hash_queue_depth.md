@@ -1,4 +1,4 @@
-# hash_queue_depth 
+# hash_queue_depth (default:1); 
 
 
 The number of subdirectory levels for queue directories listed with

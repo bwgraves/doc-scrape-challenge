@@ -1,4 +1,4 @@
-# address_verify_relayhost 
+# address_verify_relayhost (default:$; 
 
 
 Overrides the relayhost parameter setting for address verification

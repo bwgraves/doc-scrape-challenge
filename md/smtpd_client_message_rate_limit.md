@@ -1,4 +1,4 @@
-# smtpd_client_message_rate_limit 
+# smtpd_client_message_rate_limit (default:0); 
 
 
 The maximal number of message delivery requests that any client is

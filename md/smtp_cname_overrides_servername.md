@@ -1,4 +1,4 @@
-# smtp_cname_overrides_servername 
+# smtp_cname_overrides_servername (default:versiondependent); 
 
  When the remote SMTP servername is a DNS CNAME, replace the
 servername with the result from CNAME expansion for the purpose of

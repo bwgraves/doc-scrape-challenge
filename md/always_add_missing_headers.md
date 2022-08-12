@@ -1,4 +1,4 @@
-# always_add_missing_headers 
+# always_add_missing_headers (default:no); 
 
  Always add (Resent-) From:, To:, Date: or Message-ID: headers
 when not present.  Postfix 2.6 and later add these headers only

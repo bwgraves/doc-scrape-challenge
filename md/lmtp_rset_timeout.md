@@ -1,4 +1,4 @@
-# lmtp_rset_timeout 
+# lmtp_rset_timeout (default:20s); 
 
  The Postfix LMTP client time limit for sending the RSET command,
 and for receiving the remote LMTP server response. The LMTP client

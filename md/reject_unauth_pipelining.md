@@ -1,4 +1,4 @@
-# reject_unauth_pipelining Reject the request when the client sends SMTP commands ahead
+# reject_unauth_pipelining undefined; Reject the request when the client sends SMTP commands ahead
 of time where it is not allowed, or when the client sends SMTP
 commands ahead of time without knowing that Postfix actually supports
 ESMTP command pipelining. This stops mail from bulk mail software

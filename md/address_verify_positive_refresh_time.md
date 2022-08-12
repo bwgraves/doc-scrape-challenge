@@ -1,4 +1,4 @@
-# address_verify_positive_refresh_time 
+# address_verify_positive_refresh_time (default:7d); 
 
 
 The time after which a successful address verification probe needs

@@ -1,4 +1,4 @@
-# lmtp_tls_session_cache_timeout 
+# lmtp_tls_session_cache_timeout (default:3600s); 
 
  The LMTP-specific version of the smtp_tls_session_cache_timeout
 configuration parameter.  See there for details. 

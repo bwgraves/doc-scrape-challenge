@@ -1,4 +1,4 @@
-# smtp_tls_fingerprint_digest 
+# smtp_tls_fingerprint_digest (default:see"postconf-d"output); 
 
  The message digest algorithm used to construct remote SMTP server
 certificate fingerprints. At the "fingerprint" TLS security level

@@ -1,4 +1,4 @@
-# local_header_rewrite_clients 
+# local_header_rewrite_clients (default:; 
 
  Rewrite message header addresses in mail from these clients and
 update incomplete addresses with the domain name in $myorigin or

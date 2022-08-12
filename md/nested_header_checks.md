@@ -1,4 +1,4 @@
-# nested_header_checks 
+# nested_header_checks (default:$; 
 
 
 Optional lookup tables for content inspection of non-MIME message

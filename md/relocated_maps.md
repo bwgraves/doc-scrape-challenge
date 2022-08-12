@@ -1,4 +1,4 @@
-# relocated_maps 
+# relocated_maps (default:empty); 
 
 
 Optional lookup tables with new contact information for users or

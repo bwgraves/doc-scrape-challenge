@@ -1,4 +1,4 @@
-# postscreen_reject_footer_maps 
+# postscreen_reject_footer_maps (default:$; 
 
  Optional lookup table for information that is appended after a 4XX
 or 5XX postscreen(8) server response. See smtpd_reject_footer_maps for

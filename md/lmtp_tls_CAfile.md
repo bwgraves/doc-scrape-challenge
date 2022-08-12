@@ -1,4 +1,4 @@
-# lmtp_tls_CAfile 
+# lmtp_tls_CAfile (default:empty); 
 
  The LMTP-specific version of the smtp_tls_CAfile
 configuration parameter.  See there for details. 

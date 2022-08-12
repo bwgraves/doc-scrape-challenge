@@ -1,4 +1,4 @@
-# reject_unknown_helo_hostname Reject the request when the HELO or EHLO hostname has no DNS A
+# reject_unknown_helo_hostname undefined; Reject the request when the HELO or EHLO hostname has no DNS A
 or MX record.  The reply is specified with the
 unknown_hostname_reject_code parameter (default: 450) or
 unknown_helo_hostname_tempfail_action (default: defer_if_permit).

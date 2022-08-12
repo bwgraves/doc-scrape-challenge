@@ -1,4 +1,4 @@
-# qmgr_clog_warn_time 
+# qmgr_clog_warn_time (default:300s); 
 
 
 The minimal delay between warnings that a specific destination is

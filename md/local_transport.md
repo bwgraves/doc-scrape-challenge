@@ -1,4 +1,4 @@
-# local_transport 
+# local_transport (default:; 
 
  The default mail delivery transport and next-hop destination
 for final delivery to domains listed with mydestination, and for

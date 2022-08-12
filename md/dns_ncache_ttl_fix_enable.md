@@ -1,4 +1,4 @@
-# dns_ncache_ttl_fix_enable 
+# dns_ncache_ttl_fix_enable (default:no); 
 
  Enable a workaround for future libc incompatibility. The Postfix
 implementation of RFC 2308 negative reply caching relies on the

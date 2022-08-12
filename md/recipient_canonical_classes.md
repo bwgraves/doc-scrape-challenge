@@ -1,4 +1,4 @@
-# recipient_canonical_classes 
+# recipient_canonical_classes (default:envelope_recipient,header_recipient); 
 
  What addresses are subject to recipient_canonical_maps address
 mapping.  By default, recipient_canonical_maps address mapping is

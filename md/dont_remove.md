@@ -1,4 +1,4 @@
-# dont_remove 
+# dont_remove (default:0); 
 
 
 Don't remove queue files and save them to the "saved" mail queue.

@@ -1,4 +1,4 @@
-# lmtp_connection_reuse_count_limit 
+# lmtp_connection_reuse_count_limit (default:0); 
 
  The LMTP-specific version of the smtp_connection_reuse_count_limit
 configuration parameter.  See there for details. 

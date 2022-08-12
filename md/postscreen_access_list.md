@@ -1,4 +1,4 @@
-# postscreen_access_list 
+# postscreen_access_list (default:; 
 
  Permanent allow/denylist for remote SMTP client IP addresses.
 postscreen(8) searches this list immediately after a remote SMTP

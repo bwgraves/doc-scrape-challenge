@@ -1,4 +1,4 @@
-# body_checks_size_limit 
+# body_checks_size_limit (default:51200); 
 
 
 How much text in a message body segment (or attachment, if you

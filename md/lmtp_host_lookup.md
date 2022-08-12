@@ -1,4 +1,4 @@
-# lmtp_host_lookup 
+# lmtp_host_lookup (default:dns); 
 
  The LMTP-specific version of the smtp_host_lookup configuration
 parameter.  See there for details. 

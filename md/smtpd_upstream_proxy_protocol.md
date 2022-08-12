@@ -1,4 +1,4 @@
-# smtpd_upstream_proxy_protocol 
+# smtpd_upstream_proxy_protocol (default:empty); 
 
  The name of the proxy protocol used by an optional before-smtpd
 proxy agent. When a proxy agent is used, this protocol conveys local

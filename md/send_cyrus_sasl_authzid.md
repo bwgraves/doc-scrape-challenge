@@ -1,4 +1,4 @@
-# send_cyrus_sasl_authzid 
+# send_cyrus_sasl_authzid (default:no); 
 
  When authenticating to a remote SMTP or LMTP server with the
 default setting "no", send no SASL authoriZation ID (authzid); send

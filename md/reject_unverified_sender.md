@@ -1,4 +1,4 @@
-# reject_unverified_sender Reject the request when mail to the MAIL FROM address is known to
+# reject_unverified_sender undefined; Reject the request when mail to the MAIL FROM address is known to
 bounce, or when the sender address destination is not reachable.
 Address verification information is managed by the verify(8) server;
 see the ADDRESS_VERIFICATION_README file for details.  The

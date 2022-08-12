@@ -1,4 +1,4 @@
-# check_reverse_client_hostname_mx_access Search the specified access(5) database for the MX hosts for the
+# check_reverse_client_hostname_mx_access ; Search the specified access(5) database for the MX hosts for the
 unverified reverse client hostname, and execute the corresponding
 action.  If no MX record is found, look up A or AAAA records, just
 like the Postfix SMTP client would.

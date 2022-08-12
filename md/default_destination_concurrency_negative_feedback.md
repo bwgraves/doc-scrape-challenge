@@ -1,4 +1,4 @@
-# default_destination_concurrency_negative_feedback 
+# default_destination_concurrency_negative_feedback (default:1); 
 
  The per-destination amount of delivery concurrency negative
 feedback, after a delivery completes with a connection or handshake

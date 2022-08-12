@@ -1,4 +1,4 @@
-# smtpd_client_event_limit_exceptions 
+# smtpd_client_event_limit_exceptions (default:$; 
 
 
 Clients that are excluded from smtpd_client_*_count/rate_limit

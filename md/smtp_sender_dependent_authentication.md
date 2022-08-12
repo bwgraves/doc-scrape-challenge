@@ -1,4 +1,4 @@
-# smtp_sender_dependent_authentication 
+# smtp_sender_dependent_authentication (default:no); 
 
 
 Enable sender-dependent authentication in the Postfix SMTP client; this is

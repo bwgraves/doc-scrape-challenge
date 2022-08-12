@@ -1,4 +1,4 @@
-# info_log_address_format 
+# info_log_address_format (default:external); 
 
  The email address form that will be used in non-debug logging
 (info, warning, etc.). As of Postfix 3.5 when an address localpart

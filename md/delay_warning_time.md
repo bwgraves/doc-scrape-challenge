@@ -1,4 +1,4 @@
-# delay_warning_time 
+# delay_warning_time (default:0h); 
 
 
 The time after which the sender receives a copy of the message

@@ -1,4 +1,4 @@
-# tlsproxy_client_security_level 
+# tlsproxy_client_security_level (default:$; 
 
  The default TLS security level for the Postfix tlsproxy(8)
 client. See smtp_tls_security_level for further details. 

@@ -1,4 +1,4 @@
-# postscreen_cache_cleanup_interval 
+# postscreen_cache_cleanup_interval (default:12h); 
 
  The amount of time between postscreen(8) cache cleanup runs.
 Cache cleanup increases the load on the cache database and should

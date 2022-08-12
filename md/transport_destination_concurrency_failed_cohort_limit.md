@@ -1,4 +1,4 @@
-# transport_destination_concurrency_failed_cohort_limit 
+# transport_destination_concurrency_failed_cohort_limit (default:$; 
 
  A transport-specific override for the
 default_destination_concurrency_failed_cohort_limit parameter value,

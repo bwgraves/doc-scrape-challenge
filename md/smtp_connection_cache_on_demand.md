@@ -1,4 +1,4 @@
-# smtp_connection_cache_on_demand 
+# smtp_connection_cache_on_demand (default:yes); 
 
  Temporarily enable SMTP connection caching while a destination
 has a high volume of mail in the active queue.  With SMTP connection

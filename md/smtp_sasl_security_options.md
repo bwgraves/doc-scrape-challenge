@@ -1,4 +1,4 @@
-# smtp_sasl_security_options 
+# smtp_sasl_security_options (default:noplaintext,noanonymous); 
 
  Postfix SMTP client SASL security options; as of Postfix 2.3
 the list of available

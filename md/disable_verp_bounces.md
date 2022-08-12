@@ -1,4 +1,4 @@
-# disable_verp_bounces 
+# disable_verp_bounces (default:no); 
 
 
 Disable sending one bounce report per recipient.

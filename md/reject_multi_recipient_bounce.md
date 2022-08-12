@@ -1,4 +1,4 @@
-# reject_multi_recipient_bounce Reject the request when the envelope sender is the null address,
+# reject_multi_recipient_bounce undefined; Reject the request when the envelope sender is the null address,
 and the message has multiple envelope recipients. This usage has
 rare but legitimate applications: under certain conditions,
 multi-recipient mail that was posted with the DSN option NOTIFY=NEVER

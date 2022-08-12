@@ -1,4 +1,4 @@
-# lmtp_destination_recipient_limit 
+# lmtp_destination_recipient_limit (default:$; 
 
  The maximal number of recipients per message for the lmtp
 message delivery transport. This limit is enforced by the queue

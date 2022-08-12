@@ -1,4 +1,4 @@
-# permit_mx_backup Permit the request when the local mail system is a backup MX for
+# permit_mx_backup undefined; Permit the request when the local mail system is a backup MX for
 the RCPT TO domain, or when the domain is an authorized destination
 (see permit_auth_destination for definition).
 

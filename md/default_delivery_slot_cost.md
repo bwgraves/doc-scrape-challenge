@@ -1,4 +1,4 @@
-# default_delivery_slot_cost 
+# default_delivery_slot_cost (default:5); 
 
 
 How often the Postfix queue manager's scheduler is allowed to

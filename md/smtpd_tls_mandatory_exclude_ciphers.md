@@ -1,4 +1,4 @@
-# smtpd_tls_mandatory_exclude_ciphers 
+# smtpd_tls_mandatory_exclude_ciphers (default:empty); 
 
  Additional list of ciphers or cipher types to exclude from the
 Postfix SMTP server cipher list at mandatory TLS security levels.

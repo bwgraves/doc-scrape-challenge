@@ -1,4 +1,4 @@
-# maillog_file_prefixes 
+# maillog_file_prefixes (default:/var,/dev/stdout); 
 
  A list of allowed prefixes for a maillog_file value. This is a
 safety feature to contain the damage from a single configuration

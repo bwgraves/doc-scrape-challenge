@@ -1,4 +1,4 @@
-# unknown_relay_recipient_reject_code 
+# unknown_relay_recipient_reject_code (default:550); 
 
 
 The numerical Postfix SMTP server reply code when a recipient

@@ -1,4 +1,4 @@
-# smtp_tls_servername 
+# smtp_tls_servername (default:empty); 
 
  Optional name to send to the remote SMTP server in the TLS Server
 Name Indication (SNI) extension.  The SNI extension is always on when

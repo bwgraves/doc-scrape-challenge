@@ -1,4 +1,4 @@
-# postscreen_dnsbl_threshold 
+# postscreen_dnsbl_threshold (default:1); 
 
  The inclusive lower bound for blocking a remote SMTP client, based on
 its combined DNSBL score as defined with the postscreen_dnsbl_sites

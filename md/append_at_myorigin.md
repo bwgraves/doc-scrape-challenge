@@ -1,4 +1,4 @@
-# append_at_myorigin 
+# append_at_myorigin (default:yes); 
 
 
 With locally submitted mail, append the string "@$myorigin" to mail

@@ -1,4 +1,4 @@
-# smtputf8_enable 
+# smtputf8_enable (default:yes); 
 
  Enable preliminary SMTPUTF8 support for the protocols described
 in RFC 6531, RFC 6532, and RFC 6533. This requires that Postfix is

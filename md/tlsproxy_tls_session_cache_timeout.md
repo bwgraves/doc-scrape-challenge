@@ -1,4 +1,4 @@
-# tlsproxy_tls_session_cache_timeout 
+# tlsproxy_tls_session_cache_timeout (default:$; 
 
  Obsolete expiration time of Postfix tlsproxy(8) server TLS session
 cache information. Since the cache is shared with smtpd(8) and managed

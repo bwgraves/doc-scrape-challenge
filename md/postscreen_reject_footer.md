@@ -1,4 +1,4 @@
-# postscreen_reject_footer 
+# postscreen_reject_footer (default:$; 
 
  Optional information that is appended after a 4XX or 5XX
 postscreen(8) server

@@ -1,4 +1,4 @@
-# tlsproxy_enforce_tls 
+# tlsproxy_enforce_tls (default:$; 
 
  Mandatory TLS: announce STARTTLS support to remote SMTP clients, and
 require that clients use TLS encryption. See smtpd_enforce_tls for

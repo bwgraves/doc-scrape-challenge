@@ -1,4 +1,4 @@
-# smtpd_end_of_data_restrictions 
+# smtpd_end_of_data_restrictions (default:empty); 
 
  Optional access restrictions that the Postfix SMTP server
 applies in the context of the SMTP END-OF-DATA command.

@@ -1,4 +1,4 @@
-# smtpd_client_connection_count_limit 
+# smtpd_client_connection_count_limit (default:50); 
 
 
 How many simultaneous connections any client is allowed to

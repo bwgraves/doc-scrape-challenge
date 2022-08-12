@@ -1,4 +1,4 @@
-# tlsproxy_client_policy 
+# tlsproxy_client_policy (default:$; 
 
  Optional lookup tables with the Postfix tlsproxy(8) client TLS
 security policy by next-hop destination. See smtp_tls_policy_maps

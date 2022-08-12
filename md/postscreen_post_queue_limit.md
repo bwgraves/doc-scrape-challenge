@@ -1,4 +1,4 @@
-# postscreen_post_queue_limit 
+# postscreen_post_queue_limit (default:$; 
 
  The number of clients that can be waiting for service from a
 real Postfix SMTP server process. When this queue is full, all

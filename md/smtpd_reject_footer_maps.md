@@ -1,4 +1,4 @@
-# smtpd_reject_footer_maps 
+# smtpd_reject_footer_maps (default:empty); 
 
  Lookup tables, indexed by the complete Postfix SMTP server 4xx or
 5xx response, with reject footer templates. See smtpd_reject_footer

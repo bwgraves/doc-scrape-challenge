@@ -1,4 +1,4 @@
-# transport_destination_recipient_limit 
+# transport_destination_recipient_limit (default:$; 
 
  A transport-specific override for the
 default_destination_recipient_limit parameter value, where

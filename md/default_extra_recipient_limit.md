@@ -1,4 +1,4 @@
-# default_extra_recipient_limit 
+# default_extra_recipient_limit (default:1000); 
 
 
 The default value for the extra per-transport limit imposed on the

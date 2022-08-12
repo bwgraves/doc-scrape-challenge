@@ -1,4 +1,4 @@
-# multi_instance_directories 
+# multi_instance_directories (default:empty); 
 
  An optional list of non-default Postfix configuration directories;
 these directories belong to additional Postfix instances that share

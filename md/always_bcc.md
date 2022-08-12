@@ -1,4 +1,4 @@
-# always_bcc 
+# always_bcc (default:empty); 
 
 
 Optional address that receives a "blind carbon copy" of each message

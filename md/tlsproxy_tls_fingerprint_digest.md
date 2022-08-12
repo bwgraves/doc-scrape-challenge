@@ -1,4 +1,4 @@
-# tlsproxy_tls_fingerprint_digest 
+# tlsproxy_tls_fingerprint_digest (default:$; 
 
  The message digest algorithm to construct remote SMTP
 client-certificate

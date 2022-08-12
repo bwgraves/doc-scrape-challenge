@@ -1,4 +1,4 @@
-# smtp_pix_workaround_maps 
+# smtp_pix_workaround_maps (default:empty); 
 
  Lookup tables, indexed by the remote SMTP server address, with
 per-destination workarounds for CISCO PIX firewall bugs.  The table

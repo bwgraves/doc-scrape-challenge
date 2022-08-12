@@ -1,4 +1,4 @@
-# internal_mail_filter_classes 
+# internal_mail_filter_classes (default:empty); 
 
  What categories of Postfix-generated mail are subject to
 before-queue content inspection by non_smtpd_milters, header_checks

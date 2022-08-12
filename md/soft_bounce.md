@@ -1,4 +1,4 @@
-# soft_bounce 
+# soft_bounce (default:no); 
 
 
 Safety net to keep mail queued that would otherwise be returned to

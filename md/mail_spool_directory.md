@@ -1,4 +1,4 @@
-# mail_spool_directory 
+# mail_spool_directory (default:see"postconf-d"output); 
 
 
 The directory where local(8) UNIX-style mailboxes are kept. The

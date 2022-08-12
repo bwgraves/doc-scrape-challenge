@@ -1,4 +1,4 @@
-# require_home_directory 
+# require_home_directory (default:no); 
 
 
 Require that a local(8) recipient's home directory exists

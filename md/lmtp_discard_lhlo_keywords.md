@@ -1,4 +1,4 @@
-# lmtp_discard_lhlo_keywords 
+# lmtp_discard_lhlo_keywords (default:empty); 
 
  A case insensitive list of LHLO keywords (pipelining, starttls,
 auth, etc.) that the Postfix LMTP client will ignore in the LHLO

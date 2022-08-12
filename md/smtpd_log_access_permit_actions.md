@@ -1,4 +1,4 @@
-# smtpd_log_access_permit_actions 
+# smtpd_log_access_permit_actions (default:empty); 
 
  Enable logging of the named "permit" actions in SMTP server
 access lists (by default, the SMTP server logs "reject" actions but

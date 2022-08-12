@@ -1,4 +1,4 @@
-# smtpd_tls_fingerprint_digest 
+# smtpd_tls_fingerprint_digest (default:see"postconf-d"output); 
 
  The message digest algorithm to construct remote SMTP client-certificate
 fingerprints or public key fingerprints (Postfix 2.9 and later) for

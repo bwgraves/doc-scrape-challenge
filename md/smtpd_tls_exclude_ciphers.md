@@ -1,4 +1,4 @@
-# smtpd_tls_exclude_ciphers 
+# smtpd_tls_exclude_ciphers (default:empty); 
 
  List of ciphers or cipher types to exclude from the SMTP server
 cipher list at all TLS security levels. Excluding valid ciphers

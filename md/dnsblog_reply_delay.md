@@ -1,4 +1,4 @@
-# dnsblog_reply_delay 
+# dnsblog_reply_delay (default:0s); 
 
  A debugging aid to artificially delay DNS responses. 
 

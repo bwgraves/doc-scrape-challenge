@@ -1,4 +1,4 @@
-# tlsproxy_tls_CApath 
+# tlsproxy_tls_CApath (default:$; 
 
  A directory containing (PEM format) CA certificates of root CAs
 trusted to sign either remote SMTP client certificates or intermediate

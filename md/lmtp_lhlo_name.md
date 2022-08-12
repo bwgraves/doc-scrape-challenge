@@ -1,4 +1,4 @@
-# lmtp_lhlo_name 
+# lmtp_lhlo_name (default:$; 
 
 
 The hostname to send in the LMTP LHLO command.

@@ -1,4 +1,4 @@
-# postscreen_non_smtp_command_action 
+# postscreen_non_smtp_command_action (default:drop); 
 
  The action that postscreen(8) takes when a remote SMTP client sends
 non-SMTP commands as specified with the postscreen_forbidden_commands

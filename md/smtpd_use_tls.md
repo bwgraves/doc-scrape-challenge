@@ -1,4 +1,4 @@
-# smtpd_use_tls 
+# smtpd_use_tls (default:no); 
 
  Opportunistic TLS: announce STARTTLS support to remote SMTP clients,
 but do not require that clients use TLS encryption. 

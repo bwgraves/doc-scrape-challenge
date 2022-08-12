@@ -1,4 +1,4 @@
-# maillog_file_compressor 
+# maillog_file_compressor (default:gzip); 
 
  The program to run after rotating $maillog_file with "postfix
 logrotate". The command is run with the rotated logfile name as its

@@ -1,4 +1,4 @@
-# resolve_dequoted_address 
+# resolve_dequoted_address (default:yes); 
 
  Resolve a recipient address safely instead of correctly, by
 looking inside quotes.  

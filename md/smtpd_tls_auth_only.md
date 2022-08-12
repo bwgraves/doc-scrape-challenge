@@ -1,4 +1,4 @@
-# smtpd_tls_auth_only 
+# smtpd_tls_auth_only (default:no); 
 
  When TLS encryption is optional in the Postfix SMTP server, do
 not announce or accept SASL authentication over unencrypted

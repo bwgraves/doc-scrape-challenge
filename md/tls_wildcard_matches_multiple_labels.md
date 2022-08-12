@@ -1,4 +1,4 @@
-# tls_wildcard_matches_multiple_labels 
+# tls_wildcard_matches_multiple_labels (default:yes); 
 
  Match multiple DNS labels with "*" in wildcard certificates.
 

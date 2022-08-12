@@ -1,4 +1,4 @@
-# smtpd_sasl_response_limit 
+# smtpd_sasl_response_limit (default:12288); 
 
  The maximum length of a SASL client's response to a server challenge.
 When the client's "initial response" is longer than the normal limit for

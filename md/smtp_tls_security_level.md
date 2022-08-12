@@ -1,4 +1,4 @@
-# smtp_tls_security_level 
+# smtp_tls_security_level (default:empty); 
 
  The default SMTP TLS security level for the Postfix SMTP client.
 When a non-empty value is specified, this overrides the obsolete

@@ -1,4 +1,4 @@
-# max_idle 
+# max_idle (default:100s); 
 
 
 The maximum amount of time that an idle Postfix daemon process waits

@@ -1,4 +1,4 @@
-# smtp_data_done_timeout 
+# smtp_data_done_timeout (default:600s); 
 
 
 The Postfix SMTP client time limit for sending the SMTP ".", and

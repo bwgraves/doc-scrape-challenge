@@ -1,4 +1,4 @@
-# empty_address_recipient 
+# empty_address_recipient (default:MAILER-DAEMON); 
 
 
 The recipient of mail addressed to the null address.  Postfix does

@@ -1,4 +1,4 @@
-# milter_data_macros 
+# milter_data_macros (default:see"postconf-d"output); 
 
  The macros that are sent to version 4 or higher Milter (mail
 filter) applications after the SMTP DATA command. See MILTER_README

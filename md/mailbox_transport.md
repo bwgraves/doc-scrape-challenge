@@ -1,4 +1,4 @@
-# mailbox_transport 
+# mailbox_transport (default:empty); 
 
 
 Optional message delivery transport that the local(8) delivery

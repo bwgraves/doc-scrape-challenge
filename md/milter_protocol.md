@@ -1,4 +1,4 @@
-# milter_protocol 
+# milter_protocol (default:6); 
 
  The mail filter protocol version and optional protocol extensions
 for communication with a Milter application; prior to Postfix 2.6

@@ -1,4 +1,4 @@
-# postscreen_dnsbl_ttl 
+# postscreen_dnsbl_ttl (default:1h); 
 
  The amount of time that postscreen(8) will use the result from
 a successful DNS-based reputation test before a client

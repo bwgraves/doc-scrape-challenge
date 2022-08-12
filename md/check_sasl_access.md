@@ -1,4 +1,4 @@
-# check_sasl_access  Use the remote SMTP client SASL user name as the lookup key for
+# check_sasl_access ;  Use the remote SMTP client SASL user name as the lookup key for
 the specified access(5) database. The lookup key has the form
 "username@domainname" when the smtpd_sasl_local_domain parameter
 value is non-empty.  Unlike the check_client_access feature,

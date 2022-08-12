@@ -1,4 +1,4 @@
-# ipc_idle 
+# ipc_idle (default:versiondependent); 
 
 
 The time after which a client closes an idle internal communication

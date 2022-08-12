@@ -1,4 +1,4 @@
-# milter_default_action 
+# milter_default_action (default:tempfail); 
 
  The default action when a Milter (mail filter) response is
 unavailable (for example, bad Postfix configuration or Milter

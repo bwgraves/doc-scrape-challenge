@@ -1,4 +1,4 @@
-# respectful_logging 
+# respectful_logging (default:see'postconf-d'output); 
 
  Avoid logging that implies white is better than black. Instead
 use 'allowlist', 'denylist', and variations of those words. 

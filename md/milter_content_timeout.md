@@ -1,4 +1,4 @@
-# milter_content_timeout 
+# milter_content_timeout (default:300s); 
 
  The time limit for sending message content to a Milter (mail
 filter) application, and for receiving the response.  

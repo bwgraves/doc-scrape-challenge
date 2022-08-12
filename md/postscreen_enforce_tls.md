@@ -1,4 +1,4 @@
-# postscreen_enforce_tls 
+# postscreen_enforce_tls (default:$; 
 
  Mandatory TLS: announce STARTTLS support to remote SMTP clients, and
 require that clients use TLS encryption.  See smtpd_postscreen_enforce_tls

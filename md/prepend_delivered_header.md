@@ -1,4 +1,4 @@
-# prepend_delivered_header 
+# prepend_delivered_header (default:command,file,forward); 
 
  The message delivery contexts where the Postfix local(8) delivery
 agent prepends a Delivered-To:  message header with the address

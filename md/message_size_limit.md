@@ -1,4 +1,4 @@
-# message_size_limit 
+# message_size_limit (default:10240000); 
 
 
 The maximal size in bytes of a message, including envelope information.

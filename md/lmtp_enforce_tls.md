@@ -1,4 +1,4 @@
-# lmtp_enforce_tls 
+# lmtp_enforce_tls (default:no); 
 
  The LMTP-specific version of the smtp_enforce_tls configuration
 parameter.  See there for details. 

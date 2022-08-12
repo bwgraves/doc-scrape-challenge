@@ -1,4 +1,4 @@
-# config_directory 
+# config_directory (default:see"postconf-d"output); 
 
  The default location of the Postfix main.cf and master.cf
 configuration files. This can be overruled via the following

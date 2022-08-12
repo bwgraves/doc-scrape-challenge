@@ -1,4 +1,4 @@
-# error_service_name 
+# error_service_name (default:error); 
 
 
 The name of the error(8) pseudo delivery agent. This service always

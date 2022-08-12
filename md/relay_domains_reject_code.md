@@ -1,4 +1,4 @@
-# relay_domains_reject_code 
+# relay_domains_reject_code (default:554); 
 
 
 The numerical Postfix SMTP server response code when a client

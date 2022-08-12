@@ -1,4 +1,4 @@
-# delay_notice_recipient 
+# delay_notice_recipient (default:postmaster); 
 
 
 The recipient of postmaster notifications with the message headers

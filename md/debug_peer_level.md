@@ -1,4 +1,4 @@
-# debug_peer_level 
+# debug_peer_level (default:2); 
 
  The increment in verbose logging level when a nexthop destination,
 remote client or server name or network address matches a pattern

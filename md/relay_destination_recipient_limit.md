@@ -1,4 +1,4 @@
-# relay_destination_recipient_limit 
+# relay_destination_recipient_limit (default:$; 
 
  The maximal number of recipients per message for the relay
 message delivery transport. This limit is enforced by the queue

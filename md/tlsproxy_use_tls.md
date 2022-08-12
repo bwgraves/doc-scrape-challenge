@@ -1,4 +1,4 @@
-# tlsproxy_use_tls 
+# tlsproxy_use_tls (default:$; 
 
  Opportunistic TLS: announce STARTTLS support to remote SMTP clients,
 but do not require that clients use TLS encryption. See smtpd_use_tls

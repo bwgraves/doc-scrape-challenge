@@ -1,4 +1,4 @@
-# import_environment 
+# import_environment (default:see"postconf-d"output); 
 
  The list of environment variables that a privileged Postfix
 process will import from a non-Postfix parent process, or name=value

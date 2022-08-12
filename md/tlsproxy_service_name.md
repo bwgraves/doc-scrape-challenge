@@ -1,4 +1,4 @@
-# tlsproxy_service_name 
+# tlsproxy_service_name (default:tlsproxy); 
 
  The name of the tlsproxy(8) service entry in master.cf. This
 service performs plaintext &lt;=&gt; TLS ciphertext conversion. 

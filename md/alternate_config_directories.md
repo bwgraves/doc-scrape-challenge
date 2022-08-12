@@ -1,4 +1,4 @@
-# alternate_config_directories 
+# alternate_config_directories (default:empty); 
 
 
 A list of non-default Postfix configuration directories that may

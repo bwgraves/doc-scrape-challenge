@@ -1,4 +1,4 @@
-# sender_bcc_maps 
+# sender_bcc_maps (default:empty); 
 
  Optional BCC (blind carbon-copy) address lookup tables, indexed
 by sender address.  The BCC address (multiple results are not

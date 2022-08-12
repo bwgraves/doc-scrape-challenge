@@ -1,4 +1,4 @@
-# smtp_sasl_password_maps 
+# smtp_sasl_password_maps (default:empty); 
 
 
 Optional Postfix SMTP client lookup tables with one username:password

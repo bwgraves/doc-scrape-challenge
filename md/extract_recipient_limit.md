@@ -1,4 +1,4 @@
-# extract_recipient_limit 
+# extract_recipient_limit (default:10240); 
 
 
 The maximal number of recipient addresses that Postfix will extract

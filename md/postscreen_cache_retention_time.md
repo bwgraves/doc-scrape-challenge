@@ -1,4 +1,4 @@
-# postscreen_cache_retention_time 
+# postscreen_cache_retention_time (default:7d); 
 
  The amount of time that postscreen(8) will cache an expired
 temporary allowlist entry before it is removed. This prevents clients

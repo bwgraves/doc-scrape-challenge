@@ -1,4 +1,4 @@
-# detect_8bit_encoding_header 
+# detect_8bit_encoding_header (default:yes); 
 
  Automatically detect 8BITMIME body content by looking at
 Content-Transfer-Encoding: message headers; historically, this

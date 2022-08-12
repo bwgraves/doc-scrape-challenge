@@ -1,4 +1,4 @@
-# smtp_tls_eccert_file 
+# smtp_tls_eccert_file (default:empty); 
 
  File with the Postfix SMTP client ECDSA certificate in PEM format.
 This file may also contain the Postfix SMTP client ECDSA private key.

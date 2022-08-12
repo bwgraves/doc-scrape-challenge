@@ -1,4 +1,4 @@
-# qmgr_message_recipient_minimum 
+# qmgr_message_recipient_minimum (default:10); 
 
 
 The minimal number of in-memory recipients for any message. This

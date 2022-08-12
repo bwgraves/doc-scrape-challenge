@@ -1,4 +1,4 @@
-# postmulti_stop_commands 
+# postmulti_stop_commands (default:see"postconf-d"output); 
 
  The postfix(1) commands that the postmulti(1) instance manager treats
 as "stop" commands. For these commands, disabled instances are skipped,

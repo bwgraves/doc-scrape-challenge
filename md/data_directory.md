@@ -1,4 +1,4 @@
-# data_directory 
+# data_directory (default:see"postconf-d"output); 
 
  The directory with Postfix-writable data files (for example:
 caches, pseudo-random numbers).  This directory must be owned by

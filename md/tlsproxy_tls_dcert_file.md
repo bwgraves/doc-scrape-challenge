@@ -1,4 +1,4 @@
-# tlsproxy_tls_dcert_file 
+# tlsproxy_tls_dcert_file (default:$; 
 
  File with the Postfix tlsproxy(8) server DSA certificate in PEM
 format.  This file may also contain the Postfix tlsproxy(8) server

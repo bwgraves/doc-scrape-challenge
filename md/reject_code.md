@@ -1,4 +1,4 @@
-# reject_code 
+# reject_code (default:554); 
 
 
 The numerical Postfix SMTP server response code when a remote SMTP

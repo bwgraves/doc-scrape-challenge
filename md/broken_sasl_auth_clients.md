@@ -1,4 +1,4 @@
-# broken_sasl_auth_clients 
+# broken_sasl_auth_clients (default:no); 
 
 
 Enable interoperability with remote SMTP clients that implement an obsolete

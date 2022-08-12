@@ -1,4 +1,4 @@
-# lmtp_sasl_mechanism_filter 
+# lmtp_sasl_mechanism_filter (default:empty); 
 
  The LMTP-specific version of the smtp_sasl_mechanism_filter
 configuration parameter.  See there for details. 

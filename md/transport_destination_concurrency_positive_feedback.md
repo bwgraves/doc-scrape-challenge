@@ -1,4 +1,4 @@
-# transport_destination_concurrency_positive_feedback 
+# transport_destination_concurrency_positive_feedback (default:$; 
 
  A transport-specific override for the
 default_destination_concurrency_positive_feedback parameter value,

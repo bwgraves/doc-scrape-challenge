@@ -1,4 +1,4 @@
-# mailbox_delivery_lock 
+# mailbox_delivery_lock (default:see"postconf-d"output); 
 
 
 How to lock a UNIX-style local(8) mailbox before attempting delivery.

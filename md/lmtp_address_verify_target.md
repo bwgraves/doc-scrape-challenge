@@ -1,4 +1,4 @@
-# lmtp_address_verify_target 
+# lmtp_address_verify_target (default:rcpt); 
 
  The LMTP-specific version of the smtp_address_verify_target
 configuration parameter.  See there for details. 

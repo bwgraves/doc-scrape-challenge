@@ -1,4 +1,4 @@
-# smtpd_delay_open_until_valid_rcpt 
+# smtpd_delay_open_until_valid_rcpt (default:yes); 
 
  Postpone the start of an SMTP mail transaction until a valid
 RCPT TO command is received. Specify "no" to create a mail transaction

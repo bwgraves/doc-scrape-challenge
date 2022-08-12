@@ -1,4 +1,4 @@
-# application_event_drain_time 
+# application_event_drain_time (default:100s); 
 
 
 How long the postkick(1) command waits for a request to enter the

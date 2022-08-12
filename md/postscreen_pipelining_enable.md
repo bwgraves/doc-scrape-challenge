@@ -1,4 +1,4 @@
-# postscreen_pipelining_enable 
+# postscreen_pipelining_enable (default:no); 
 
  Enable "pipelining" SMTP protocol tests in the postscreen(8)
 server. These tests are expensive: a good client must disconnect

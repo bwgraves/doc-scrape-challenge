@@ -1,4 +1,4 @@
-# pipe_delivery_status_filter 
+# pipe_delivery_status_filter (default:$; 
 
  Optional filter for the pipe(8) delivery agent to change the
 delivery status code or explanatory text of successful or unsuccessful

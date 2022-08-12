@@ -1,4 +1,4 @@
-# postscreen_cache_map 
+# postscreen_cache_map (default:; 
 
  Persistent storage for the postscreen(8) server decisions. 
 

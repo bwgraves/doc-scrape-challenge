@@ -1,4 +1,4 @@
-# smtpd_junk_command_limit 
+# smtpd_junk_command_limit (default:normal:100,overload:1); 
 
 
 The number of junk commands (NOOP, VRFY, ETRN or RSET) that a remote

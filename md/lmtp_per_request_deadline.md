@@ -1,4 +1,4 @@
-# lmtp_per_request_deadline 
+# lmtp_per_request_deadline (default:no); 
 
  The LMTP-specific version of the smtp_per_request_deadline
 configuration parameter. See there for details. 

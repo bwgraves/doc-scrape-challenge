@@ -1,4 +1,4 @@
-# service_name 
+# service_name (read-only); 
 
  The master.cf service name of a Postfix daemon process. This
 can be used to distinguish the logging from different services that

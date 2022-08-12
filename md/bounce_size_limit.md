@@ -1,4 +1,4 @@
-# bounce_size_limit 
+# bounce_size_limit (default:50000); 
 
  The maximal amount of original message text that is sent in a
 non-delivery notification. Specify a byte count.  A message is

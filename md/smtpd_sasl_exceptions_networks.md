@@ -1,4 +1,4 @@
-# smtpd_sasl_exceptions_networks 
+# smtpd_sasl_exceptions_networks (default:empty); 
 
 
 What remote SMTP clients the Postfix SMTP server will not offer

@@ -1,4 +1,4 @@
-# smtp_helo_timeout 
+# smtp_helo_timeout (default:300s); 
 
 
 The Postfix SMTP client time limit for sending the HELO or EHLO command,

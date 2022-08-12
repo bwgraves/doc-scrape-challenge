@@ -1,4 +1,4 @@
-# alias_database 
+# alias_database (default:see"postconf-d"output); 
 
 
 The alias databases for local(8) delivery that are updated with

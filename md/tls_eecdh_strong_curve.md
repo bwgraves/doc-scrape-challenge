@@ -1,4 +1,4 @@
-# tls_eecdh_strong_curve 
+# tls_eecdh_strong_curve (default:prime256v1); 
 
  The elliptic curve used by the Postfix SMTP server for sensibly
 strong

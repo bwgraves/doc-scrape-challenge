@@ -1,4 +1,4 @@
-# smtp_connection_cache_time_limit 
+# smtp_connection_cache_time_limit (default:2s); 
 
  When SMTP connection caching is enabled, the amount of time that
 an unused SMTP client socket is kept open before it is closed.  Do

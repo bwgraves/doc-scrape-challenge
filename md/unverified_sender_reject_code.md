@@ -1,4 +1,4 @@
-# unverified_sender_reject_code 
+# unverified_sender_reject_code (default:450); 
 
 
 The numerical Postfix SMTP server response code when a recipient

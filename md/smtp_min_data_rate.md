@@ -1,4 +1,4 @@
-# smtp_min_data_rate 
+# smtp_min_data_rate (default:500); 
 
  The minimum plaintext data transfer rate in bytes/second for
 DATA requests, when deadlines are enabled with smtp_per_request_deadline.

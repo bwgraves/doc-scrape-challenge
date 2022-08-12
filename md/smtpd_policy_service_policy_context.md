@@ -1,4 +1,4 @@
-# smtpd_policy_service_policy_context 
+# smtpd_policy_service_policy_context (default:empty); 
 
  Optional information that the Postfix SMTP server specifies in
 the "policy_context" attribute of a policy service request (originally,

@@ -1,4 +1,4 @@
-# authorized_submit_users 
+# authorized_submit_users (default:; 
 
 
 List of users who are authorized to submit mail with the sendmail(1)

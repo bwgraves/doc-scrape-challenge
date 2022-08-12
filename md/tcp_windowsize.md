@@ -1,4 +1,4 @@
-# tcp_windowsize 
+# tcp_windowsize (default:0); 
 
  An optional workaround for routers that break TCP window scaling.
 Specify a value &gt; 0 and &lt; 65536 to enable this feature.  With

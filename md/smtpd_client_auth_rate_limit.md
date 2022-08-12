@@ -1,4 +1,4 @@
-# smtpd_client_auth_rate_limit 
+# smtpd_client_auth_rate_limit (default:0); 
 
 
 The maximal number of AUTH commands that any client is allowed to

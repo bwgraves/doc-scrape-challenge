@@ -1,4 +1,4 @@
-# qmgr_daemon_timeout 
+# qmgr_daemon_timeout (default:1000s); 
 
  How much time a Postfix queue manager process may take to handle
 a request before it is terminated by a built-in watchdog timer.

@@ -1,4 +1,4 @@
-# milter_command_timeout 
+# milter_command_timeout (default:30s); 
 
  The time limit for sending an SMTP command to a Milter (mail
 filter) application, and for receiving the response.  

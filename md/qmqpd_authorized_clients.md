@@ -1,4 +1,4 @@
-# qmqpd_authorized_clients 
+# qmqpd_authorized_clients (default:empty); 
 
 
 What remote QMQP clients are allowed to connect to the Postfix QMQP

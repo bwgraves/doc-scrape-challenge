@@ -1,4 +1,4 @@
-# smtpd_client_new_tls_session_rate_limit 
+# smtpd_client_new_tls_session_rate_limit (default:0); 
 
 
 The maximal number of new (i.e., uncached) TLS sessions that a

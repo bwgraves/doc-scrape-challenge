@@ -1,4 +1,4 @@
-# check_client_mx_access Search the specified access(5) database for the MX hosts for the
+# check_client_mx_access ; Search the specified access(5) database for the MX hosts for the
 client hostname, and execute the corresponding action.  If no MX
 record is found, look up A or AAAA records, just like the Postfix
 SMTP client would. Note: a result

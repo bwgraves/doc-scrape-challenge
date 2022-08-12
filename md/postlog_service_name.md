@@ -1,0 +1,9 @@
+# postlog_service_name 
+
+ The name of the postlogd(8) service entry in master.cf.
+This service appends logfile records to the file specified
+with the maillog_file parameter. 
+
+ This feature is available in Postfix 3.4 and later. 
+
+

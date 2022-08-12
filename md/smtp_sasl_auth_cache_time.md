@@ -1,0 +1,13 @@
+# smtp_sasl_auth_cache_time 
+
+ The maximal age of an smtp_sasl_auth_cache_name entry before it
+is removed. 
+
+ Specify a non-negative time value (an integral value plus an optional
+one-letter suffix that specifies the time unit).  Time units: s
+(seconds), m (minutes), h (hours), d (days), w (weeks).
+The default time unit is d (days).  
+
+ This feature is available in Postfix 2.5 and later. 
+
+

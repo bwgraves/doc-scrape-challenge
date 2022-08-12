@@ -1,0 +1,11 @@
+# tls_random_bytes 
+
+ The number of bytes that tlsmgr(8) reads from $tls_random_source
+when (re)seeding the in-memory pseudo random number generator (PRNG)
+pool. The default of 32 bytes (256 bits) is good enough for 128bit
+symmetric keys.  If using EGD or a device file, a maximum of 255
+bytes is read. 
+
+ This feature is available in Postfix 2.2 and later.  
+
+

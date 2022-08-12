@@ -1,0 +1,14 @@
+# smtp_data_xfer_timeout 
+
+
+The Postfix SMTP client time limit for sending the SMTP message content.
+When the connection makes no progress for more than $smtp_data_xfer_timeout
+seconds the Postfix SMTP client terminates the transfer.
+
+
+
+Time units: s (seconds), m (minutes), h (hours), d (days), w (weeks).
+The default time unit is s (seconds).
+
+
+

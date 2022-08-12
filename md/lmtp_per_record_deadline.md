@@ -1,0 +1,8 @@
+# lmtp_per_record_deadline 
+
+ The LMTP-specific version of the smtp_per_record_deadline
+configuration parameter.  See there for details. 
+
+ This feature is available in Postfix 2.9 and later.  
+
+

@@ -1,0 +1,8 @@
+# lmtp_randomize_addresses 
+
+ The LMTP-specific version of the smtp_randomize_addresses
+configuration parameter.  See there for details. 
+
+ This feature is available in Postfix 2.3 and later. 
+
+

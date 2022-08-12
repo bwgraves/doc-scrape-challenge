@@ -1,0 +1,8 @@
+# header_checks 
+
+
+Optional lookup tables for content inspection of primary non-MIME
+message headers, as specified in the header_checks(5) manual page.
+
+
+

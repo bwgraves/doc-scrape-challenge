@@ -1,0 +1,22 @@
+# smtpd_discard_ehlo_keywords 
+
+ A case insensitive list of EHLO keywords (pipelining, starttls,
+auth, etc.) that the Postfix SMTP server will not send in the EHLO
+response
+to a remote SMTP client. 
+
+ This feature is available in Postfix 2.2 and later. 
+
+ Notes: 
+
+
+
+  Specify the silent-discard pseudo keyword to prevent
+this action from being logged. 
+
+  Use the smtpd_discard_ehlo_keyword_address_maps feature
+to discard EHLO keywords selectively.  
+
+
+
+

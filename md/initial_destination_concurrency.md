@@ -1,0 +1,19 @@
+# initial_destination_concurrency 
+
+
+The initial per-destination concurrency level for parallel delivery
+to the same destination.
+With per-destination recipient limit &gt; 1, a destination is a domain,
+otherwise it is a recipient.
+
+
+ Use transport_initial_destination_concurrency to specify
+a transport-specific override, where transport is the master.cf
+name of the message delivery transport (Postfix 2.5 and later). 
+
+
+Warning: with concurrency of 1, one bad message can be enough to
+block all mail to a site.
+
+
+

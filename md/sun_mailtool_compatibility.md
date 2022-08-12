@@ -1,0 +1,8 @@
+# sun_mailtool_compatibility 
+
+
+Obsolete SUN mailtool compatibility feature. Instead, use
+"mailbox_delivery_lock = dotlock".
+
+
+

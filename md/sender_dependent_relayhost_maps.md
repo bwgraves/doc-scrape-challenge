@@ -1,0 +1,24 @@
+# sender_dependent_relayhost_maps 
+
+ A sender-dependent override for the global relayhost parameter
+setting. The tables are searched by the envelope sender address and
+@domain. A lookup result of DUNNO terminates the search without
+overriding the global relayhost parameter setting (Postfix 2.6 and
+later). This information is overruled with relay_transport,
+sender_dependent_default_transport_maps, default_transport and with
+the transport(5) table. 
+
+
+Specify zero or more "type:name" lookup tables, separated by
+whitespace or comma. Tables will be searched in the specified order
+until a match is found.
+
+
+ For safety reasons, this feature does not allow $number
+substitutions in regular expression maps. 
+
+
+This feature is available in Postfix 2.3 and later.
+
+
+

@@ -1,0 +1,8 @@
+# tlsproxy_service_name 
+
+ The name of the tlsproxy(8) service entry in master.cf. This
+service performs plaintext &lt;=&gt; TLS ciphertext conversion. 
+
+ This feature is available in Postfix 2.8 and later. 
+
+

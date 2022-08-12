@@ -1,0 +1,10 @@
+# plaintext_reject_code 
+
+
+The numerical Postfix SMTP server response code when a request
+is rejected by the reject_plaintext_session restriction.
+
+
+ This feature is available in Postfix 2.3 and later. 
+
+

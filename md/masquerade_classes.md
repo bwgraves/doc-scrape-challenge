@@ -1,0 +1,19 @@
+# masquerade_classes 
+
+
+What addresses are subject to address masquerading.
+
+
+
+By default, address masquerading is limited to envelope sender
+addresses, and to header sender and header recipient addresses.
+This allows you to use address masquerading on a mail gateway while
+still being able to forward mail to users on individual machines.
+
+
+
+Specify zero or more of: envelope_sender, envelope_recipient,
+header_sender, header_recipient
+
+
+

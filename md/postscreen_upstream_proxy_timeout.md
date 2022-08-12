@@ -1,0 +1,8 @@
+# postscreen_upstream_proxy_timeout 
+
+ The time limit for the proxy protocol specified with the
+postscreen_upstream_proxy_protocol parameter. 
+
+ This feature is available in Postfix 2.10 and later.  
+
+

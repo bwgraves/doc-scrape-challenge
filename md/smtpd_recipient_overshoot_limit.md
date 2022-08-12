@@ -1,0 +1,8 @@
+# smtpd_recipient_overshoot_limit 
+
+ The number of recipients that a remote SMTP client can send in
+excess of the limit specified with $smtpd_recipient_limit, before
+the Postfix SMTP server increments the per-session error count
+for each excess recipient.  
+
+

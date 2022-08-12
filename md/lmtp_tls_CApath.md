@@ -1,4 +1,4 @@
-# lmtp_tls_CApath (default:empty); 
+# lmtp_tls_CApath (default:empty) 
 
  The LMTP-specific version of the smtp_tls_CApath
 configuration parameter.  See there for details. 

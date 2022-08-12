@@ -1,4 +1,4 @@
-# smtp_body_checks (default:empty); 
+# smtp_body_checks (default:empty) 
 
  Restricted body_checks(5) tables for the Postfix SMTP client.
 These tables are searched while mail is being delivered.  Actions

@@ -1,4 +1,4 @@
-# tls_daemon_random_bytes (default:32); 
+# tls_daemon_random_bytes (default:32) 
 
  The number of pseudo-random bytes that an smtp(8) or smtpd(8)
 process requests from the tlsmgr(8) server in order to seed its

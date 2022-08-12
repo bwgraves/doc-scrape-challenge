@@ -1,4 +1,4 @@
-# relay_domains (default:Postfix&ge;3.0:empty,Postfix&lt;3.0:$; 
+# relay_domains (default:Postfix&ge;3.0:empty,Postfix&lt;3.0:$ 
 
  What destination domains (and subdomains thereof) this system
 will relay mail to. For details about how

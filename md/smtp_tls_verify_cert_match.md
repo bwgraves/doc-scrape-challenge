@@ -1,4 +1,4 @@
-# smtp_tls_verify_cert_match (default:hostname); 
+# smtp_tls_verify_cert_match (default:hostname) 
 
  How the Postfix SMTP client verifies the server certificate
 peername for the

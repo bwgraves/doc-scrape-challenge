@@ -1,4 +1,4 @@
-# tlsproxy_tls_protocols (default:$; 
+# tlsproxy_tls_protocols (default:$ 
 
  List of TLS protocols that the Postfix tlsproxy(8) server will
 exclude or include with opportunistic TLS encryption. See

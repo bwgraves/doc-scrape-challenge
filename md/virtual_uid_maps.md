@@ -1,4 +1,4 @@
-# virtual_uid_maps (default:empty); 
+# virtual_uid_maps (default:empty) 
 
 
 Lookup tables with the per-recipient user ID that the virtual(8)

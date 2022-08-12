@@ -1,4 +1,4 @@
-# multi_instance_enable (default:no); 
+# multi_instance_enable (default:no) 
 
  Allow this Postfix instance to be started, stopped, etc., by a
 multi-instance manager.  By default, new instances are created in

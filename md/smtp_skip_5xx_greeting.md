@@ -1,4 +1,4 @@
-# smtp_skip_5xx_greeting (default:yes); 
+# smtp_skip_5xx_greeting (default:yes) 
 
 
 Skip remote SMTP servers that greet with a 5XX status code.

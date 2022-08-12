@@ -1,4 +1,4 @@
-# milter_macro_v (default:$; 
+# milter_macro_v (default:$ 
 
  The {v} macro value for Milter (mail filter) applications.
 See MILTER_README for a list of available macro names and their

@@ -1,4 +1,4 @@
-# default_privs (default:nobody); 
+# default_privs (default:nobody) 
 
 
 The default rights used by the local(8) delivery agent for delivery

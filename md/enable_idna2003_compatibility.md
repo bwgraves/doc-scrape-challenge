@@ -1,4 +1,4 @@
-# enable_idna2003_compatibility (default:no); 
+# enable_idna2003_compatibility (default:no) 
 
  Enable 'transitional' compatibility between IDNA2003 and IDNA2008,
 when converting UTF-8 domain names to/from the ASCII form that is

@@ -1,4 +1,4 @@
-# bounce_service_name (default:bounce); 
+# bounce_service_name (default:bounce) 
 
 
 The name of the bounce(8) service. This service maintains a record

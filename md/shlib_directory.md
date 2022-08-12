@@ -1,4 +1,4 @@
-# shlib_directory (default:see'postconf-d'output); 
+# shlib_directory (default:see'postconf-d'output) 
 
  The location of Postfix dynamically-linked libraries
 (libpostfix-*.so), and the default location of Postfix database

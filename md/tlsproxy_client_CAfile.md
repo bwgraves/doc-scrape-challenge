@@ -1,4 +1,4 @@
-# tlsproxy_client_CAfile (default:$; 
+# tlsproxy_client_CAfile (default:$ 
 
  A file containing CA certificates of root CAs trusted to sign
 either remote TLS server certificates or intermediate CA certificates.

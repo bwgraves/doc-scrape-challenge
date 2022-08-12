@@ -1,4 +1,4 @@
-# tls_medium_cipherlist (default:see"postconf-d"output); 
+# tls_medium_cipherlist (default:see"postconf-d"output) 
 
  The OpenSSL cipherlist for "medium" or higher grade ciphers. This
 defines the meaning of the "medium" setting in smtpd_tls_ciphers,

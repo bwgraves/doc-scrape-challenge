@@ -1,4 +1,4 @@
-# transport_transport_rate_delay (default:$; 
+# transport_transport_rate_delay (default:$ 
 
  A transport-specific override for the default_transport_rate_delay
 parameter value, where the initial transport in the parameter

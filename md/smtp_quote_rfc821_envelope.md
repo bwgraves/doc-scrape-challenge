@@ -1,4 +1,4 @@
-# smtp_quote_rfc821_envelope (default:yes); 
+# smtp_quote_rfc821_envelope (default:yes) 
 
 
 Quote addresses in Postfix SMTP client MAIL FROM and RCPT TO commands

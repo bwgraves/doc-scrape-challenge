@@ -1,4 +1,4 @@
-# rbl_reply_maps (default:empty); 
+# rbl_reply_maps (default:empty) 
 
 
 Optional lookup tables with RBL response templates. The tables are

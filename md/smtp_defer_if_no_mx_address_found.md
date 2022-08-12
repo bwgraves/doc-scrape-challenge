@@ -1,4 +1,4 @@
-# smtp_defer_if_no_mx_address_found (default:no); 
+# smtp_defer_if_no_mx_address_found (default:no) 
 
 
 Defer mail delivery when no MX record resolves to an IP address.

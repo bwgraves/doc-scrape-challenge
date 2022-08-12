@@ -1,4 +1,4 @@
-# postlog_service_name (default:postlog); 
+# postlog_service_name (default:postlog) 
 
  The name of the postlogd(8) service entry in master.cf.
 This service appends logfile records to the file specified

@@ -1,4 +1,4 @@
-# postscreen_dnsbl_sites (default:empty); 
+# postscreen_dnsbl_sites (default:empty) 
 
 Optional list of DNS allow/denylist domains, filters and weight
 factors. When the list is non-empty, the dnsblog(8) daemon will

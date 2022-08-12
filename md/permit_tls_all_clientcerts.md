@@ -1,4 +1,4 @@
-# permit_tls_all_clientcerts undefined;  Permit the request when the remote SMTP client certificate is
+# permit_tls_all_clientcerts undefined  Permit the request when the remote SMTP client certificate is
 verified successfully.  This option must be used only if a special
 CA issues the certificates and only this CA is listed as a trusted
 CA. Otherwise, clients with a third-party certificate would also

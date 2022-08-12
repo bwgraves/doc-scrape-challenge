@@ -1,4 +1,4 @@
-# tls_dane_digests (default:sha512sha256); 
+# tls_dane_digests (default:sha512sha256) 
 
  DANE TLSA (RFC 6698, RFC 7671, RFC 7672) resource-record "matching
 type" digest algorithms in descending preference order.  All the

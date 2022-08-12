@@ -1,4 +1,4 @@
-# permit_rhswl_client rhswl_domain=d.d.d.d undefined; Accept the request when the client hostname is listed with the
+# permit_rhswl_client rhswl_domain=d.d.d.d undefined Accept the request when the client hostname is listed with the
 A record "d.d.d.d" under rhswl_domain.  Each "d"
 is a number, or a pattern inside "[]" that contains one or more
 ";"-separated numbers or number..number ranges. If no

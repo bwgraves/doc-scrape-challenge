@@ -1,4 +1,4 @@
-# enable_threaded_bounces (default:no); 
+# enable_threaded_bounces (default:no) 
 
  Enable non-delivery, success, and delay notifications that link
 to the original message by including a References: and In-Reply-To:

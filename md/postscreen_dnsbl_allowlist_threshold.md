@@ -1,4 +1,4 @@
-# postscreen_dnsbl_allowlist_threshold (default:0); 
+# postscreen_dnsbl_allowlist_threshold (default:0) 
 
  Allow a remote SMTP client to skip "before" and "after 220
 greeting" protocol tests, based on its combined DNSBL score as

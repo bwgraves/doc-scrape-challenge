@@ -1,4 +1,4 @@
-# sendmail_path (default:see"postconf-d"output); 
+# sendmail_path (default:see"postconf-d"output) 
 
 
 A Sendmail compatibility feature that specifies the location of

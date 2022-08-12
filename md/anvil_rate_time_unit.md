@@ -1,4 +1,4 @@
-# anvil_rate_time_unit (default:60s); 
+# anvil_rate_time_unit (default:60s) 
 
 
 The time unit over which client connection rates and other rates

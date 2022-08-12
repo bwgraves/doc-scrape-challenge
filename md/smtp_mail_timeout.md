@@ -1,4 +1,4 @@
-# smtp_mail_timeout (default:300s); 
+# smtp_mail_timeout (default:300s) 
 
 
 The Postfix SMTP client time limit for sending the MAIL FROM command,

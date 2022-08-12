@@ -1,4 +1,4 @@
-# postmulti_start_commands (default:start); 
+# postmulti_start_commands (default:start) 
 
  The postfix(1) commands that the postmulti(1) instance manager treats
 as "start" commands. For these commands, disabled instances are "checked"

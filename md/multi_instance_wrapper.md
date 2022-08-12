@@ -1,4 +1,4 @@
-# multi_instance_wrapper (default:empty); 
+# multi_instance_wrapper (default:empty) 
 
  The pathname of a multi-instance manager command that the
 postfix(1) command invokes when the multi_instance_directories

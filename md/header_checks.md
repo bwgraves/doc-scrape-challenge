@@ -1,4 +1,4 @@
-# header_checks (default:empty); 
+# header_checks (default:empty) 
 
 
 Optional lookup tables for content inspection of primary non-MIME

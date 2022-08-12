@@ -1,4 +1,4 @@
-# address_verify_relay_transport (default:$; 
+# address_verify_relay_transport (default:$ 
 
 
 Overrides the relay_transport parameter setting for address

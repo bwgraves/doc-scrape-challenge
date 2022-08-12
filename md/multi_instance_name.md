@@ -1,4 +1,4 @@
-# multi_instance_name (default:empty); 
+# multi_instance_name (default:empty) 
 
  The optional instance name of this Postfix instance. This name
 becomes also the default value for the syslog_name parameter. 

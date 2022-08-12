@@ -1,4 +1,4 @@
-# mime_header_checks (default:$; 
+# mime_header_checks (default:$ 
 
 
 Optional lookup tables for content inspection of MIME related

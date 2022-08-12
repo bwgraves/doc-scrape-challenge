@@ -1,4 +1,4 @@
-# strict_8bitmime (default:no); 
+# strict_8bitmime (default:no) 
 
 
 Enable both strict_7bit_headers and strict_8bitmime_body.

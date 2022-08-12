@@ -1,4 +1,4 @@
-# fork_delay (default:1s); 
+# fork_delay (default:1s) 
 
  The delay between attempts to fork() a child process.  
 

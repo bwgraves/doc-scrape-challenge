@@ -1,4 +1,4 @@
-# transport_destination_rate_delay (default:$; 
+# transport_destination_rate_delay (default:$ 
 
  A transport-specific override for the default_destination_rate_delay
 parameter value, where transport is the master.cf name of

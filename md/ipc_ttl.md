@@ -1,4 +1,4 @@
-# ipc_ttl (default:1000s); 
+# ipc_ttl (default:1000s) 
 
 
 The time after which a client closes an active internal communication

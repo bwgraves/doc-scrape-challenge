@@ -1,4 +1,4 @@
-# lmtp_cache_connection (default:yes); 
+# lmtp_cache_connection (default:yes) 
 
 
 Keep Postfix LMTP client connections open for up to $max_idle

@@ -1,4 +1,4 @@
-# smtp_sasl_auth_cache_name (default:empty); 
+# smtp_sasl_auth_cache_name (default:empty) 
 
  An optional table to prevent repeated SASL authentication
 failures with the same remote SMTP server hostname, username and

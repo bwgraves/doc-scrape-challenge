@@ -1,4 +1,4 @@
-# enable_errors_to (default:no); 
+# enable_errors_to (default:no) 
 
  Report mail delivery errors to the address specified with the
 non-standard Errors-To: message header, instead of the envelope

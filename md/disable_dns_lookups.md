@@ -1,4 +1,4 @@
-# disable_dns_lookups (default:no); 
+# disable_dns_lookups (default:no) 
 
 
 Disable DNS lookups in the Postfix SMTP and LMTP clients. When

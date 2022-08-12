@@ -1,4 +1,4 @@
-# smtpd_per_request_deadline (default:normal:no,overload:yes); 
+# smtpd_per_request_deadline (default:normal:no,overload:yes) 
 
  Change the behavior of the smtpd_timeout and smtpd_starttls_timeout
 time limits, from a time limit per plaintext or TLS read or write

@@ -1,4 +1,4 @@
-# pickup_service_name (default:pickup); 
+# pickup_service_name (default:pickup) 
 
 
 The name of the pickup(8) service. This service picks up local mail

@@ -1,4 +1,4 @@
-# qmgr_fudge_factor (default:100); 
+# qmgr_fudge_factor (default:100) 
 
 
 Obsolete feature: the percentage of delivery resources that a busy

@@ -1,4 +1,4 @@
-# known_tcp_ports (default:lmtp=24,smtp=25,smtps=submissions=465,submission=587); 
+# known_tcp_ports (default:lmtp=24,smtp=25,smtps=submissions=465,submission=587) 
 
  Optional setting that avoids lookups in the services(5) database.
 This feature was implemented to address inconsistencies in the name

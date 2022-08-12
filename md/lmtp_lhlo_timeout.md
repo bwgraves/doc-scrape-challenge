@@ -1,4 +1,4 @@
-# lmtp_lhlo_timeout (default:300s); 
+# lmtp_lhlo_timeout (default:300s) 
 
  The Postfix LMTP client time limit for sending the LHLO command,
 and for receiving the initial remote LMTP server response. 

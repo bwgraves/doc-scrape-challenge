@@ -1,4 +1,4 @@
-# postlogd_watchdog_timeout (default:10s); 
+# postlogd_watchdog_timeout (default:10s) 
 
  How much time a postlogd(8) process may take to process a request
 before it is terminated by a built-in watchdog timer. This is a

@@ -1,4 +1,4 @@
-# postscreen_pipelining_ttl (default:30d); 
+# postscreen_pipelining_ttl (default:30d) 
 
  The amount of time that postscreen(8) will use the result from
 a successful "pipelining" SMTP protocol test. During this time, the

@@ -1,4 +1,4 @@
-# unknown_address_reject_code (default:450); 
+# unknown_address_reject_code (default:450) 
 
 
 The numerical response code when the Postfix SMTP server rejects a

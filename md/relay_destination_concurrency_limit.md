@@ -1,4 +1,4 @@
-# relay_destination_concurrency_limit (default:$; 
+# relay_destination_concurrency_limit (default:$ 
 
  The maximal number of parallel deliveries to the same destination
 via the relay message delivery transport. This limit is enforced

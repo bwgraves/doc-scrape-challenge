@@ -1,4 +1,4 @@
-# mailq_path (default:see"postconf-d"output); 
+# mailq_path (default:see"postconf-d"output) 
 
 
 Sendmail compatibility feature that specifies where the Postfix

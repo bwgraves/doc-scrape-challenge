@@ -1,4 +1,4 @@
-# smtp_connect_timeout (default:30s); 
+# smtp_connect_timeout (default:30s) 
 
 
 The Postfix SMTP client time limit for completing a TCP connection, or

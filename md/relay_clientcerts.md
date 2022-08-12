@@ -1,4 +1,4 @@
-# relay_clientcerts (default:empty); 
+# relay_clientcerts (default:empty) 
 
  List of tables with remote SMTP client-certificate fingerprints or
 public key fingerprints (Postfix 2.9 and later) for which the Postfix

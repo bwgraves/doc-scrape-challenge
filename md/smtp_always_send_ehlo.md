@@ -1,4 +1,4 @@
-# smtp_always_send_ehlo (default:yes); 
+# smtp_always_send_ehlo (default:yes) 
 
 
 Always send EHLO at the start of an SMTP session.

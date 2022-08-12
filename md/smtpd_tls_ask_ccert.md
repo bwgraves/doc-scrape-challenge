@@ -1,4 +1,4 @@
-# smtpd_tls_ask_ccert (default:no); 
+# smtpd_tls_ask_ccert (default:no) 
 
  Ask a remote SMTP client for a client certificate. This
 information is needed for certificate based mail relaying with,

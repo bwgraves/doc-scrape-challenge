@@ -1,4 +1,4 @@
-# best_mx_transport (default:empty); 
+# best_mx_transport (default:empty) 
 
 
 Where the Postfix SMTP client should deliver mail when it detects

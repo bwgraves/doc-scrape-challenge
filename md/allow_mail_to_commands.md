@@ -1,4 +1,4 @@
-# allow_mail_to_commands (default:alias,forward); 
+# allow_mail_to_commands (default:alias,forward) 
 
 
 Restrict local(8) mail delivery to external commands.  The default

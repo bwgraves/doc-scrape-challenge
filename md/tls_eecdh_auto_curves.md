@@ -1,4 +1,4 @@
-# tls_eecdh_auto_curves (default:see"postconf-d"output); 
+# tls_eecdh_auto_curves (default:see"postconf-d"output) 
 
  The prioritized list of elliptic curves supported by the Postfix
 SMTP client and server.  These curves are used by the Postfix SMTP

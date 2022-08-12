@@ -1,4 +1,4 @@
-# lmtp_tls_note_starttls_offer (default:no); 
+# lmtp_tls_note_starttls_offer (default:no) 
 
  The LMTP-specific version of the smtp_tls_note_starttls_offer
 configuration parameter.  See there for details. 

@@ -1,4 +1,4 @@
-# tls_random_bytes (default:32); 
+# tls_random_bytes (default:32) 
 
  The number of bytes that tlsmgr(8) reads from $tls_random_source
 when (re)seeding the in-memory pseudo random number generator (PRNG)

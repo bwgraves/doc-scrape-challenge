@@ -1,4 +1,4 @@
-# relayhost (default:empty); 
+# relayhost (default:empty) 
 
 
 The next-hop destination(s) for non-local mail; overrides non-local

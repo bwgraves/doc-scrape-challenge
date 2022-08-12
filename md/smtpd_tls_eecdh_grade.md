@@ -1,4 +1,4 @@
-# smtpd_tls_eecdh_grade (default:see"postconf-d"output); 
+# smtpd_tls_eecdh_grade (default:see"postconf-d"output) 
 
  The Postfix SMTP server security grade for ephemeral elliptic-curve
 Diffie-Hellman (EECDH) key exchange.   As of Postfix 3.6, the value of

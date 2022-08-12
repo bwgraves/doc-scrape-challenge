@@ -1,4 +1,4 @@
-# virtual_alias_recursion_limit (default:1000); 
+# virtual_alias_recursion_limit (default:1000) 
 
 
 The maximal nesting depth of virtual alias expansion.  Currently

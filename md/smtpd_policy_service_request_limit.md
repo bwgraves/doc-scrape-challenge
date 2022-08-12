@@ -1,4 +1,4 @@
-# smtpd_policy_service_request_limit (default:0); 
+# smtpd_policy_service_request_limit (default:0) 
 
 
 The maximal number of requests per SMTPD policy service connection,

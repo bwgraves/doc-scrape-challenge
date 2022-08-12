@@ -1,4 +1,4 @@
-# smtpd_policy_service_default_action (default:4514.3.5Serverconfigurationproblem); 
+# smtpd_policy_service_default_action (default:4514.3.5Serverconfigurationproblem) 
 
  The default action when an SMTPD policy service request fails.
 Specify "DUNNO" to behave as if the failed  SMTPD policy service

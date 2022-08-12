@@ -1,4 +1,4 @@
-# smtp_use_tls (default:no); 
+# smtp_use_tls (default:no) 
 
  Opportunistic mode: use TLS when a remote SMTP server announces
 STARTTLS support, otherwise send the mail in the clear. Beware:

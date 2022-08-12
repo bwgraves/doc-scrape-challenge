@@ -1,4 +1,4 @@
-# fast_flush_domains (default:$; 
+# fast_flush_domains (default:$ 
 
 
 Optional list of destinations that are eligible for per-destination

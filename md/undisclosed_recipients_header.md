@@ -1,4 +1,4 @@
-# undisclosed_recipients_header (default:see"postconf-d"output); 
+# undisclosed_recipients_header (default:see"postconf-d"output) 
 
 
 Message header that the Postfix cleanup(8) server inserts when a

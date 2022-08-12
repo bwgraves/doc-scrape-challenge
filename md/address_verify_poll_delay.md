@@ -1,4 +1,4 @@
-# address_verify_poll_delay (default:3s); 
+# address_verify_poll_delay (default:3s) 
 
 
 The delay between queries for the completion of an address

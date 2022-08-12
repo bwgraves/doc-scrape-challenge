@@ -1,4 +1,4 @@
-# address_verify_negative_refresh_time (default:3h); 
+# address_verify_negative_refresh_time (default:3h) 
 
 
 The time after which a failed address verification probe needs to

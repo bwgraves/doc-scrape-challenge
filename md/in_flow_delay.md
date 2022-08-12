@@ -1,4 +1,4 @@
-# in_flow_delay (default:1s); 
+# in_flow_delay (default:1s) 
 
  Time to pause before accepting a new message, when the message
 arrival rate exceeds the message delivery rate. This feature is

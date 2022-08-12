@@ -1,4 +1,4 @@
-# address_verify_sender_dependent_relayhost_maps (default:$; 
+# address_verify_sender_dependent_relayhost_maps (default:$ 
 
 
 Overrides the sender_dependent_relayhost_maps parameter setting for address

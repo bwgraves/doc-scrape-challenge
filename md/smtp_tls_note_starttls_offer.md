@@ -1,4 +1,4 @@
-# smtp_tls_note_starttls_offer (default:no); 
+# smtp_tls_note_starttls_offer (default:no) 
 
  Log the hostname of a remote SMTP server that offers STARTTLS,
 when TLS is not already enabled for that server. 

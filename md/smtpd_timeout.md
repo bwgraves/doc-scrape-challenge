@@ -1,4 +1,4 @@
-# smtpd_timeout (default:normal:300s,overload:10s); 
+# smtpd_timeout (default:normal:300s,overload:10s) 
 
  When the Postfix SMTP server wants to send an SMTP server
 response, how long the Postfix SMTP server will wait for an underlying

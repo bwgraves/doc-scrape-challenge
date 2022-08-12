@@ -1,4 +1,4 @@
-# smtp_bind_address (default:empty); 
+# smtp_bind_address (default:empty) 
 
 
 An optional numerical network address that the Postfix SMTP client

@@ -1,4 +1,4 @@
-# authorized_mailq_users (default:; 
+# authorized_mailq_users (default: 
 
 
 List of users who are authorized to view the queue.

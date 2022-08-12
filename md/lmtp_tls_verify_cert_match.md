@@ -1,4 +1,4 @@
-# lmtp_tls_verify_cert_match (default:hostname); 
+# lmtp_tls_verify_cert_match (default:hostname) 
 
  The LMTP-specific version of the smtp_tls_verify_cert_match
 configuration parameter. See there for details. 

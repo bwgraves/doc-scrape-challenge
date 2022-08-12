@@ -1,4 +1,4 @@
-# postscreen_forbidden_commands (default:$; 
+# postscreen_forbidden_commands (default:$ 
 
  List of commands that the postscreen(8) server considers in
 violation of the SMTP protocol. See smtpd_forbidden_commands for

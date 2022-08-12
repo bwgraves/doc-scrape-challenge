@@ -1,4 +1,4 @@
-# transport_delivery_slot_loan (default:$; 
+# transport_delivery_slot_loan (default:$ 
 
  A transport-specific override for the default_delivery_slot_loan
 parameter value, where transport is the master.cf name of

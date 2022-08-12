@@ -1,4 +1,4 @@
-# lmtp_send_xforward_command (default:no); 
+# lmtp_send_xforward_command (default:no) 
 
 
 Send an XFORWARD command to the remote LMTP server when the LMTP LHLO

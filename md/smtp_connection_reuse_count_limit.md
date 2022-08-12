@@ -1,4 +1,4 @@
-# smtp_connection_reuse_count_limit (default:0); 
+# smtp_connection_reuse_count_limit (default:0) 
 
  When SMTP connection caching is enabled, the number of times
 that an SMTP session may be reused before it is closed, or zero (no

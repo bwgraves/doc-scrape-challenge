@@ -1,4 +1,4 @@
-# tls_high_cipherlist (default:see"postconf-d"output); 
+# tls_high_cipherlist (default:see"postconf-d"output) 
 
  The OpenSSL cipherlist for "high" grade ciphers. This defines
 the meaning of the "high" setting in smtpd_tls_ciphers,

@@ -1,4 +1,4 @@
-# masquerade_classes (default:envelope_sender,header_sender,header_recipient); 
+# masquerade_classes (default:envelope_sender,header_sender,header_recipient) 
 
 
 What addresses are subject to address masquerading.

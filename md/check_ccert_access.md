@@ -1,4 +1,4 @@
-# check_ccert_access ;  By default use the remote SMTP client certificate fingerprint
+# check_ccert_access   By default use the remote SMTP client certificate fingerprint
 or the public key
 fingerprint (Postfix 2.9 and later) as the lookup key for the specified
 access(5) database; with Postfix version 2.2, also require that the

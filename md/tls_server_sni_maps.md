@@ -1,4 +1,4 @@
-# tls_server_sni_maps (default:empty); 
+# tls_server_sni_maps (default:empty) 
 
  Optional lookup tables that map names received from remote SMTP
 clients via the TLS Server Name Indication (SNI) extension to the

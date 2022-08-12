@@ -1,4 +1,4 @@
-# smtp_tls_mandatory_ciphers (default:medium); 
+# smtp_tls_mandatory_ciphers (default:medium) 
 
  The minimum TLS cipher grade that the Postfix SMTP client will
 use with

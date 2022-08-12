@@ -1,4 +1,4 @@
-# tlsproxy_tls_chain_files (default:$; 
+# tlsproxy_tls_chain_files (default:$ 
 
  Files with the Postfix tlsproxy(8) server keys and certificate
 chains in PEM format. See smtpd_tls_chain_files for further details. 

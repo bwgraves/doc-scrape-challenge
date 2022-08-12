@@ -1,4 +1,4 @@
-# postscreen_greet_ttl (default:1d); 
+# postscreen_greet_ttl (default:1d) 
 
  The amount of time that postscreen(8) will use the result from
 a successful PREGREET test. During this time, the client IP address

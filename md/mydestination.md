@@ -1,4 +1,4 @@
-# mydestination (default:$; 
+# mydestination (default:$ 
 
  The list of domains that are delivered via the $local_transport
 mail delivery transport. By default this is the Postfix local(8)

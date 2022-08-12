@@ -1,4 +1,4 @@
-# smtp_sasl_type (default:cyrus); 
+# smtp_sasl_type (default:cyrus) 
 
  The SASL plug-in type that the Postfix SMTP client should use
 for authentication.  The available types are listed with the

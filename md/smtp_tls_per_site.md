@@ -1,4 +1,4 @@
-# smtp_tls_per_site (default:empty); 
+# smtp_tls_per_site (default:empty) 
 
  Optional lookup tables with the Postfix SMTP client TLS usage
 policy by next-hop destination and by remote SMTP server hostname.

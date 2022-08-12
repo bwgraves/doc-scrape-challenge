@@ -1,4 +1,4 @@
-# smtp_tls_key_file (default:$; 
+# smtp_tls_key_file (default:$ 
 
  File with the Postfix SMTP client RSA private key in PEM format.
 This file may be combined with the Postfix SMTP client RSA certificate

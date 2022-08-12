@@ -1,4 +1,4 @@
-# reject_plaintext_session undefined; Reject the request when the connection is not encrypted. This
+# reject_plaintext_session undefined Reject the request when the connection is not encrypted. This
 restriction should not be used before the client has had a chance
 to negotiate encryption with the AUTH or STARTTLS commands.
 

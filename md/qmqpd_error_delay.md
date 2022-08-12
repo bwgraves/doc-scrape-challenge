@@ -1,4 +1,4 @@
-# qmqpd_error_delay (default:1s); 
+# qmqpd_error_delay (default:1s) 
 
 
 How long the Postfix QMQP server will pause before sending a negative

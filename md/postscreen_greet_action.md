@@ -1,4 +1,4 @@
-# postscreen_greet_action (default:ignore); 
+# postscreen_greet_action (default:ignore) 
 
 The action that postscreen(8) takes when a remote SMTP client speaks
 before its turn within the time specified with the postscreen_greet_wait

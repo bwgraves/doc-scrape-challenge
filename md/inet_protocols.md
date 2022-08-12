@@ -1,4 +1,4 @@
-# inet_protocols (default:see'postconf-doutput'); 
+# inet_protocols (default:see'postconf-doutput') 
 
  The Internet protocols Postfix will attempt to use when making
 or accepting connections. Specify one or more of "ipv4"

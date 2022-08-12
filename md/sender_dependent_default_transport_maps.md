@@ -1,4 +1,4 @@
-# sender_dependent_default_transport_maps (default:empty); 
+# sender_dependent_default_transport_maps (default:empty) 
 
  A sender-dependent override for the global default_transport
 parameter setting. The tables are searched by the envelope sender

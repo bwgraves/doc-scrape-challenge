@@ -1,4 +1,4 @@
-# fast_flush_refresh_time (default:12h); 
+# fast_flush_refresh_time (default:12h) 
 
 
 The time after which a non-empty but unread per-destination "fast

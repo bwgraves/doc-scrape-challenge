@@ -1,4 +1,4 @@
-# reject_rhsbl_recipient rbl_domain=d.d.d.d undefined; Reject the request when the RCPT TO domain is listed with the
+# reject_rhsbl_recipient rbl_domain=d.d.d.d undefined Reject the request when the RCPT TO domain is listed with the
 A record "d.d.d.d" under rbl_domain (Postfix version
 2.1 and later only).  Each "d" is a number, or a pattern
 inside "[]" that contains one or more ";"-separated numbers or

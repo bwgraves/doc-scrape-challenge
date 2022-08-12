@@ -1,4 +1,4 @@
-# smtpd_relay_restrictions (default:; 
+# smtpd_relay_restrictions (default: 
 
  Access restrictions for mail relay control that the Postfix
 SMTP server applies in the context of the RCPT TO command, before

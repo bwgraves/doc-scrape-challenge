@@ -1,4 +1,4 @@
-# smtp_tls_session_cache_database (default:empty); 
+# smtp_tls_session_cache_database (default:empty) 
 
  Name of the file containing the optional Postfix SMTP client
 TLS session cache. Specify a database type that supports enumeration,

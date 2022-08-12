@@ -1,4 +1,4 @@
-# mynetworks_style (default:Postfix&ge;3.0:host,Postfix&lt;3.0:subnet); 
+# mynetworks_style (default:Postfix&ge;3.0:host,Postfix&lt;3.0:subnet) 
 
 
 The method to generate the default value for the mynetworks parameter.

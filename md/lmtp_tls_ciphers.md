@@ -1,4 +1,4 @@
-# lmtp_tls_ciphers (default:medium); 
+# lmtp_tls_ciphers (default:medium) 
 
  The LMTP-specific version of the smtp_tls_ciphers configuration
 parameter. See there for details. 

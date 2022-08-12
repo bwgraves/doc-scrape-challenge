@@ -1,4 +1,4 @@
-# smtp_address_verify_target (default:rcpt); 
+# smtp_address_verify_target (default:rcpt) 
 
  In the context of email address verification, the SMTP protocol
 stage that determines whether an email address is deliverable.

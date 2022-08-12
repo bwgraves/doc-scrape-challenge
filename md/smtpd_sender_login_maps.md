@@ -1,4 +1,4 @@
-# smtpd_sender_login_maps (default:empty); 
+# smtpd_sender_login_maps (default:empty) 
 
 
 Optional lookup table with the SASL login names that own the sender

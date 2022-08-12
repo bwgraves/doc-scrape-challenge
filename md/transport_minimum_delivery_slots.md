@@ -1,4 +1,4 @@
-# transport_minimum_delivery_slots (default:$; 
+# transport_minimum_delivery_slots (default:$ 
 
  A transport-specific override for the default_minimum_delivery_slots
 parameter value, where transport is the master.cf name of

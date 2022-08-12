@@ -1,4 +1,4 @@
-# smtpd_sasl_auth_enable (default:no); 
+# smtpd_sasl_auth_enable (default:no) 
 
 
 Enable SASL authentication in the Postfix SMTP server. By default,

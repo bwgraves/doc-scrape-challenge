@@ -1,4 +1,4 @@
-# transport_recipient_refill_limit (default:$; 
+# transport_recipient_refill_limit (default:$ 
 
  A transport-specific override for the default_recipient_refill_limit
 parameter value, where transport is the master.cf name of

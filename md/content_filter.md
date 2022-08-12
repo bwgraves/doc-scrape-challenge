@@ -1,4 +1,4 @@
-# content_filter (default:empty); 
+# content_filter (default:empty) 
 
  After the message is queued, send the entire message to the
 specified transport:destination. The transport name

@@ -1,4 +1,4 @@
-# postscreen_greet_banner (default:$; 
+# postscreen_greet_banner (default:$ 
 
  The text in the optional "220-text..." server
 response that

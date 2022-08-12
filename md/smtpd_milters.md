@@ -1,4 +1,4 @@
-# smtpd_milters (default:empty); 
+# smtpd_milters (default:empty) 
 
  A list of Milter (mail filter) applications for new mail that
 arrives via the Postfix smtpd(8) server. Specify space or comma as

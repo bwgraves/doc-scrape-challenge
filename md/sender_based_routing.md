@@ -1,4 +1,4 @@
-# sender_based_routing (default:no); 
+# sender_based_routing (default:no) 
 
 
 This parameter should not be used. It was replaced by sender_dependent_relayhost_maps

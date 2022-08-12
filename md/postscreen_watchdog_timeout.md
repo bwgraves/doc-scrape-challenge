@@ -1,4 +1,4 @@
-# postscreen_watchdog_timeout (default:10s); 
+# postscreen_watchdog_timeout (default:10s) 
 
  How much time a postscreen(8) process may take to respond to
 a remote SMTP client command or to perform a cache operation before it

@@ -1,4 +1,4 @@
-# html_directory (default:see"postconf-d"output); 
+# html_directory (default:see"postconf-d"output) 
 
 
 The location of Postfix HTML files that describe how to build,

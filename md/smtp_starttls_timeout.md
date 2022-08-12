@@ -1,4 +1,4 @@
-# smtp_starttls_timeout (default:300s); 
+# smtp_starttls_timeout (default:300s) 
 
  Time limit for Postfix SMTP client write and read operations
 during TLS startup and shutdown handshake procedures. 

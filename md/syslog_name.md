@@ -1,4 +1,4 @@
-# syslog_name (default:see"postconf-d"output); 
+# syslog_name (default:see"postconf-d"output) 
 
 
 A prefix that is prepended to the process name in syslog

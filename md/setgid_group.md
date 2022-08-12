@@ -1,4 +1,4 @@
-# setgid_group (default:postdrop); 
+# setgid_group (default:postdrop) 
 
 
 The group ownership of set-gid Postfix commands and of group-writable

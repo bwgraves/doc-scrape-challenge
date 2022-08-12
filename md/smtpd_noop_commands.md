@@ -1,4 +1,4 @@
-# smtpd_noop_commands (default:empty); 
+# smtpd_noop_commands (default:empty) 
 
 
 List of commands that the Postfix SMTP server replies to with "250

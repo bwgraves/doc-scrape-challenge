@@ -1,4 +1,4 @@
-# invalid_hostname_reject_code (default:501); 
+# invalid_hostname_reject_code (default:501) 
 
 
 The numerical Postfix SMTP server response code when the client

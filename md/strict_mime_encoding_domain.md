@@ -1,4 +1,4 @@
-# strict_mime_encoding_domain (default:no); 
+# strict_mime_encoding_domain (default:no) 
 
 
 Reject mail with invalid Content-Transfer-Encoding: information

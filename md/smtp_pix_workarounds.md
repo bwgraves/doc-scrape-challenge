@@ -1,4 +1,4 @@
-# smtp_pix_workarounds (default:disable_esmtp,delay_dotcrlf);  A list that specifies zero or more workarounds for CISCO PIX
+# smtp_pix_workarounds (default:disable_esmtp,delay_dotcrlf)  A list that specifies zero or more workarounds for CISCO PIX
 firewall bugs. These workarounds are implemented by the Postfix
 SMTP client. Workaround names are separated by comma or space, and
 are case insensitive.  This parameter setting can be overruled with

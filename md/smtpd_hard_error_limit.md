@@ -1,4 +1,4 @@
-# smtpd_hard_error_limit (default:normal:20,overload:1); 
+# smtpd_hard_error_limit (default:normal:20,overload:1) 
 
 
 The maximal number of errors a remote SMTP client is allowed to

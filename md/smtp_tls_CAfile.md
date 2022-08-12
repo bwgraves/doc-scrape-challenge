@@ -1,4 +1,4 @@
-# smtp_tls_CAfile (default:empty); 
+# smtp_tls_CAfile (default:empty) 
 
  A file containing CA certificates of root CAs trusted to sign
 either remote SMTP server certificates or intermediate CA certificates.

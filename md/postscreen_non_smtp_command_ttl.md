@@ -1,4 +1,4 @@
-# postscreen_non_smtp_command_ttl (default:30d); 
+# postscreen_non_smtp_command_ttl (default:30d) 
 
  The amount of time that postscreen(8) will use the result from
 a successful "non_smtp_command" SMTP protocol test. During this

@@ -1,4 +1,4 @@
-# smtp_quit_timeout (default:300s); 
+# smtp_quit_timeout (default:300s) 
 
 
 The Postfix SMTP client time limit for sending the QUIT command,

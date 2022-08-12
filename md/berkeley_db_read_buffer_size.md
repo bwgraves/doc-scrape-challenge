@@ -1,4 +1,4 @@
-# berkeley_db_read_buffer_size (default:131072); 
+# berkeley_db_read_buffer_size (default:131072) 
 
 
 The per-table I/O buffer size for programs that read Berkeley DB

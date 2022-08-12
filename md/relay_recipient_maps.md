@@ -1,4 +1,4 @@
-# relay_recipient_maps (default:empty); 
+# relay_recipient_maps (default:empty) 
 
  Optional lookup tables with all valid addresses in the domains
 that match $relay_domains. Specify @domain as a wild-card for

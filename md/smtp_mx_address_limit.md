@@ -1,4 +1,4 @@
-# smtp_mx_address_limit (default:5); 
+# smtp_mx_address_limit (default:5) 
 
 
 The maximal number of MX (mail exchanger) IP addresses that can

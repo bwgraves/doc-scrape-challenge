@@ -1,4 +1,4 @@
-# lmtp_send_dummy_mail_auth (default:no); 
+# lmtp_send_dummy_mail_auth (default:no) 
 
  The LMTP-specific version of the smtp_send_dummy_mail_auth
 configuration parameter.  See there for details. 

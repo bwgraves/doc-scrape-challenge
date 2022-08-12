@@ -1,4 +1,4 @@
-# milter_unknown_command_macros (default:see"postconf-d"output); 
+# milter_unknown_command_macros (default:see"postconf-d"output) 
 
  The macros that are sent to version 3 or higher Milter (mail
 filter) applications after an unknown SMTP command.  See MILTER_README

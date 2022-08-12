@@ -1,4 +1,4 @@
-# lmtp_generic_maps (default:empty); 
+# lmtp_generic_maps (default:empty) 
 
  The LMTP-specific version of the smtp_generic_maps configuration
 parameter.  See there for details. 

@@ -1,4 +1,4 @@
-# smtpd_policy_service_timeout (default:100s); 
+# smtpd_policy_service_timeout (default:100s) 
 
 
 The time limit for connecting to, writing to, or receiving from a

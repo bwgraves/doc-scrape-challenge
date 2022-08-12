@@ -1,4 +1,4 @@
-# smtp_tcp_port (default:smtp); 
+# smtp_tcp_port (default:smtp) 
 
 
 The default TCP port that the Postfix SMTP client connects to.

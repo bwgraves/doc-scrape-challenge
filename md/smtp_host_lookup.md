@@ -1,4 +1,4 @@
-# smtp_host_lookup (default:dns); 
+# smtp_host_lookup (default:dns) 
 
 
 What mechanisms the Postfix SMTP client uses to look up a host's

@@ -1,4 +1,4 @@
-# smtpd_error_sleep_time (default:1s); 
+# smtpd_error_sleep_time (default:1s) 
 
 With Postfix version 2.1 and later: the SMTP server response delay after
 a client has made more than $smtpd_soft_error_limit errors, and

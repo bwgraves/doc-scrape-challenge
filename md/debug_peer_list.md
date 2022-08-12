@@ -1,4 +1,4 @@
-# debug_peer_list (default:empty); 
+# debug_peer_list (default:empty) 
 
  Optional list of nexthop destination, remote client or server
 name or network address patterns that, if matched, cause the verbose

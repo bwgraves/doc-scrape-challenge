@@ -1,4 +1,4 @@
-# tlsproxy_tls_security_level (default:$; 
+# tlsproxy_tls_security_level (default:$ 
 
  The SMTP TLS security level for the Postfix tlsproxy(8) server;
 when a non-empty value is specified, this overrides the obsolete

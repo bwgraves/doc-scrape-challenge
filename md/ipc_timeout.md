@@ -1,4 +1,4 @@
-# ipc_timeout (default:3600s); 
+# ipc_timeout (default:3600s) 
 
 
 The time limit for sending or receiving information over an internal

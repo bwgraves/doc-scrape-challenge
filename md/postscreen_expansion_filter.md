@@ -1,4 +1,4 @@
-# postscreen_expansion_filter (default:see"postconf-d"output); 
+# postscreen_expansion_filter (default:see"postconf-d"output) 
 
  List of characters that are permitted in postscreen_reject_footer
 attribute expansions.  See smtpd_expansion_filter for further

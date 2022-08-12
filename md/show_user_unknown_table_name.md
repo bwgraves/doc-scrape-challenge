@@ -1,4 +1,4 @@
-# show_user_unknown_table_name (default:yes); 
+# show_user_unknown_table_name (default:yes) 
 
 
 Display the name of the recipient table in the "User unknown"

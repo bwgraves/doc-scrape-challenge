@@ -1,4 +1,4 @@
-# maillog_file (default:empty); 
+# maillog_file (default:empty) 
 
  The name of an optional logfile that is written by the Postfix
 postlogd(8) service. An empty value selects logging to syslogd(8).

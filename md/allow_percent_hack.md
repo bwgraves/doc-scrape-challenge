@@ -1,4 +1,4 @@
-# allow_percent_hack (default:yes); 
+# allow_percent_hack (default:yes) 
 
 
 Enable the rewriting of the form "user%domain" to "user@domain".

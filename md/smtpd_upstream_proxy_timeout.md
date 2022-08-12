@@ -1,4 +1,4 @@
-# smtpd_upstream_proxy_timeout (default:5s); 
+# smtpd_upstream_proxy_timeout (default:5s) 
 
  The time limit for the proxy protocol specified with the
 smtpd_upstream_proxy_protocol parameter. 

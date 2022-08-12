@@ -1,4 +1,4 @@
-# transport_destination_concurrency_limit (default:$; 
+# transport_destination_concurrency_limit (default:$ 
 
  A transport-specific override for the
 default_destination_concurrency_limit parameter value, where

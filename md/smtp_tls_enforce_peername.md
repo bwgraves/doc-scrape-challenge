@@ -1,4 +1,4 @@
-# smtp_tls_enforce_peername (default:yes); 
+# smtp_tls_enforce_peername (default:yes) 
 
  With mandatory TLS encryption, require that the remote SMTP
 server hostname matches the information in the remote SMTP server

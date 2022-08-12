@@ -1,4 +1,4 @@
-# unknown_virtual_alias_reject_code (default:550); 
+# unknown_virtual_alias_reject_code (default:550) 
 
 
 The Postfix SMTP server reply code when a recipient address matches

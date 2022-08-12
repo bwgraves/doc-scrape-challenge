@@ -1,4 +1,4 @@
-# smtpd_etrn_restrictions (default:empty); 
+# smtpd_etrn_restrictions (default:empty) 
 
 
 Optional restrictions that the Postfix SMTP server applies in the

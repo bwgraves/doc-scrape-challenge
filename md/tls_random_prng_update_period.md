@@ -1,4 +1,4 @@
-# tls_random_prng_update_period (default:3600s); 
+# tls_random_prng_update_period (default:3600s) 
 
  The time between attempts by tlsmgr(8) to save the state of
 the pseudo random number generator (PRNG) to the file specified

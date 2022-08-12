@@ -1,4 +1,4 @@
-# smtp_tls_mandatory_protocols (default:see"postconf-d"output); 
+# smtp_tls_mandatory_protocols (default:see"postconf-d"output) 
 
  TLS protocols that the Postfix SMTP client will use with mandatory
 TLS encryption.  In main.cf the values are separated by whitespace,

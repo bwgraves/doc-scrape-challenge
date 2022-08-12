@@ -1,4 +1,4 @@
-# smtp_data_xfer_timeout (default:180s); 
+# smtp_data_xfer_timeout (default:180s) 
 
 
 The Postfix SMTP client time limit for sending the SMTP message content.

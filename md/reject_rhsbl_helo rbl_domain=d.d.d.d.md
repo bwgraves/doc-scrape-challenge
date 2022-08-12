@@ -1,4 +1,4 @@
-# reject_rhsbl_helo rbl_domain=d.d.d.d undefined; Reject the request when the HELO or EHLO hostname is
+# reject_rhsbl_helo rbl_domain=d.d.d.d undefined Reject the request when the HELO or EHLO hostname is
 listed with the A record "d.d.d.d" under rbl_domain
 (Postfix version 2.1 and later only).  Each "d" is a number,
 or a pattern inside "[]" that contains one or more ";"-separated

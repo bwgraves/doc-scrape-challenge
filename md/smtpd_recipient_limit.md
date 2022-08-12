@@ -1,4 +1,4 @@
-# smtpd_recipient_limit (default:1000); 
+# smtpd_recipient_limit (default:1000) 
 
 
 The maximal number of recipients that the Postfix SMTP server

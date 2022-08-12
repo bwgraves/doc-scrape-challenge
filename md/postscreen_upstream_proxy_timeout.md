@@ -1,4 +1,4 @@
-# postscreen_upstream_proxy_timeout (default:5s); 
+# postscreen_upstream_proxy_timeout (default:5s) 
 
  The time limit for the proxy protocol specified with the
 postscreen_upstream_proxy_protocol parameter. 

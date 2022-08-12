@@ -1,4 +1,4 @@
-# qmqpd_timeout (default:300s); 
+# qmqpd_timeout (default:300s) 
 
 
 The time limit for sending or receiving information over the network.

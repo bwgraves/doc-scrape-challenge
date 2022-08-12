@@ -1,4 +1,4 @@
-# max_use (default:100); 
+# max_use (default:100) 
 
 
 The maximal number of incoming connections that a Postfix daemon

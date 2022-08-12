@@ -1,4 +1,4 @@
-# smtpd_sasl_application_name (default:smtpd); 
+# smtpd_sasl_application_name (default:smtpd) 
 
 
 The application name that the Postfix SMTP server uses for SASL

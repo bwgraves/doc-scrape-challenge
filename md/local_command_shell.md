@@ -1,4 +1,4 @@
-# local_command_shell (default:empty); 
+# local_command_shell (default:empty) 
 
 
 Optional shell program for local(8) delivery to non-Postfix commands.

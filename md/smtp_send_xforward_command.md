@@ -1,4 +1,4 @@
-# smtp_send_xforward_command (default:no); 
+# smtp_send_xforward_command (default:no) 
 
 
 Send the non-standard XFORWARD command when the Postfix SMTP server

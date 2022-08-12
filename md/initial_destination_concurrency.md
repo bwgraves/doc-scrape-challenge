@@ -1,4 +1,4 @@
-# initial_destination_concurrency (default:5); 
+# initial_destination_concurrency (default:5) 
 
 
 The initial per-destination concurrency level for parallel delivery

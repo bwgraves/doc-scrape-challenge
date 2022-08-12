@@ -1,4 +1,4 @@
-# relay_transport (default:relay); 
+# relay_transport (default:relay) 
 
 
 The default mail delivery transport and next-hop destination for

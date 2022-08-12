@@ -1,4 +1,4 @@
-# virtual_gid_maps (default:empty); 
+# virtual_gid_maps (default:empty) 
 
 
 Lookup tables with the per-recipient group ID for virtual(8) mailbox

@@ -1,4 +1,4 @@
-# service_throttle_time (default:60s); 
+# service_throttle_time (default:60s) 
 
 
 How long the Postfix master(8) waits before forking a server that

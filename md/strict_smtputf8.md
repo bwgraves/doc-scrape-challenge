@@ -1,4 +1,4 @@
-# strict_smtputf8 (default:no); 
+# strict_smtputf8 (default:no) 
 
  Enable stricter enforcement of the SMTPUTF8 protocol. The Postfix
 SMTP server accepts UTF8 sender or recipient addresses only when

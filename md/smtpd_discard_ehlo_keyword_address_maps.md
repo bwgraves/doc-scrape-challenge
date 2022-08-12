@@ -1,4 +1,4 @@
-# smtpd_discard_ehlo_keyword_address_maps (default:empty); 
+# smtpd_discard_ehlo_keyword_address_maps (default:empty) 
 
  Lookup tables, indexed by the remote SMTP client address, with
 case insensitive lists of EHLO keywords (pipelining, starttls, auth,

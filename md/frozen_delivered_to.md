@@ -1,4 +1,4 @@
-# frozen_delivered_to (default:yes); 
+# frozen_delivered_to (default:yes) 
 
  Update the local(8) delivery agent's idea of the Delivered-To:
 address (see prepend_delivered_header) only once, at the start of

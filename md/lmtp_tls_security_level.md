@@ -1,4 +1,4 @@
-# lmtp_tls_security_level (default:empty); 
+# lmtp_tls_security_level (default:empty) 
 
  The LMTP-specific version of the smtp_tls_security_level configuration
 parameter.  See there for details. 

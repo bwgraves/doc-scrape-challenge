@@ -1,4 +1,4 @@
-# local_delivery_status_filter (default:$; 
+# local_delivery_status_filter (default:$ 
 
  Optional filter for the local(8) delivery agent to change the
 status code or explanatory text of successful or unsuccessful

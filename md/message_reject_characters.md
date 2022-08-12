@@ -1,4 +1,4 @@
-# message_reject_characters (default:empty); 
+# message_reject_characters (default:empty) 
 
  The set of characters that Postfix will reject in message
 content.  The usual C-like escape sequences are recognized: \a

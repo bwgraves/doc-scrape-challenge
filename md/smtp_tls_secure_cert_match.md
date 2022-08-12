@@ -1,4 +1,4 @@
-# smtp_tls_secure_cert_match (default:nexthop,dot-nexthop); 
+# smtp_tls_secure_cert_match (default:nexthop,dot-nexthop) 
 
  How the Postfix SMTP client verifies the server certificate
 peername for the "secure" TLS security level. In a "secure" TLS policy table

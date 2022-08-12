@@ -1,4 +1,4 @@
-# smtpd_authorized_xforward_hosts (default:empty); 
+# smtpd_authorized_xforward_hosts (default:empty) 
 
 
 What remote SMTP clients are allowed to use the XFORWARD feature.  This

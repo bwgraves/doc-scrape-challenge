@@ -1,4 +1,4 @@
-# smtp_tls_wrappermode (default:no); 
+# smtp_tls_wrappermode (default:no) 
 
  Request that the Postfix SMTP client connects using the
 SUBMISSIONS/SMTPS protocol instead of using the STARTTLS command. 

@@ -1,4 +1,4 @@
-# lmtp_assume_final (default:no); 
+# lmtp_assume_final (default:no) 
 
  When a remote LMTP server announces no DSN support, assume that
 the

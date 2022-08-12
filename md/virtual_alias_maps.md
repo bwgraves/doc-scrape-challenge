@@ -1,4 +1,4 @@
-# virtual_alias_maps (default:$; 
+# virtual_alias_maps (default:$ 
 
 
 Optional lookup tables that alias specific mail addresses or domains

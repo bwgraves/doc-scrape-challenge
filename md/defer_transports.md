@@ -1,4 +1,4 @@
-# defer_transports (default:empty); 
+# defer_transports (default:empty) 
 
 
 The names of message delivery transports that should not deliver mail

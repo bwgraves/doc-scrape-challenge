@@ -1,4 +1,4 @@
-# masquerade_exceptions (default:empty); 
+# masquerade_exceptions (default:empty) 
 
 
 Optional list of user names that are not subjected to address

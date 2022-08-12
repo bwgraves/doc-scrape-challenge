@@ -1,4 +1,4 @@
-# address_verify_service_name (default:verify); 
+# address_verify_service_name (default:verify) 
 
 
 The name of the verify(8) address verification service. This service

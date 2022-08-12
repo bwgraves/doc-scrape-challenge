@@ -1,4 +1,4 @@
-# smtpd_tls_session_cache_timeout (default:3600s); 
+# smtpd_tls_session_cache_timeout (default:3600s) 
 
  The expiration time of Postfix SMTP server TLS session cache
 information. A cache cleanup is performed periodically

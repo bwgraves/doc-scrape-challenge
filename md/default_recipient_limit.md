@@ -1,4 +1,4 @@
-# default_recipient_limit (default:20000); 
+# default_recipient_limit (default:20000) 
 
 
 The default per-transport upper limit on the number of in-memory

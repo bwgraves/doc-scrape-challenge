@@ -1,4 +1,4 @@
-# lmtp_randomize_addresses (default:yes); 
+# lmtp_randomize_addresses (default:yes) 
 
  The LMTP-specific version of the smtp_randomize_addresses
 configuration parameter.  See there for details. 

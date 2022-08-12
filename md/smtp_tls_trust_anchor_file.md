@@ -1,4 +1,4 @@
-# smtp_tls_trust_anchor_file (default:empty); 
+# smtp_tls_trust_anchor_file (default:empty) 
 
  Zero or more PEM-format files with trust-anchor certificates
 and/or public keys.  If the parameter is not empty the root CAs in

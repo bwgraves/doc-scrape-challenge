@@ -1,4 +1,4 @@
-# smtpd_dns_reply_filter (default:empty); 
+# smtpd_dns_reply_filter (default:empty) 
 
  Optional filter for Postfix SMTP server DNS lookup results.
 See smtp_dns_reply_filter for details including an example.

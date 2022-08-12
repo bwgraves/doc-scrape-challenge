@@ -1,4 +1,4 @@
-# unverified_sender_reject_reason (default:empty); 
+# unverified_sender_reject_reason (default:empty) 
 
  The Postfix SMTP server's reply when rejecting mail with
 reject_unverified_sender. Do not include the numeric SMTP reply

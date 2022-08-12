@@ -1,4 +1,4 @@
-# smtpd_tls_dh512_param_file (default:empty); 
+# smtpd_tls_dh512_param_file (default:empty) 
 
  File with DH parameters that the Postfix SMTP server should
 use with export-grade EDH ciphers.  The default SMTP server cipher

@@ -1,4 +1,4 @@
-# reset_owner_alias (default:no); 
+# reset_owner_alias (default:no) 
 
  Reset the local(8) delivery agent's idea of the owner-alias
 attribute, when delivering mail to a child alias that does not have

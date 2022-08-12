@@ -1,4 +1,4 @@
-# daemon_table_open_error_is_fatal (default:no); 
+# daemon_table_open_error_is_fatal (default:no) 
 
  How a Postfix daemon process handles errors while opening lookup
 tables: gradual degradation or immediate termination. 

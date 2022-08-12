@@ -1,4 +1,4 @@
-# fast_flush_purge_time (default:7d); 
+# fast_flush_purge_time (default:7d) 
 
 
 The time after which an empty per-destination "fast flush" logfile

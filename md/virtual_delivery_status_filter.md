@@ -1,4 +1,4 @@
-# virtual_delivery_status_filter (default:$; 
+# virtual_delivery_status_filter (default:$ 
 
  Optional filter for the virtual(8) delivery agent to change the
 delivery status code or explanatory text of successful or unsuccessful

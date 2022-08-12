@@ -1,4 +1,4 @@
-# smtpd_restriction_classes (default:empty); 
+# smtpd_restriction_classes (default:empty) 
 
 
 User-defined aliases for groups of access restrictions. The aliases

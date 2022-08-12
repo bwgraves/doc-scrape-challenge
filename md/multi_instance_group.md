@@ -1,4 +1,4 @@
-# multi_instance_group (default:empty); 
+# multi_instance_group (default:empty) 
 
  The optional instance group name of this Postfix instance. A
 group identifies closely-related Postfix instances that the

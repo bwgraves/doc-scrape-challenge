@@ -1,4 +1,4 @@
-# postscreen_client_connection_count_limit (default:$; 
+# postscreen_client_connection_count_limit (default:$ 
 
  How many simultaneous connections any remote SMTP client is
 allowed to have

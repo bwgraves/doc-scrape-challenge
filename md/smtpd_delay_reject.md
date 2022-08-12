@@ -1,4 +1,4 @@
-# smtpd_delay_reject (default:yes); 
+# smtpd_delay_reject (default:yes) 
 
 
 Wait until the RCPT TO command before evaluating

@@ -1,4 +1,4 @@
-# mailbox_transport_maps (default:empty); 
+# mailbox_transport_maps (default:empty) 
 
  Optional lookup tables with per-recipient message delivery
 transports to use for local(8) mailbox delivery, whether or not the

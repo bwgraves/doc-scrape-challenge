@@ -1,4 +1,4 @@
-# allow_mail_to_files (default:alias,forward); 
+# allow_mail_to_files (default:alias,forward) 
 
 
 Restrict local(8) mail delivery to external files. The default is

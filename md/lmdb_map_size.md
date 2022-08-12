@@ -1,4 +1,4 @@
-# lmdb_map_size (default:16777216); 
+# lmdb_map_size (default:16777216) 
 
 
 The initial OpenLDAP LMDB database size limit in bytes.  Each time

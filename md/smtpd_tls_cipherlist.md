@@ -1,4 +1,4 @@
-# smtpd_tls_cipherlist (default:empty); 
+# smtpd_tls_cipherlist (default:empty) 
 
  Obsolete Postfix &lt; 2.3 control for the Postfix SMTP server TLS
 cipher list. It is easy to create interoperability problems by choosing

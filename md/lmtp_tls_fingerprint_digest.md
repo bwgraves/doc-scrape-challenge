@@ -1,4 +1,4 @@
-# lmtp_tls_fingerprint_digest (default:see"postconf-d"output); 
+# lmtp_tls_fingerprint_digest (default:see"postconf-d"output) 
 
  The LMTP-specific version of the smtp_tls_fingerprint_digest
 configuration parameter.  See there for details. 

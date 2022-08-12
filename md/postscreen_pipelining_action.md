@@ -1,4 +1,4 @@
-# postscreen_pipelining_action (default:enforce); 
+# postscreen_pipelining_action (default:enforce) 
 
  The action that postscreen(8) takes when a remote SMTP client
 sends

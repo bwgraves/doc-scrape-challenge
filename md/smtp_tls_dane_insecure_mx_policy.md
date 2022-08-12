@@ -1,4 +1,4 @@
-# smtp_tls_dane_insecure_mx_policy (default:see"postconf-d"output); 
+# smtp_tls_dane_insecure_mx_policy (default:see"postconf-d"output) 
 
  The TLS policy for MX hosts with "secure" TLSA records when the
 nexthop destination security level is dane, but the MX

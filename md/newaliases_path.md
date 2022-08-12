@@ -1,4 +1,4 @@
-# newaliases_path (default:see"postconf-d"output); 
+# newaliases_path (default:see"postconf-d"output) 
 
 
 Sendmail compatibility feature that specifies the location of the

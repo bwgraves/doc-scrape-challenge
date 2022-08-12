@@ -1,4 +1,4 @@
-# sample_directory (default:/etc/postfix); 
+# sample_directory (default:/etc/postfix) 
 
 
 The name of the directory with example Postfix configuration files.

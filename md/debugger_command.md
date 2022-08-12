@@ -1,4 +1,4 @@
-# debugger_command (default:empty); 
+# debugger_command (default:empty) 
 
 
 The external command to execute when a Postfix daemon program is

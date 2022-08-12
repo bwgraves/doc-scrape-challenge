@@ -1,4 +1,4 @@
-# tlsproxy_tls_dh512_param_file (default:$; 
+# tlsproxy_tls_dh512_param_file (default:$ 
 
  File with DH parameters that the Postfix tlsproxy(8) server
 should use with export-grade EDH ciphers. See smtpd_tls_dh512_param_file

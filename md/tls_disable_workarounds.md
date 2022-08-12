@@ -1,4 +1,4 @@
-# tls_disable_workarounds (default:see"postconf-d"output); 
+# tls_disable_workarounds (default:see"postconf-d"output) 
 
  List or bit-mask of OpenSSL bug work-arounds to disable. 
 

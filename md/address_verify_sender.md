@@ -1,4 +1,4 @@
-# address_verify_sender (default:$; 
+# address_verify_sender (default:$ 
 
  The sender address to use in address verification probes; prior
 to Postfix 2.5 the default was "postmaster". To

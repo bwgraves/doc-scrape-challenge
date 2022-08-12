@@ -1,4 +1,4 @@
-# smtpd_client_connection_rate_limit (default:0); 
+# smtpd_client_connection_rate_limit (default:0) 
 
 
 The maximal number of connection attempts any client is allowed to

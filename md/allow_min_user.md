@@ -1,4 +1,4 @@
-# allow_min_user (default:no); 
+# allow_min_user (default:no) 
 
 
 Allow a sender or recipient address to have `-' as the first

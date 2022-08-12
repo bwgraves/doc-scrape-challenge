@@ -1,4 +1,4 @@
-# lmtp_data_init_timeout (default:120s); 
+# lmtp_data_init_timeout (default:120s) 
 
 
 The Postfix LMTP client time limit for sending the LMTP DATA command,

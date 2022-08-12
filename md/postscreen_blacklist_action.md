@@ -1,4 +1,4 @@
-# postscreen_blacklist_action (default:ignore); 
+# postscreen_blacklist_action (default:ignore) 
 
  Renamed to postscreen_denylist_action in Postfix 3.6. 
 

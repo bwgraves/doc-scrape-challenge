@@ -1,4 +1,4 @@
-# strict_rfc821_envelopes (default:no); 
+# strict_rfc821_envelopes (default:no) 
 
 
 Require that addresses received in SMTP MAIL FROM and RCPT TO

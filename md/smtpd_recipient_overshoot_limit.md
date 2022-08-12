@@ -1,4 +1,4 @@
-# smtpd_recipient_overshoot_limit (default:1000); 
+# smtpd_recipient_overshoot_limit (default:1000) 
 
  The number of recipients that a remote SMTP client can send in
 excess of the limit specified with $smtpd_recipient_limit, before

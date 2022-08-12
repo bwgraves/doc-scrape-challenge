@@ -1,4 +1,4 @@
-# smtp_pix_workaround_delay_time (default:10s); 
+# smtp_pix_workaround_delay_time (default:10s) 
 
 
 How long the Postfix SMTP client pauses before sending

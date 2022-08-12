@@ -1,4 +1,4 @@
-# fallback_transport_maps (default:empty); 
+# fallback_transport_maps (default:empty) 
 
  Optional lookup tables with per-recipient message delivery
 transports for recipients that the local(8) delivery agent could

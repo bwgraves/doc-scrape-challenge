@@ -1,4 +1,4 @@
-# smtpd_sasl_authenticated_header (default:no); 
+# smtpd_sasl_authenticated_header (default:no) 
 
  Report the SASL authenticated user name in the smtpd(8) Received
 message header.  

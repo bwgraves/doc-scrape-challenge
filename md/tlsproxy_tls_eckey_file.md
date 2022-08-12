@@ -1,4 +1,4 @@
-# tlsproxy_tls_eckey_file (default:$; 
+# tlsproxy_tls_eckey_file (default:$ 
 
  File with the Postfix tlsproxy(8) server ECDSA private key in PEM
 format.  This file may be combined with the Postfix tlsproxy(8) server

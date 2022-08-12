@@ -1,4 +1,4 @@
-# smtputf8_autodetect_classes (default:sendmail,verify); 
+# smtputf8_autodetect_classes (default:sendmail,verify) 
 
  Detect that a message requires SMTPUTF8 support for the specified
 mail origin classes.  This is a workaround to avoid chicken-and-egg

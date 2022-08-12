@@ -1,4 +1,4 @@
-# lmtp_sender_dependent_authentication (default:no); 
+# lmtp_sender_dependent_authentication (default:no) 
 
  The LMTP-specific version of the smtp_sender_dependent_authentication
 configuration parameter.  See there for details. 

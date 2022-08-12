@@ -1,4 +1,4 @@
-# parent_domain_matches_subdomains (default:see"postconf-d"output); 
+# parent_domain_matches_subdomains (default:see"postconf-d"output) 
 
 
 A list of Postfix features where the pattern "example.com" also

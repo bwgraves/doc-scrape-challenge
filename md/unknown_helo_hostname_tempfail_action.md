@@ -1,4 +1,4 @@
-# unknown_helo_hostname_tempfail_action (default:$; 
+# unknown_helo_hostname_tempfail_action (default:$ 
 
  The Postfix SMTP server's action when reject_unknown_helo_hostname
 fails due to a temporary error condition. Specify "defer" to defer

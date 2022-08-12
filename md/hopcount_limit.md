@@ -1,4 +1,4 @@
-# hopcount_limit (default:50); 
+# hopcount_limit (default:50) 
 
 
 The maximal number of Received:  message headers that is allowed

@@ -1,4 +1,4 @@
-# postscreen_bare_newline_action (default:ignore); 
+# postscreen_bare_newline_action (default:ignore) 
 
  The action that postscreen(8) takes when a remote SMTP client sends
 a bare newline character, that is, a newline not preceded by carriage

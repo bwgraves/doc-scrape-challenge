@@ -1,4 +1,4 @@
-# bounce_template_file (default:empty); 
+# bounce_template_file (default:empty) 
 
  Pathname of a configuration file with bounce message templates.
 These override the built-in templates of delivery status notification

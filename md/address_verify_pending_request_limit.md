@@ -1,4 +1,4 @@
-# address_verify_pending_request_limit (default:see"postconf-d"output); 
+# address_verify_pending_request_limit (default:see"postconf-d"output) 
 
  A safety limit that prevents address verification requests from
 overwhelming the Postfix queue. By default, the number of pending

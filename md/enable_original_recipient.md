@@ -1,4 +1,4 @@
-# enable_original_recipient (default:yes); 
+# enable_original_recipient (default:yes) 
 
  Enable support for the original recipient address after an
 address is rewritten to a different address (for example with

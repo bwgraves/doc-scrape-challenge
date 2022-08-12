@@ -1,4 +1,4 @@
-# proxy_read_maps (default:see"postconf-d"output); 
+# proxy_read_maps (default:see"postconf-d"output) 
 
 
 The lookup tables that the proxymap(8) server is allowed to

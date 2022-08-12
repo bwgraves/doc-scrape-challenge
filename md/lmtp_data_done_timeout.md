@@ -1,4 +1,4 @@
-# lmtp_data_done_timeout (default:600s); 
+# lmtp_data_done_timeout (default:600s) 
 
  The Postfix LMTP client time limit for sending the LMTP ".",
 and for receiving the remote LMTP server response.  When no response

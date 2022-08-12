@@ -1,4 +1,4 @@
-# ignore_mx_lookup_error (default:no); 
+# ignore_mx_lookup_error (default:no) 
 
  Ignore DNS MX lookups that produce no response.  By default,
 the Postfix SMTP client defers delivery and tries again after some

@@ -1,4 +1,4 @@
-# postscreen_bare_newline_enable (default:no); 
+# postscreen_bare_newline_enable (default:no) 
 
  Enable "bare newline" SMTP protocol tests in the postscreen(8)
 server. These tests are expensive: a remote SMTP client must

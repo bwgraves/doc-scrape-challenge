@@ -1,4 +1,4 @@
-# smtpd_client_port_logging (default:no); 
+# smtpd_client_port_logging (default:no) 
 
  Enable logging of the remote SMTP client port in addition to
 the hostname and IP address. The logging format is "host[address]:port".

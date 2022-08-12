@@ -1,4 +1,4 @@
-# lmtp_skip_5xx_greeting (default:yes); 
+# lmtp_skip_5xx_greeting (default:yes) 
 
  The LMTP-specific version of the smtp_skip_5xx_greeting
 configuration parameter.  See there for details. 

@@ -1,4 +1,4 @@
-# virtual_alias_address_length_limit (default:1000); 
+# virtual_alias_address_length_limit (default:1000) 
 
 
 The maximal length of an email address after virtual alias expansion.

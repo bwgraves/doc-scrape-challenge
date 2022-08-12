@@ -1,4 +1,4 @@
-# luser_relay (default:empty); 
+# luser_relay (default:empty) 
 
 
 Optional catch-all destination for unknown local(8) recipients.

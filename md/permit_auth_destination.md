@@ -1,4 +1,4 @@
-# permit_auth_destination undefined; Permit the request when one of the following is true:
+# permit_auth_destination undefined Permit the request when one of the following is true:
 
 
 

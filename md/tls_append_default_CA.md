@@ -1,4 +1,4 @@
-# tls_append_default_CA (default:no); 
+# tls_append_default_CA (default:no) 
 
  Append the system-supplied default Certification Authority
 certificates to the ones specified with *_tls_CApath or *_tls_CAfile.

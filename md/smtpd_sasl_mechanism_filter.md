@@ -1,4 +1,4 @@
-# smtpd_sasl_mechanism_filter (default:!external,; 
+# smtpd_sasl_mechanism_filter (default:!external, 
 
  If non-empty, a filter for the SASL mechanism names that the
 Postfix SMTP server will announce in the EHLO response. By default,

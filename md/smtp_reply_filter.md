@@ -1,4 +1,4 @@
-# smtp_reply_filter (default:empty); 
+# smtp_reply_filter (default:empty) 
 
  A mechanism to transform replies from remote SMTP servers one
 line at a time.  This is a last-resort tool to work around server

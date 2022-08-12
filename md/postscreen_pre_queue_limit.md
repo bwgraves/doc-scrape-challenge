@@ -1,4 +1,4 @@
-# postscreen_pre_queue_limit (default:$; 
+# postscreen_pre_queue_limit (default:$ 
 
  The number of non-allowlisted clients that can be waiting for
 a decision whether they will receive service from a real Postfix

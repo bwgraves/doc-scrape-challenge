@@ -1,4 +1,4 @@
-# tls_fast_shutdown_enable (default:yes); 
+# tls_fast_shutdown_enable (default:yes) 
 
  A workaround for implementations that hang Postfix while shutting
 down a TLS session, until Postfix times out. With this enabled,

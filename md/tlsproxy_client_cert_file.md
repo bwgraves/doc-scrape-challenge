@@ -1,4 +1,4 @@
-# tlsproxy_client_cert_file (default:$; 
+# tlsproxy_client_cert_file (default:$ 
 
  File with the Postfix tlsproxy(8) client RSA certificate in PEM
 format. See smtp_tls_cert_file for further details.  The preferred way

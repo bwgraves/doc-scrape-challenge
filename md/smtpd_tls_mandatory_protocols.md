@@ -1,4 +1,4 @@
-# smtpd_tls_mandatory_protocols (default:see"postconf-d"output); 
+# smtpd_tls_mandatory_protocols (default:see"postconf-d"output) 
 
  TLS protocols accepted by the Postfix SMTP server with mandatory TLS
 encryption.  If the list is empty, the server supports all available TLS

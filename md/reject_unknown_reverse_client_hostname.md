@@ -1,4 +1,4 @@
-# reject_unknown_reverse_client_hostname undefined; Reject the request when the client IP address has no address-&gt;name
+# reject_unknown_reverse_client_hostname undefined Reject the request when the client IP address has no address-&gt;name
 mapping.  This is a weaker restriction than the
 reject_unknown_client_hostname feature, which requires not only
 that the address-&gt;name and name-&gt;address mappings exist, but

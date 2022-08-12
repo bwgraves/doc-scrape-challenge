@@ -1,4 +1,4 @@
-# strict_7bit_headers (default:no); 
+# strict_7bit_headers (default:no) 
 
 
 Reject mail with 8-bit text in message headers. This blocks mail

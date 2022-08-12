@@ -1,4 +1,4 @@
-# smtpd_tls_CApath (default:empty); 
+# smtpd_tls_CApath (default:empty) 
 
  A directory containing (PEM format) CA certificates of root CAs
 trusted to sign either remote SMTP client certificates or intermediate CA

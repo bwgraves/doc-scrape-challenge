@@ -1,4 +1,4 @@
-# command_time_limit (default:1000s); 
+# command_time_limit (default:1000s) 
 
 
 Time limit for delivery to external commands. This limit is used

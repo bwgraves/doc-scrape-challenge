@@ -1,4 +1,4 @@
-# tls_preempt_cipherlist (default:no); 
+# tls_preempt_cipherlist (default:no) 
 
  With SSLv3 and later, use the Postfix SMTP server's cipher
 preference order instead of the remote client's cipher preference

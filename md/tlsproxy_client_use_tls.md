@@ -1,4 +1,4 @@
-# tlsproxy_client_use_tls (default:$; 
+# tlsproxy_client_use_tls (default:$ 
 
  Opportunistic mode: use TLS when a remote server announces TLS
 support. See smtp_use_tls for further details. Use

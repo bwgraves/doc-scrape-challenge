@@ -1,4 +1,4 @@
-# lmtp_sasl_password_maps (default:empty); 
+# lmtp_sasl_password_maps (default:empty) 
 
 
 Optional Postfix LMTP client lookup tables with one username:password entry

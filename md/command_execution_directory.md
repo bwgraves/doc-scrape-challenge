@@ -1,4 +1,4 @@
-# command_execution_directory (default:empty); 
+# command_execution_directory (default:empty) 
 
  The local(8) delivery agent working directory for delivery to
 external commands.  Failure to change directory causes the delivery

@@ -1,4 +1,4 @@
-# syslog_facility (default:mail); 
+# syslog_facility (default:mail) 
 
 
 The syslog facility of Postfix logging. Specify a facility as

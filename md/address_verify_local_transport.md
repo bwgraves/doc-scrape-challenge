@@ -1,4 +1,4 @@
-# address_verify_local_transport (default:$; 
+# address_verify_local_transport (default:$ 
 
 
 Overrides the local_transport parameter setting for address

@@ -1,4 +1,4 @@
-# lmtp_connect_timeout (default:0s); 
+# lmtp_connect_timeout (default:0s) 
 
  The Postfix LMTP client time limit for completing a TCP connection, or
 zero (use the operating system built-in time limit).  When no

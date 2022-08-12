@@ -1,4 +1,4 @@
-# smtp_skip_4xx_greeting (default:yes); 
+# smtp_skip_4xx_greeting (default:yes) 
 
 
 Skip SMTP servers that greet with a 4XX status code (go away, try

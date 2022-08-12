@@ -1,4 +1,4 @@
-# smtpd_policy_service_max_idle (default:300s); 
+# smtpd_policy_service_max_idle (default:300s) 
 
 
 The time after which an idle SMTPD policy service connection is

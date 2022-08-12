@@ -1,4 +1,4 @@
-# transport_retry_time (default:60s); 
+# transport_retry_time (default:60s) 
 
 
 The time between attempts by the Postfix queue manager to contact

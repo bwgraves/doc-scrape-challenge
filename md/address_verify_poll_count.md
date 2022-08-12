@@ -1,4 +1,4 @@
-# address_verify_poll_count (default:normal:3,overload:1); 
+# address_verify_poll_count (default:normal:3,overload:1) 
 
 
 How many times to query the verify(8) service for the completion

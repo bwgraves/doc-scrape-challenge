@@ -1,4 +1,4 @@
-# receive_override_options (default:empty); 
+# receive_override_options (default:empty) 
 
  Enable or disable recipient validation, built-in content
 filtering, or address mapping. Typically, these are specified in

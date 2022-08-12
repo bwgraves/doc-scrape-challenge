@@ -1,4 +1,4 @@
-# helpful_warnings (default:yes); 
+# helpful_warnings (default:yes) 
 
 
 Log warnings about problematic configuration settings, and provide

@@ -1,4 +1,4 @@
-# lmtp_discard_lhlo_keyword_address_maps (default:empty); 
+# lmtp_discard_lhlo_keyword_address_maps (default:empty) 
 
  Lookup tables, indexed by the remote LMTP server address, with
 case insensitive lists of LHLO keywords (pipelining, starttls,

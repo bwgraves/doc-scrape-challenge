@@ -1,4 +1,4 @@
-# virtual_transport (default:virtual); 
+# virtual_transport (default:virtual) 
 
 
 The default mail delivery transport and next-hop destination for

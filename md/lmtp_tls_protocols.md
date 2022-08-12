@@ -1,4 +1,4 @@
-# lmtp_tls_protocols (default:seepostconf-doutput); 
+# lmtp_tls_protocols (default:seepostconf-doutput) 
 
  The LMTP-specific version of the smtp_tls_protocols configuration
 parameter. See there for details. 

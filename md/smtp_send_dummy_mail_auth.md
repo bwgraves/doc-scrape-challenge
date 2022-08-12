@@ -1,4 +1,4 @@
-# smtp_send_dummy_mail_auth (default:no); 
+# smtp_send_dummy_mail_auth (default:no) 
 
  Whether or not to append the "AUTH=&lt;&gt;" option to the MAIL
 FROM command in SASL-authenticated SMTP sessions. The default is

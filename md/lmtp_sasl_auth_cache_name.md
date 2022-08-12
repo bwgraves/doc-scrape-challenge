@@ -1,4 +1,4 @@
-# lmtp_sasl_auth_cache_name (default:empty); 
+# lmtp_sasl_auth_cache_name (default:empty) 
 
  The LMTP-specific version of the smtp_sasl_auth_cache_name
 configuration parameter.  See there for details. 

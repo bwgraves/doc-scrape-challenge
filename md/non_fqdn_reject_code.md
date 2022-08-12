@@ -1,4 +1,4 @@
-# non_fqdn_reject_code (default:504); 
+# non_fqdn_reject_code (default:504) 
 
 
 The numerical Postfix SMTP server reply code when a client request

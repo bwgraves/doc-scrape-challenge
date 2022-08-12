@@ -1,4 +1,4 @@
-# transport_extra_recipient_limit (default:$; 
+# transport_extra_recipient_limit (default:$ 
 
  A transport-specific override for the default_extra_recipient_limit
 parameter value, where transport is the master.cf name of

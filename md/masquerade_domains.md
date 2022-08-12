@@ -1,4 +1,4 @@
-# masquerade_domains (default:empty); 
+# masquerade_domains (default:empty) 
 
 
 Optional list of domains whose subdomain structure will be stripped

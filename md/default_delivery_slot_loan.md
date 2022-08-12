@@ -1,4 +1,4 @@
-# default_delivery_slot_loan (default:3); 
+# default_delivery_slot_loan (default:3) 
 
 
 The default value for transport-specific _delivery_slot_loan

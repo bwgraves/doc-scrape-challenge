@@ -1,4 +1,4 @@
-# default_destination_concurrency_positive_feedback (default:1); 
+# default_destination_concurrency_positive_feedback (default:1) 
 
  The per-destination amount of delivery concurrency positive
 feedback, after a delivery completes without connection or handshake

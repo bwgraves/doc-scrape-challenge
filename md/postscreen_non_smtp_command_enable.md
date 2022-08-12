@@ -1,4 +1,4 @@
-# postscreen_non_smtp_command_enable (default:no); 
+# postscreen_non_smtp_command_enable (default:no) 
 
  Enable "non-SMTP command" tests in the postscreen(8) server. These
 tests are expensive: a client must disconnect after it passes the

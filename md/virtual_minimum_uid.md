@@ -1,4 +1,4 @@
-# virtual_minimum_uid (default:100); 
+# virtual_minimum_uid (default:100) 
 
 
 The minimum user ID value that the virtual(8) delivery agent accepts

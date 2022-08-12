@@ -1,4 +1,4 @@
-# smtp_sasl_auth_soft_bounce (default:yes); 
+# smtp_sasl_auth_soft_bounce (default:yes) 
 
  When a remote SMTP server rejects a SASL authentication request
 with a 535 reply code, defer mail delivery instead of returning

@@ -1,4 +1,4 @@
-# smtpd_reject_footer (default:empty); 
+# smtpd_reject_footer (default:empty) 
 
  Optional information that is appended after each Postfix SMTP
 server

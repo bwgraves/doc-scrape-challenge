@@ -1,4 +1,4 @@
-# smtp_connection_cache_destinations (default:empty); 
+# smtp_connection_cache_destinations (default:empty) 
 
  Permanently enable SMTP connection caching for the specified
 destinations.  With SMTP connection caching, a connection is not

@@ -1,4 +1,4 @@
-# lmtp_fallback_relay (default:empty); 
+# lmtp_fallback_relay (default:empty) 
 
  Optional list of relay hosts for LMTP destinations that can't be
 found or that are unreachable.  In main.cf elements are separated by

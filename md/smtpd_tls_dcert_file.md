@@ -1,4 +1,4 @@
-# smtpd_tls_dcert_file (default:empty); 
+# smtpd_tls_dcert_file (default:empty) 
 
  File with the Postfix SMTP server DSA certificate in PEM format.
 This file may also contain the Postfix SMTP server private DSA key.

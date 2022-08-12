@@ -1,4 +1,4 @@
-# sender_canonical_maps (default:empty); 
+# sender_canonical_maps (default:empty) 
 
 
 Optional address mapping lookup tables for envelope and header

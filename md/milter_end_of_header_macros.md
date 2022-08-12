@@ -1,4 +1,4 @@
-# milter_end_of_header_macros (default:see"postconf-d"output); 
+# milter_end_of_header_macros (default:see"postconf-d"output) 
 
  The macros that are sent to Milter (mail filter) applications
 after the end of the message header. See MILTER_README for a list

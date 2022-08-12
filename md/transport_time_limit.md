@@ -1,4 +1,4 @@
-# transport_time_limit (default:$; 
+# transport_time_limit (default:$ 
 
  A transport-specific override for the command_time_limit parameter
 value, where transport is the master.cf name of the message

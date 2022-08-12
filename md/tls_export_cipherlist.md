@@ -1,4 +1,4 @@
-# tls_export_cipherlist (default:see"postconf-d"output); 
+# tls_export_cipherlist (default:see"postconf-d"output) 
 
  The OpenSSL cipherlist for "export" or higher grade ciphers. This
 defines the meaning of the "export" setting in smtpd_tls_ciphers,

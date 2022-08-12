@@ -1,4 +1,4 @@
-# mail_name (default:Postfix); 
+# mail_name (default:Postfix) 
 
 
 The mail system name that is displayed in Received: headers, in

@@ -1,4 +1,4 @@
-# flush_service_name (default:flush); 
+# flush_service_name (default:flush) 
 
 
 The name of the flush(8) service. This service maintains per-destination

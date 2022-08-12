@@ -1,4 +1,4 @@
-# virtual_mailbox_lock (default:see"postconf-d"output); 
+# virtual_mailbox_lock (default:see"postconf-d"output) 
 
 
 How to lock a UNIX-style virtual(8) mailbox before attempting

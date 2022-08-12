@@ -1,4 +1,4 @@
-# smtpd_tls_chain_files (default:empty); 
+# smtpd_tls_chain_files (default:empty) 
 
  List of one or more PEM files, each holding one or more private keys
 directly followed by a corresponding certificate chain.  The file names

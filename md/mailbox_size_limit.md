@@ -1,4 +1,4 @@
-# mailbox_size_limit (default:51200000); 
+# mailbox_size_limit (default:51200000) 
 
  The maximal size of any local(8) individual mailbox or maildir
 file, or zero (no limit).  In fact, this limits the size of any

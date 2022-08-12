@@ -1,4 +1,4 @@
-# tlsproxy_tls_ccert_verifydepth (default:$; 
+# tlsproxy_tls_ccert_verifydepth (default:$ 
 
  The verification depth for remote SMTP client certificates. A
 depth of 1 is sufficient if the issuing CA is listed in a local CA

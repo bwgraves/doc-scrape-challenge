@@ -1,4 +1,4 @@
-# berkeley_db_create_buffer_size (default:16777216); 
+# berkeley_db_create_buffer_size (default:16777216) 
 
 
 The per-table I/O buffer size for programs that create Berkeley DB

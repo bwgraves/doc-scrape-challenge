@@ -1,4 +1,4 @@
-# smtp_tls_policy_maps (default:empty); 
+# smtp_tls_policy_maps (default:empty) 
 
  Optional lookup tables with the Postfix SMTP client TLS security
 policy by next-hop destination; when a non-empty value is specified,

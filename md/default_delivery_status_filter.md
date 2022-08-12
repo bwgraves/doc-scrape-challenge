@@ -1,4 +1,4 @@
-# default_delivery_status_filter (default:empty); 
+# default_delivery_status_filter (default:empty) 
 
  Optional filter to replace the delivery status code or explanatory
 text of successful or unsuccessful deliveries.  This does not allow

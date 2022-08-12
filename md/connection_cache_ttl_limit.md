@@ -1,4 +1,4 @@
-# connection_cache_ttl_limit (default:2s); 
+# connection_cache_ttl_limit (default:2s) 
 
  The maximal time-to-live value that the scache(8) connection
 cache server

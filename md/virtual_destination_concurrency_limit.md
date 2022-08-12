@@ -1,4 +1,4 @@
-# virtual_destination_concurrency_limit (default:$; 
+# virtual_destination_concurrency_limit (default:$ 
 
  The maximal number of parallel deliveries to the same destination
 via the virtual message delivery transport. This limit is enforced

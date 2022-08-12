@@ -1,4 +1,4 @@
-# tlsproxy_tls_cert_file (default:$; 
+# tlsproxy_tls_cert_file (default:$ 
 
  File with the Postfix tlsproxy(8) server RSA certificate in PEM
 format.  This file may also contain the Postfix tlsproxy(8) server

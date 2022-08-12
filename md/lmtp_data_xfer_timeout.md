@@ -1,4 +1,4 @@
-# lmtp_data_xfer_timeout (default:180s); 
+# lmtp_data_xfer_timeout (default:180s) 
 
 
 The Postfix LMTP client time limit for sending the LMTP message

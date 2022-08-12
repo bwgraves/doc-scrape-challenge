@@ -1,4 +1,4 @@
-# lmtp_tls_loglevel (default:0); 
+# lmtp_tls_loglevel (default:0) 
 
  The LMTP-specific version of the smtp_tls_loglevel
 configuration parameter.  See there for details. 

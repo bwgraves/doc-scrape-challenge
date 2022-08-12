@@ -1,4 +1,4 @@
-# tls_dane_trust_anchor_digest_enable (default:yes); 
+# tls_dane_trust_anchor_digest_enable (default:yes) 
 
  Enable support for RFC 6698 (DANE TLSA) DNS records that contain
 digests of trust-anchors with certificate usage "2".  Do not change

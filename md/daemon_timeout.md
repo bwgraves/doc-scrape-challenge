@@ -1,4 +1,4 @@
-# daemon_timeout (default:18000s); 
+# daemon_timeout (default:18000s) 
 
  How much time a Postfix daemon process may take to handle a
 request before it is terminated by a built-in watchdog timer.  

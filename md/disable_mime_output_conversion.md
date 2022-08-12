@@ -1,4 +1,4 @@
-# disable_mime_output_conversion (default:no); 
+# disable_mime_output_conversion (default:no) 
 
 
 Disable the conversion of 8BITMIME format to 7BIT format.  Mime

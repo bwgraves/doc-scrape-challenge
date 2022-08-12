@@ -1,4 +1,4 @@
-# smtpd_banner (default:$; 
+# smtpd_banner (default:$ 
 
 
 The text that follows the 220 status code in the SMTP greeting

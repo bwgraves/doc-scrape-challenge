@@ -1,4 +1,4 @@
-# myhostname (default:see"postconf-d"output); 
+# myhostname (default:see"postconf-d"output) 
 
 
 The internet hostname of this mail system. The default is to use

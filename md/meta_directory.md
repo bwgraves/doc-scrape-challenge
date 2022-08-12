@@ -1,4 +1,4 @@
-# meta_directory (default:see'postconf-d'output); 
+# meta_directory (default:see'postconf-d'output) 
 
  The location of non-executable files that are shared among
 multiple Postfix instances, such as postfix-files, dynamicmaps.cf,

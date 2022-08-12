@@ -1,4 +1,4 @@
-# smtp_balance_inet_protocols (default:yes); 
+# smtp_balance_inet_protocols (default:yes) 
 
  When a remote destination resolves to a combination of IPv4 and
 IPv6 addresses, ensure that the Postfix SMTP client can try both

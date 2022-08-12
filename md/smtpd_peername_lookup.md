@@ -1,4 +1,4 @@
-# smtpd_peername_lookup (default:yes); 
+# smtpd_peername_lookup (default:yes) 
 
  Attempt to look up the remote SMTP client hostname, and verify that
 the name matches the client IP address. A client name is set to

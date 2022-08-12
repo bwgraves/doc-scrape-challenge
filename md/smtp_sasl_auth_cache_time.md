@@ -1,4 +1,4 @@
-# smtp_sasl_auth_cache_time (default:90d); 
+# smtp_sasl_auth_cache_time (default:90d) 
 
  The maximal age of an smtp_sasl_auth_cache_name entry before it
 is removed. 

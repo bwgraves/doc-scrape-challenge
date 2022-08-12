@@ -1,4 +1,4 @@
-# tls_session_ticket_cipher (default:Postfix&ge;3.0:aes-256-cbc,Postfix&lt;3.0:aes-128-cbc); 
+# tls_session_ticket_cipher (default:Postfix&ge;3.0:aes-256-cbc,Postfix&lt;3.0:aes-128-cbc) 
 
  Algorithm used to encrypt RFC5077 TLS session tickets.  This
 algorithm must use CBC mode, have a 128-bit block size, and must

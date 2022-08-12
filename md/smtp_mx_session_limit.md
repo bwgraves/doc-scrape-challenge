@@ -1,4 +1,4 @@
-# smtp_mx_session_limit (default:2); 
+# smtp_mx_session_limit (default:2) 
 
  The maximal number of SMTP sessions per delivery request before
 the Postfix SMTP client

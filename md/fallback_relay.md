@@ -1,4 +1,4 @@
-# fallback_relay (default:empty); 
+# fallback_relay (default:empty) 
 
 
 Optional list of relay hosts for SMTP destinations that can't be

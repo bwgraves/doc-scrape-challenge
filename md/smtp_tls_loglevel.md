@@ -1,4 +1,4 @@
-# smtp_tls_loglevel (default:0); 
+# smtp_tls_loglevel (default:0) 
 
  Enable additional Postfix SMTP client logging of TLS activity.
 Each logging level also includes the information that is logged at

@@ -1,4 +1,4 @@
-# smtp_enforce_tls (default:no); 
+# smtp_enforce_tls (default:no) 
 
  Enforcement mode: require that remote SMTP servers use TLS
 encryption, and never send mail in the clear.  This also requires

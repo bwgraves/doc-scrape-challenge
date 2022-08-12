@@ -1,4 +1,4 @@
-# milter_connect_timeout (default:30s); 
+# milter_connect_timeout (default:30s) 
 
  The time limit for connecting to a Milter (mail filter)
 application, and for negotiating protocol options. 

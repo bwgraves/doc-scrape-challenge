@@ -1,4 +1,4 @@
-# lmtp_tls_mandatory_exclude_ciphers (default:empty); 
+# lmtp_tls_mandatory_exclude_ciphers (default:empty) 
 
  The LMTP-specific version of the smtp_tls_mandatory_exclude_ciphers
 configuration parameter.  See there for details. 

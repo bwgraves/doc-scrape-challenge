@@ -1,4 +1,4 @@
-# tls_null_cipherlist (default:eNULL:!aNULL); 
+# tls_null_cipherlist (default:eNULL:!aNULL) 
 
  The OpenSSL cipherlist for "NULL" grade ciphers that provide
 authentication without encryption. This defines the meaning of the "null"

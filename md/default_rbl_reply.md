@@ -1,4 +1,4 @@
-# default_rbl_reply (default:see"postconf-d"output); 
+# default_rbl_reply (default:see"postconf-d"output) 
 
 
 The default Postfix SMTP server response template for a request that is

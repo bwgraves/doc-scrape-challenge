@@ -1,4 +1,4 @@
-# smtpd_relay_before_recipient_restrictions (default:see"postconf-d"output); 
+# smtpd_relay_before_recipient_restrictions (default:see"postconf-d"output) 
 
  Evaluate smtpd_relay_restrictions before smtpd_recipient_restrictions.
 Historically, smtpd_relay_restrictions was evaluated after

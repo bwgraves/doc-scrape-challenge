@@ -1,4 +1,4 @@
-# postscreen_greet_wait (default:normal:6s,overload:2s); 
+# postscreen_greet_wait (default:normal:6s,overload:2s) 
 
  The amount of time that postscreen(8) will wait for an SMTP
 client to send a command before its turn, and for DNS blocklist

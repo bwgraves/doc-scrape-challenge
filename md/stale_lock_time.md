@@ -1,4 +1,4 @@
-# stale_lock_time (default:500s); 
+# stale_lock_time (default:500s) 
 
 
 The time after which a stale exclusive mailbox lockfile is removed.

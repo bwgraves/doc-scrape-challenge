@@ -1,4 +1,4 @@
-# tls_ssl_options (default:empty); 
+# tls_ssl_options (default:empty) 
 
  List or bit-mask of OpenSSL options to enable. 
 

@@ -1,4 +1,4 @@
-# export_environment (default:see"postconf-d"output); 
+# export_environment (default:see"postconf-d"output) 
 
 
 The list of environment variables that a Postfix process will export

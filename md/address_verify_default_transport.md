@@ -1,4 +1,4 @@
-# address_verify_default_transport (default:$; 
+# address_verify_default_transport (default:$ 
 
 
 Overrides the default_transport parameter setting for address

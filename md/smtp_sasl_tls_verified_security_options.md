@@ -1,4 +1,4 @@
-# smtp_sasl_tls_verified_security_options (default:$; 
+# smtp_sasl_tls_verified_security_options (default:$ 
 
  The SASL authentication security options that the Postfix SMTP
 client uses for TLS encrypted SMTP sessions with a verified server

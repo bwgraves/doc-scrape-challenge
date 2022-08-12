@@ -1,4 +1,4 @@
-# maps_rbl_reject_code (default:554); 
+# maps_rbl_reject_code (default:554) 
 
 
 The numerical Postfix SMTP server response code when a remote SMTP

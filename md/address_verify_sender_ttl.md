@@ -1,4 +1,4 @@
-# address_verify_sender_ttl (default:0s); 
+# address_verify_sender_ttl (default:0s) 
 
  The time between changes in the time-dependent portion of address
 verification probe sender addresses. The time-dependent portion is

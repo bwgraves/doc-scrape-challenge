@@ -1,4 +1,4 @@
-# milter_end_of_data_macros (default:see"postconf-d"output); 
+# milter_end_of_data_macros (default:see"postconf-d"output) 
 
  The macros that are sent to Milter (mail filter) applications
 after the message end-of-data. See MILTER_README for a list of

@@ -1,4 +1,4 @@
-# smtpd_policy_service_max_ttl (default:1000s); 
+# smtpd_policy_service_max_ttl (default:1000s) 
 
 
 The time after which an active SMTPD policy service connection is

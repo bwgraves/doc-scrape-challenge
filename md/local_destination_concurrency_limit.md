@@ -1,4 +1,4 @@
-# local_destination_concurrency_limit (default:2); 
+# local_destination_concurrency_limit (default:2) 
 
  The maximal number of parallel deliveries via the local mail
 delivery transport to the same recipient (when

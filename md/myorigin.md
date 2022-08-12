@@ -1,4 +1,4 @@
-# myorigin (default:$; 
+# myorigin (default:$ 
 
 
 The domain name that locally-posted mail appears to come

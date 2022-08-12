@@ -1,4 +1,4 @@
-# owner_request_special (default:yes); 
+# owner_request_special (default:yes) 
 
 
 Enable special treatment for owner-listname entries in the

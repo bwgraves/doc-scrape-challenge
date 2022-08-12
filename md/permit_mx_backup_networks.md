@@ -1,4 +1,4 @@
-# permit_mx_backup_networks (default:empty); 
+# permit_mx_backup_networks (default:empty) 
 
 
 Restrict the use of the permit_mx_backup SMTP access feature to

@@ -1,4 +1,4 @@
-# lmtp_sasl_tls_verified_security_options (default:$; 
+# lmtp_sasl_tls_verified_security_options (default:$ 
 
  The LMTP-specific version of the
 smtp_sasl_tls_verified_security_options configuration parameter.

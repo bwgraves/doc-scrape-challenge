@@ -1,4 +1,4 @@
-# expand_owner_alias (default:no); 
+# expand_owner_alias (default:no) 
 
 
 When delivering to an alias "aliasname" that has an

@@ -1,4 +1,4 @@
-# smtp_tls_dkey_file (default:$; 
+# smtp_tls_dkey_file (default:$ 
 
  File with the Postfix SMTP client DSA private key in PEM format.
 This file may be combined with the Postfix SMTP client DSA certificate

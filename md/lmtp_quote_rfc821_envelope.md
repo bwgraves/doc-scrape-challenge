@@ -1,4 +1,4 @@
-# lmtp_quote_rfc821_envelope (default:yes); 
+# lmtp_quote_rfc821_envelope (default:yes) 
 
  The LMTP-specific version of the smtp_quote_rfc821_envelope
 configuration parameter.  See there for details. 

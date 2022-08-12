@@ -1,4 +1,4 @@
-# lmtp_tls_wrappermode (default:no); 
+# lmtp_tls_wrappermode (default:no) 
 
  The LMTP-specific version of the smtp_tls_wrappermode configuration
 parameter. See there for details. 

@@ -1,4 +1,4 @@
-# process_id_directory (default:pid); 
+# process_id_directory (default:pid) 
 
 
 The location of Postfix PID files relative to $queue_directory.

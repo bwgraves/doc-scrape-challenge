@@ -1,4 +1,4 @@
-# virtual_mailbox_domains (default:$; 
+# virtual_mailbox_domains (default:$ 
 
  Postfix is the final destination for the specified list of domains;
 mail is delivered via the $virtual_transport mail delivery transport.

@@ -1,4 +1,4 @@
-# virtual_alias_domains (default:$; 
+# virtual_alias_domains (default:$ 
 
  Postfix is the final destination for the specified list of virtual
 alias domains, that is, domains for which all addresses are aliased

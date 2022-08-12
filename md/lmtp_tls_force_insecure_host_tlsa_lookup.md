@@ -1,4 +1,4 @@
-# lmtp_tls_force_insecure_host_tlsa_lookup (default:no); 
+# lmtp_tls_force_insecure_host_tlsa_lookup (default:no) 
 
  The LMTP-specific version of the smtp_tls_force_insecure_host_tlsa_lookup
 configuration parameter.  See there for details. 

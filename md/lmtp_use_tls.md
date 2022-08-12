@@ -1,4 +1,4 @@
-# lmtp_use_tls (default:no); 
+# lmtp_use_tls (default:no) 
 
  The LMTP-specific version of the smtp_use_tls configuration
 parameter.  See there for details. 

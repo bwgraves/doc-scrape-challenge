@@ -1,4 +1,4 @@
-# virtual_maps (default:empty); 
+# virtual_maps (default:empty) 
 
  Optional lookup tables with a) names of domains for which all
 addresses are aliased to addresses in other local or remote domains,

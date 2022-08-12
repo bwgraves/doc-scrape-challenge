@@ -1,4 +1,4 @@
-# readme_directory (default:see"postconf-d"output); 
+# readme_directory (default:see"postconf-d"output) 
 
 
 The location of Postfix README files that describe how to build,

@@ -1,4 +1,4 @@
-# notify_classes (default:resource,software); 
+# notify_classes (default:resource,software) 
 
 
 The list of error classes that are reported to the postmaster. These

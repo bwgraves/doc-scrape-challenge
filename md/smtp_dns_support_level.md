@@ -1,4 +1,4 @@
-# smtp_dns_support_level (default:empty); 
+# smtp_dns_support_level (default:empty) 
 
  Level of DNS support in the Postfix SMTP client.  With
 "smtp_dns_support_level" left at its empty default value, the legacy

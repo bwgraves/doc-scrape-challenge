@@ -1,4 +1,4 @@
-# smtp_fallback_relay (default:$; 
+# smtp_fallback_relay (default:$ 
 
  Optional list of relay destinations that will be used when an
 SMTP destination is not found, or when delivery fails due to a

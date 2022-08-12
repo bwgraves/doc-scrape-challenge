@@ -1,4 +1,4 @@
-# defer_code (default:450); 
+# defer_code (default:450) 
 
 
 The numerical Postfix SMTP server response code when a remote SMTP

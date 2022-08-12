@@ -1,4 +1,4 @@
-# forward_path (default:see"postconf-d"output); 
+# forward_path (default:see"postconf-d"output) 
 
  The local(8) delivery agent search list for finding a .forward
 file with user-specified delivery methods. The first file that is

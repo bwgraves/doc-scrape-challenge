@@ -1,4 +1,4 @@
-# default_filter_nexthop (default:empty); 
+# default_filter_nexthop (default:empty) 
 
  When a content_filter or FILTER request specifies no explicit
 next-hop destination, use $default_filter_nexthop instead; when

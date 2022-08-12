@@ -1,4 +1,4 @@
-# disable_mime_input_processing (default:no); 
+# disable_mime_input_processing (default:no) 
 
 
 Turn off MIME processing while receiving mail. This means that no

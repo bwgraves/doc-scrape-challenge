@@ -1,4 +1,4 @@
-# default_destination_rate_delay (default:0s); 
+# default_destination_rate_delay (default:0s) 
 
  The default amount of delay that is inserted between individual
 message deliveries to the same destination and over the same message

@@ -1,4 +1,4 @@
-# postscreen_dnsbl_action (default:ignore); 
+# postscreen_dnsbl_action (default:ignore) 
 
 The action that postscreen(8) takes when a remote SMTP client's combined
 DNSBL score is equal to or greater than a threshold (as defined

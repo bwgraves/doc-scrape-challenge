@@ -1,4 +1,4 @@
-# anvil_status_update_time (default:600s); 
+# anvil_status_update_time (default:600s) 
 
 
 How frequently the anvil(8) connection and rate limiting server

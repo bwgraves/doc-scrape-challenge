@@ -1,4 +1,4 @@
-# smtpd_soft_error_limit (default:10); 
+# smtpd_soft_error_limit (default:10) 
 
 
 The number of errors a remote SMTP client is allowed to make without

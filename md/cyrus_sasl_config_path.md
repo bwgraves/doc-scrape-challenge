@@ -1,4 +1,4 @@
-# cyrus_sasl_config_path (default:empty); 
+# cyrus_sasl_config_path (default:empty) 
 
  Search path for Cyrus SASL application configuration files,
 currently used only to locate the $smtpd_sasl_path.conf file.

@@ -1,4 +1,4 @@
-# address_verify_cache_cleanup_interval (default:12h); 
+# address_verify_cache_cleanup_interval (default:12h) 
 
  The amount of time between verify(8) address verification
 database cleanup runs. This feature requires that the database

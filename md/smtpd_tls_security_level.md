@@ -1,4 +1,4 @@
-# smtpd_tls_security_level (default:empty); 
+# smtpd_tls_security_level (default:empty) 
 
  The SMTP TLS security level for the Postfix SMTP server; when
 a non-empty value is specified, this overrides the obsolete parameters
